@@ -1,0 +1,4 @@
+
+x = eval(input())
+y = eval(input())
+print( contar(x,y) )

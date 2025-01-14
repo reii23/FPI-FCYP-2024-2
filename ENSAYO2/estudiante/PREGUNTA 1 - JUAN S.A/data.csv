@@ -1,0 +1,1001 @@
+ID,NOMBRE,APELLIDO,ACTIVO,COMPANY,MAIL,LATITUD,LONGITUD,FECHA_ENTREGA,ULTIMA_ENTREGA,CANTIDAD,MONTO
+CHL-1974-714030,maighdiln,hommell,True,BluePeak,maighdiln.hommell@bluepeak.com,16°9'3'' S,113°40'6'' E,2024/10/26,2021/3/14,24T,$15888
+GHA-1990-689203,gilli,bodiroga,False,PrimeShift Labs,gilli.bodiroga@primeshift_labs.com,9°26'39'' N,145°48'31'' W,2023/10/9,2020/5/5,64T,$59776
+TUR-1988-201164,tiffany,peavey,False,RedCore,tiffany.peavey@redcore.com,24°21'47'' N,132°59'48'' E,2023/5/6,2022/8/7,51T,$30702
+ZAF-1955-713040,odelle,moine,True,BlueEdge Labs,odelle.moine@blueedge_labs.com,81°28'17'' S,5°54'50'' E,2022/3/9,2023/2/20,16T,$14608
+AUS-1951-724410,deni,delonais,True,FutureTech Labs,deni.delonais@futuretech_labs.com,85°13'30'' S,56°13'8'' E,2021/3/13,2022/6/2,94T,$52076
+GBR-1972-482210,paige,kolenda,True,VisionEdge,paige.kolenda@visionedge.com,6°41'15'' N,80°18'14'' E,2024/8/10,2020/1/13,64T,$57344
+GHA-1955-905001,lexine,lopata,True,BoldTech,lexine.lopata@boldtech.com,47°58'3'' N,139°44'52'' E,2022/11/6,2021/12/14,44T,$29832
+ESP-2005-779808,ettie,costine,True,PeakCraft,ettie.costine@peakcraft.com,66°27'49'' S,13°17'49'' E,2022/1/8,2020/2/21,25T,$13675
+KEN-2024-675087,lilli,bobic,False,InnovateWave,lilli.bobic@innovatewave.com,82°36'31'' N,56°31'51'' W,2024/5/25,2021/1/6,74T,$56758
+FRA-2011-873629,micaela,haraguchi,False,PureVision,micaela.haraguchi@purevision.com,64°29'20'' S,27°18'5'' W,2020/3/3,2023/11/3,71T,$52398
+JPN-2013-596550,eimile,coppin,False,DigitalFusion,eimile.coppin@digitalfusion.com,78°57'52'' S,6°57'23'' E,2021/12/6,2022/8/17,51T,$33507
+CHN-1991-115434,elsie,loxton,True,NewEra Networks,elsie.loxton@newera_networks.com,16°7'22'' S,169°55'6'' W,2023/12/9,2024/6/25,68T,$45764
+VNM-2014-309839,kissee,byington,False,NextFrontier,kissee.byington@nextfrontier.com,67°4'1'' S,81°55'59'' E,2021/9/18,2022/8/7,81T,$48681
+ECU-1986-143180,ilyssa,dashner,True,InnovationForge,ilyssa.dashner@innovationforge.com,81°41'56'' S,77°50'47'' W,2021/8/9,2023/4/18,47T,$31302
+TUN-2011-477045,sibbie,cracchiolo,False,BoldShift,sibbie.cracchiolo@boldshift.com,66°7'42'' S,26°2'12'' E,2021/3/13,2020/3/17,60T,$30660
+DEU-1976-529807,debby,zalusky,True,QuantumHarbor,debby.zalusky@quantumharbor.com,44°50'54'' S,16°49'21'' W,2024/12/1,2023/8/5,12T,$11148
+GHA-2006-759198,mariquilla,kratzer,True,ClearSky Technologies,mariquilla.kratzer@clearsky_technologies.com,24°19'0'' N,123°53'29'' E,2023/11/12,2021/6/2,87T,$73341
+RUS-1976-128853,ira,agostino,True,BluePeak Enterprises,ira.agostino@bluepeak_enterprises.com,88°21'45'' S,53°17'53'' W,2022/11/1,2023/7/27,70T,$48860
+NGA-2001-288889,amberly,kalenak,False,OptimaWorks,amberly.kalenak@optimaworks.com,43°54'26'' S,173°5'20'' W,2021/10/13,2023/3/25,35T,$23065
+DEU-1985-896510,cariotta,almasi,False,VisionaryRise,cariotta.almasi@visionaryrise.com,46°37'18'' S,76°32'25'' W,2022/3/15,2024/8/14,79T,$68809
+THA-1958-857099,raynell,bosco,True,Visionary Labs,raynell.bosco@visionary_labs.com,85°57'15'' N,61°29'8'' W,2023/5/21,2023/7/25,25T,$23625
+PHL-1993-931039,laurene,dipietrantoni,True,NextEdge Solutions,laurene.dipietrantoni@nextedge_solutions.com,35°49'21'' S,97°48'13'' W,2022/7/13,2020/9/18,44T,$34584
+COL-2010-950378,freddi,middleton,True,TechVision Labs,freddi.middleton@techvision_labs.com,1°48'32'' N,156°44'15'' E,2020/12/18,2021/12/7,68T,$36312
+USA-1986-334650,briney,guillory,True,QuantumEdge,briney.guillory@quantumedge.com,47°36'39'' N,7°1'49'' W,2022/5/26,2020/11/3,100T,$75300
+EGY-1956-433348,cara,kuyper,False,SwiftTech,cara.kuyper@swifttech.com,23°23'11'' N,11°28'13'' E,2021/4/19,2021/4/8,82T,$46412
+PHL-1967-739338,maudie,knows,False,NextWave Tech,maudie.knows@nextwave_tech.com,78°22'53'' N,63°25'43'' W,2023/2/15,2023/8/11,53T,$44891
+ETH-1974-992410,farica,sadvary,False,CoreRise,farica.sadvary@corerise.com,51°18'54'' N,144°3'32'' W,2024/5/19,2024/7/17,26T,$21762
+BRA-2002-548108,marguerite,whitson,False,FutureTech,marguerite.whitson@futuretech.com,47°22'19'' N,100°21'42'' E,2021/4/26,2020/6/22,80T,$65840
+NLD-1965-538650,astrix,zirin,True,NextWave Tech,astrix.zirin@nextwave_tech.com,57°56'34'' S,45°37'43'' W,2023/4/25,2020/4/17,63T,$50400
+FRA-2015-852468,gwendolin,tarvin,True,PureTech,gwendolin.tarvin@puretech.com,60°51'58'' S,66°50'57'' W,2021/8/18,2020/12/11,90T,$64620
+BRA-1963-454083,donica,volo,True,QuantumTech Labs,donica.volo@quantumtech_labs.com,45°15'32'' N,176°26'22'' W,2022/8/2,2024/8/26,70T,$42000
+FRA-1962-206593,kaila,shanor,True,EvolvTech,kaila.shanor@evolvtech.com,60°27'40'' N,32°24'48'' W,2020/12/8,2024/3/18,58T,$29522
+TUR-2005-942319,roch,offner,True,TechVision,roch.offner@techvision.com,75°50'34'' S,126°0'42'' W,2020/6/13,2022/4/25,64T,$54912
+NZL-1961-899992,katrina,marinoni,False,PeakCraft,katrina.marinoni@peakcraft.com,75°5'42'' N,46°0'17'' E,2024/3/5,2024/3/2,21T,$10542
+TUN-1995-442717,nanon,osmanski,True,TechEdge Solutions,nanon.osmanski@techedge_solutions.com,38°28'37'' N,176°52'49'' W,2020/5/4,2020/4/5,19T,$18278
+UGA-1961-819714,jobye,shipton,True,FutureLabs,jobye.shipton@futurelabs.com,25°8'54'' S,87°49'27'' W,2023/3/21,2020/6/16,52T,$37388
+MEX-1984-889100,clarie,mcclucas,False,BrightHarbor,clarie.mcclucas@brightharbor.com,41°19'37'' N,25°9'14'' E,2022/8/7,2024/12/15,14T,$10934
+MEX-2012-324332,alidia,achekian,False,BrightCore,alidia.achekian@brightcore.com,56°16'35'' N,90°48'16'' W,2021/7/9,2022/5/13,30T,$23340
+CAN-1960-601251,eddy,candido,False,EdgeLabs,eddy.candido@edgelabs.com,89°48'13'' N,121°9'49'' E,2021/11/13,2020/9/12,82T,$60352
+SWE-1972-963390,rafa,ostrye,True,BrightPath Systems,rafa.ostrye@brightpath_systems.com,27°47'18'' N,80°17'22'' E,2023/2/14,2020/1/19,80T,$69520
+NZL-1979-289459,andee,byran,True,TechPrime,andee.byran@techprime.com,69°27'1'' N,164°5'20'' W,2020/10/16,2020/10/1,30T,$23130
+DEU-1998-109040,nerissa,marlene,True,FusionPeak,nerissa.marlene@fusionpeak.com,49°59'29'' S,19°37'18'' E,2024/11/23,2020/4/27,14T,$12726
+TUN-2007-854775,charity,guel,True,ClearShift,charity.guel@clearshift.com,8°13'36'' N,92°59'46'' E,2024/9/11,2020/11/9,75T,$67500
+SGP-1992-283266,gael,frankenfeld,False,TechTide Labs,gael.frankenfeld@techtide_labs.com,25°52'38'' N,38°31'28'' E,2023/8/13,2023/7/3,67T,$45024
+UGA-2023-964004,noami,cappelluti,True,RedVision,noami.cappelluti@redvision.com,59°48'11'' N,51°24'9'' W,2023/9/3,2020/10/25,61T,$44225
+TUR-2016-238095,othelia,donkervoet,True,FusionEdge Labs,othelia.donkervoet@fusionedge_labs.com,61°24'35'' S,102°15'3'' W,2021/1/13,2023/1/10,69T,$64653
+NLD-2008-663715,rozalin,sunn,True,BrightTide,rozalin.sunn@brighttide.com,25°51'3'' S,42°32'41'' W,2022/3/15,2024/6/12,72T,$72000
+DZA-2024-673105,ceciley,aguallo,False,RedHarbor,ceciley.aguallo@redharbor.com,46°18'38'' S,91°30'17'' W,2022/3/15,2020/8/19,51T,$40647
+ITA-1971-204217,nathalia,czap,False,SkyEdge,nathalia.czap@skyedge.com,15°3'30'' N,167°30'12'' E,2020/8/20,2020/7/24,62T,$54126
+SAU-1969-853007,elsinore,pajerski,False,CoreStream,elsinore.pajerski@corestream.com,49°50'48'' S,121°31'2'' E,2021/11/20,2021/10/12,75T,$71175
+POL-1976-202840,roanne,krostag,True,NextCraft Labs,roanne.krostag@nextcraft_labs.com,58°23'12'' N,12°43'10'' E,2021/1/16,2024/12/12,38T,$22420
+THA-1993-792410,del,strawther,True,PeakFusion,del.strawther@peakfusion.com,4°35'2'' N,74°28'17'' E,2024/6/10,2021/6/20,44T,$31812
+THA-2001-866516,natala,wintermute,False,SkyVision,natala.wintermute@skyvision.com,70°37'35'' N,35°20'24'' W,2022/5/22,2022/5/9,66T,$33462
+JPN-1957-164484,deloris,shack,False,QuantumCraft,deloris.shack@quantumcraft.com,54°24'16'' S,173°40'49'' E,2020/2/8,2021/1/21,62T,$58838
+WSM-2010-159909,cari,petty,True,RedShift Labs,cari.petty@redshift_labs.com,87°19'40'' N,1°55'6'' W,2023/5/26,2022/3/16,50T,$47450
+THA-1985-358735,charil,crescenti,True,GlobalStream,charil.crescenti@globalstream.com,48°21'50'' N,151°9'28'' W,2020/9/9,2021/1/1,54T,$34236
+JPN-1984-656292,almeria,kolarik,True,FutureWorks,almeria.kolarik@futureworks.com,77°11'18'' N,66°51'29'' E,2020/7/3,2021/2/25,48T,$44784
+NLD-1995-685811,aila,broom,True,IntelliTech,aila.broom@intellitech.com,57°26'19'' S,113°12'44'' W,2021/8/22,2020/8/9,60T,$56640
+FJI-1997-390280,jackie,beranek,False,FocusWave,jackie.beranek@focuswave.com,61°17'28'' N,114°37'54'' E,2024/6/10,2023/8/23,69T,$59547
+CHE-1952-175447,clementine,cornford,True,CleverSpark,clementine.cornford@cleverspark.com,28°37'50'' N,178°28'46'' W,2022/11/9,2020/3/26,81T,$75816
+VNM-1975-717590,karil,zelada,False,TechFusion,karil.zelada@techfusion.com,76°58'14'' N,28°3'13'' W,2021/8/24,2022/11/20,91T,$61971
+TUR-1967-276180,viviene,shoemake,True,Visionary Labs,viviene.shoemake@visionary_labs.com,42°57'11'' S,131°45'28'' W,2023/9/15,2021/10/18,100T,$64000
+SWE-2018-931011,mei,weyers,True,BrightCraft,mei.weyers@brightcraft.com,72°29'8'' N,45°29'55'' W,2020/7/12,2021/3/22,53T,$42718
+CHE-2011-548162,sabra,lebon,True,StarBridge,sabra.lebon@starbridge.com,15°11'49'' N,58°7'17'' W,2023/12/18,2020/11/24,35T,$19250
+ARG-2023-304840,rhetta,winnicki,True,FusionCore Solutions,rhetta.winnicki@fusioncore_solutions.com,4°44'51'' S,60°14'31'' W,2021/8/1,2024/10/13,22T,$18876
+COL-2016-909204,celesta,disimone,False,FutureHarbor,celesta.disimone@futureharbor.com,47°26'24'' N,86°25'17'' W,2020/10/5,2020/2/27,17T,$10506
+PNG-2018-496342,sisely,scarnato,True,TechFusion Solutions,sisely.scarnato@techfusion_solutions.com,72°27'58'' S,121°13'44'' E,2020/9/23,2020/4/22,18T,$12042
+PHL-1990-898542,nerita,pinales,False,OpalTech,nerita.pinales@opaltech.com,24°41'55'' N,42°22'8'' W,2020/2/20,2023/12/3,84T,$80220
+VNM-2015-450668,deborah,rockey,True,TechTide,deborah.rockey@techtide.com,27°20'33'' N,61°51'34'' W,2022/3/26,2024/12/21,90T,$47250
+FRA-1951-525405,christel,pennington,True,RedCore,christel.pennington@redcore.com,1°15'46'' N,6°10'43'' E,2024/8/26,2024/9/1,86T,$84452
+BRA-1966-885990,wilmette,taddio,False,SwiftTech Labs,wilmette.taddio@swifttech_labs.com,32°25'47'' N,116°18'38'' W,2024/8/11,2021/10/8,84T,$83748
+PER-1997-549994,yetta,hasselbarth,True,SwiftPath,yetta.hasselbarth@swiftpath.com,14°39'25'' N,64°26'38'' E,2024/4/1,2023/11/21,15T,$11370
+MEX-1992-960783,josephine,cancer,True,TechForge,josephine.cancer@techforge.com,9°41'50'' N,19°14'38'' W,2023/6/20,2023/4/25,76T,$42028
+SGP-2004-700926,harli,kohler,True,SkyFlow,harli.kohler@skyflow.com,74°20'7'' S,164°25'33'' W,2020/9/14,2024/1/22,26T,$15834
+SGP-2002-907979,lynnea,imperatore,False,TechVanguard Labs,lynnea.imperatore@techvanguard_labs.com,49°51'21'' N,32°58'4'' E,2023/9/24,2023/11/2,93T,$68355
+NLD-1957-112856,jacquelin,blommel,True,TrueFusion,jacquelin.blommel@truefusion.com,71°35'31'' S,171°17'15'' E,2022/11/25,2024/6/20,24T,$16560
+TUN-1998-309966,irita,hodder,False,RedShift Systems,irita.hodder@redshift_systems.com,83°31'40'' S,145°59'43'' E,2022/3/12,2023/2/8,94T,$49350
+SAU-1957-537729,lesya,croak,True,FusionPoint,lesya.croak@fusionpoint.com,34°4'49'' N,76°0'7'' W,2022/11/26,2020/8/7,43T,$35346
+AUS-1976-520009,reba,oley,False,GreenWave,reba.oley@greenwave.com,39°31'7'' S,27°7'54'' E,2024/1/13,2023/12/16,59T,$37229
+EGY-1991-334197,felita,tyon,True,BrightTide Labs,felita.tyon@brighttide_labs.com,66°34'39'' N,70°25'54'' E,2024/9/1,2020/3/14,77T,$66220
+CHL-1983-506133,hillary,wurst,False,MomentumTech,hillary.wurst@momentumtech.com,50°48'40'' S,16°56'34'' W,2021/8/26,2021/8/11,17T,$8959
+CAN-2013-861371,joanne,bober,True,SkyTide,joanne.bober@skytide.com,49°29'24'' N,13°19'1'' E,2024/2/2,2020/8/27,33T,$16566
+NZL-2004-406723,yasmeen,been,True,BlueRise,yasmeen.been@bluerise.com,6°1'30'' N,131°12'51'' E,2020/5/3,2021/3/26,62T,$31062
+KEN-1977-293215,kathlin,konzen,False,TechVanguard,kathlin.konzen@techvanguard.com,40°4'54'' S,38°10'50'' W,2022/4/22,2023/12/10,55T,$49390
+SGP-1953-403893,helaine,sarr,False,BrightFusion Labs,helaine.sarr@brightfusion_labs.com,40°37'7'' S,126°14'17'' E,2024/1/25,2022/6/20,52T,$33852
+PER-1954-660972,myrtia,vasso,True,FutureBridge,myrtia.vasso@futurebridge.com,40°36'59'' S,172°32'11'' W,2022/12/4,2023/7/9,65T,$59800
+SWE-1959-703623,lexy,waltos,True,CoreShift,lexy.waltos@coreshift.com,1°36'10'' S,54°54'57'' W,2024/6/4,2022/12/27,73T,$50297
+VEN-2006-816689,janina,gattie,False,TechNext,janina.gattie@technext.com,19°13'19'' S,164°16'17'' E,2021/9/22,2022/2/18,33T,$26103
+GBR-1984-621025,peta,sapper,True,PrimeTech,peta.sapper@primetech.com,21°40'28'' S,43°44'2'' E,2020/7/1,2023/2/21,95T,$82080
+IND-1958-376292,erma,verhague,True,IntelliTech,erma.verhague@intellitech.com,81°7'17'' S,17°49'33'' E,2021/10/4,2022/11/23,73T,$58327
+NZL-1973-682358,viviana,marriot,False,ElevateLabs,viviana.marriot@elevatelabs.com,32°13'55'' N,96°48'24'' E,2023/1/25,2020/6/19,41T,$30791
+VEN-1976-172783,anita,casillo,False,TechHarbor Solutions,anita.casillo@techharbor_solutions.com,46°28'46'' S,146°1'33'' W,2020/5/18,2022/4/5,54T,$52380
+CHL-1966-492869,marjorie,eckstein,True,BrightBridge,marjorie.eckstein@brightbridge.com,41°8'52'' N,65°13'53'' W,2023/10/17,2021/12/2,83T,$58764
+DZA-1980-923721,shelley,holbach,False,FusionLabs,shelley.holbach@fusionlabs.com,9°56'51'' S,65°16'2'' W,2023/3/22,2020/7/8,73T,$60809
+TUR-2003-932724,keriann,willmann,False,RedPath,keriann.willmann@redpath.com,75°41'47'' S,90°46'11'' E,2023/6/11,2024/2/25,64T,$53312
+MEX-2022-394793,cherey,veteto,True,OptimaWorks,cherey.veteto@optimaworks.com,21°2'33'' S,4°51'3'' E,2023/5/7,2020/2/22,19T,$9880
+DZA-2000-151811,carmelita,beagan,False,EdgeWorks,carmelita.beagan@edgeworks.com,37°41'58'' N,6°5'17'' E,2020/6/4,2022/9/25,39T,$34086
+CHL-1962-512936,gusty,saric,True,FutureLabs,gusty.saric@futurelabs.com,42°34'21'' S,127°38'49'' E,2024/5/10,2024/8/20,53T,$37789
+ESP-2009-725526,tersina,lamela,False,MegaTech,tersina.lamela@megatech.com,59°38'26'' N,167°8'52'' W,2022/8/23,2020/4/2,52T,$49868
+COL-2001-875974,gail,kennet,True,FusionLabs,gail.kennet@fusionlabs.com,6°50'10'' S,99°47'17'' E,2022/12/2,2020/2/14,69T,$56097
+FRA-1983-838754,enrichetta,paczkowski,False,PeakFusion,enrichetta.paczkowski@peakfusion.com,17°56'35'' N,136°15'13'' W,2024/9/10,2021/1/12,23T,$12213
+RUS-1979-610589,trixie,odil,True,EdgeLabs,trixie.odil@edgelabs.com,54°14'58'' S,49°21'30'' E,2022/12/13,2022/5/26,43T,$34013
+VEN-2016-390596,melisa,torell,True,InnovativeHarbor,melisa.torell@innovativeharbor.com,51°53'20'' S,103°33'24'' W,2020/3/11,2024/12/21,97T,$66930
+SGP-1954-367031,carena,stady,True,FutureWorks,carena.stady@futureworks.com,18°55'10'' S,63°38'30'' W,2022/6/2,2024/7/3,31T,$30969
+EGY-1970-782645,deirdre,corna,True,BlueSky Networks,deirdre.corna@bluesky_networks.com,76°5'20'' S,86°22'54'' W,2022/6/26,2021/9/7,58T,$32016
+KEN-1977-271194,angelia,gavalis,True,EverRise Enterprises,angelia.gavalis@everrise_enterprises.com,54°15'42'' S,54°35'32'' W,2024/12/18,2023/5/17,90T,$82080
+THA-1970-713305,arlie,grimes,True,BlueCore,arlie.grimes@bluecore.com,13°25'31'' N,29°3'11'' W,2022/5/8,2020/5/7,14T,$12936
+BRA-2009-635993,merilee,blaine,True,InnovativePath,merilee.blaine@innovativepath.com,18°50'53'' S,126°6'34'' W,2021/5/2,2024/12/24,66T,$53130
+KOR-1994-848712,zondra,veselka,False,SkyBridge Solutions,zondra.veselka@skybridge_solutions.com,68°13'31'' N,62°20'17'' E,2020/9/8,2021/11/13,36T,$29124
+CAN-2009-760303,shelba,kiphart,True,CorePath,shelba.kiphart@corepath.com,31°36'6'' N,95°37'51'' W,2022/9/5,2020/12/18,94T,$54614
+RUS-1963-686846,ninon,scherrman,True,CoreVision,ninon.scherrman@corevision.com,87°36'47'' S,94°57'51'' E,2020/6/19,2021/10/26,77T,$64218
+USA-1958-889189,ellette,zeiders,True,BoldTech,ellette.zeiders@boldtech.com,12°4'28'' N,92°0'32'' W,2021/3/11,2022/8/16,91T,$58422
+USA-2010-806831,callie,dumag,True,RedPeak Solutions,callie.dumag@redpeak_solutions.com,60°55'35'' S,56°39'15'' W,2020/11/16,2021/5/5,88T,$69432
+ITA-1970-928208,claretta,chasnoff,True,ElevateTech Labs,claretta.chasnoff@elevatetech_labs.com,85°59'12'' S,10°31'22'' E,2021/6/22,2022/7/26,33T,$30096
+AUS-1995-721040,sallee,levers,True,FocusWave,sallee.levers@focuswave.com,33°45'58'' S,35°5'18'' W,2021/12/9,2020/4/18,11T,$8283
+NGA-1962-284536,gertruda,frederic,True,FutureHarbor Labs,gertruda.frederic@futureharbor_labs.com,49°22'15'' N,70°53'17'' W,2022/9/19,2023/12/8,82T,$72816
+MAR-1972-729675,lois,leopold,True,TechBridge,lois.leopold@techbridge.com,48°26'18'' N,27°43'58'' E,2024/8/8,2022/10/12,32T,$31904
+ETH-1997-436304,estell,ackland,True,ClearFusion,estell.ackland@clearfusion.com,18°45'0'' S,107°20'6'' E,2021/6/6,2023/4/25,31T,$30380
+PNG-1987-967798,junia,perches,False,TechEdge Solutions,junia.perches@techedge_solutions.com,5°23'12'' S,170°5'13'' E,2024/4/2,2023/3/10,60T,$45180
+GHA-2015-657882,florinda,truont,False,QuantumShift,florinda.truont@quantumshift.com,0°5'55'' S,152°45'32'' E,2023/6/26,2024/4/4,89T,$60965
+EGY-1968-444763,reeta,paduano,False,PeakLabs,reeta.paduano@peaklabs.com,41°1'30'' N,155°41'9'' W,2020/12/15,2020/8/1,65T,$52130
+JPN-1963-327880,kaitlyn,troesch,False,StarBridge,kaitlyn.troesch@starbridge.com,34°38'1'' N,18°39'53'' W,2024/5/5,2021/6/11,21T,$18186
+KEN-2015-842662,adriena,kennamer,True,EdgeWorks Labs,adriena.kennamer@edgeworks_labs.com,23°15'36'' N,91°5'52'' W,2021/3/23,2023/1/11,47T,$27918
+CHL-2001-326815,antonia,mcclusky,True,PrimeEdge Solutions,antonia.mcclusky@primeedge_solutions.com,0°58'49'' N,160°56'27'' E,2023/6/26,2022/8/7,33T,$25641
+VEN-2005-889900,alexis,raven,True,FusionCore Solutions,alexis.raven@fusioncore_solutions.com,77°27'37'' S,19°0'46'' W,2020/9/19,2022/7/22,86T,$85398
+ESP-2002-321686,becka,stealy,True,RedFusion,becka.stealy@redfusion.com,36°37'47'' N,178°51'33'' W,2023/5/26,2024/5/15,84T,$74844
+WSM-2007-216254,anthe,vear,True,NextTech Solutions,anthe.vear@nexttech_solutions.com,30°18'29'' S,149°16'22'' E,2024/12/22,2022/9/12,70T,$41440
+COL-1980-332231,loleta,barcello,True,BoldShift,loleta.barcello@boldshift.com,48°23'1'' N,29°20'0'' W,2020/7/21,2024/7/1,17T,$13362
+PER-1983-247638,friederike,jumbo,False,BrightCore Systems,friederike.jumbo@brightcore_systems.com,65°55'55'' N,73°41'6'' W,2024/6/19,2020/9/5,37T,$22977
+BRA-2020-592909,katharine,loosey,True,BrightCore,katharine.loosey@brightcore.com,30°54'32'' N,13°18'22'' W,2023/4/9,2023/7/22,41T,$38335
+ETH-1966-798521,cordelie,olgvin,False,EvolvTech,cordelie.olgvin@evolvtech.com,17°9'3'' S,124°10'20'' E,2024/9/12,2020/3/27,75T,$55425
+DZA-2024-893118,scarlet,olenski,False,TechEdge Solutions,scarlet.olenski@techedge_solutions.com,10°48'33'' S,115°13'7'' E,2024/7/18,2023/12/17,65T,$39650
+MEX-1980-414653,rebbecca,peyatt,True,FusionPrime,rebbecca.peyatt@fusionprime.com,76°15'18'' S,38°2'14'' W,2021/3/11,2021/5/2,62T,$53754
+GBR-1992-518993,nolana,svenson,True,DigitalFusion,nolana.svenson@digitalfusion.com,86°37'43'' S,66°16'6'' W,2024/8/1,2024/5/12,13T,$12831
+PER-1960-159454,esma,molpus,True,FutureTech Labs,esma.molpus@futuretech_labs.com,38°38'45'' N,52°41'20'' W,2024/4/7,2020/10/1,24T,$22008
+PNG-2016-202436,dana,solages,True,PureVision,dana.solages@purevision.com,24°6'52'' N,149°42'3'' E,2020/9/16,2020/9/4,14T,$10178
+NGA-1986-365993,herta,frohock,True,NexTier Solutions,herta.frohock@nextier_solutions.com,88°45'40'' N,122°56'46'' E,2020/9/20,2022/7/4,25T,$15850
+KEN-1963-984670,gratiana,waybright,True,NovaFusion,gratiana.waybright@novafusion.com,47°43'6'' N,66°26'3'' W,2022/4/15,2020/1/12,29T,$18821
+WSM-1997-491371,devinne,floyd,True,TechStream,devinne.floyd@techstream.com,28°31'9'' S,171°1'45'' E,2022/12/11,2021/5/25,71T,$41819
+FRA-1972-532201,jerrine,sakakeeny,False,FusionPrime Labs,jerrine.sakakeeny@fusionprime_labs.com,8°41'32'' N,168°9'3'' W,2021/5/16,2022/8/8,76T,$54264
+POL-1959-927513,mimi,binienda,True,NeoTech,mimi.binienda@neotech.com,12°19'46'' N,12°28'43'' W,2024/1/8,2023/2/5,73T,$68912
+ARG-2019-161167,coraline,evoy,False,TechBridge Labs,coraline.evoy@techbridge_labs.com,27°2'6'' N,49°38'37'' E,2021/10/2,2023/3/27,28T,$27916
+ECU-2001-515984,lila,theinert,True,SwiftVision,lila.theinert@swiftvision.com,43°12'0'' S,120°16'0'' E,2022/2/14,2021/7/3,90T,$51930
+GBR-1979-675441,berthe,tweten,False,VividPath Labs,berthe.tweten@vividpath_labs.com,46°56'36'' N,141°18'49'' E,2020/2/27,2024/2/20,21T,$12264
+VNM-2012-534117,gwendolyn,bartelson,True,VisionLabs,gwendolyn.bartelson@visionlabs.com,28°33'48'' N,154°25'57'' W,2021/2/13,2020/8/9,90T,$45810
+BRA-1980-739168,miriam,vergara,True,EdgeLabs,miriam.vergara@edgelabs.com,33°7'32'' N,27°0'50'' W,2022/9/11,2024/6/5,85T,$59160
+EGY-2024-520150,emmy,hor,False,TechEdge,emmy.hor@techedge.com,63°23'50'' S,172°23'43'' W,2022/1/8,2024/12/19,81T,$63261
+USA-2024-152303,tami,barak,True,BlueShift Solutions,tami.barak@blueshift_solutions.com,83°26'55'' S,13°3'25'' W,2024/6/18,2022/1/15,81T,$62937
+COL-1989-208906,brigit,medak,True,SkyTech,brigit.medak@skytech.com,29°23'44'' S,165°59'32'' E,2024/6/19,2024/12/3,35T,$25830
+NZL-2000-491914,emera,valentine,True,FusionShift Labs,emera.valentine@fusionshift_labs.com,21°50'6'' S,173°51'14'' E,2024/7/4,2020/12/18,56T,$47376
+GBR-1968-765333,ulrika,spire,True,DigitalPath,ulrika.spire@digitalpath.com,76°50'3'' S,74°48'53'' E,2023/7/3,2024/10/19,50T,$43700
+THA-1991-351652,halley,tomlison,False,BrightTech Solutions,halley.tomlison@brighttech_solutions.com,9°43'22'' N,93°39'1'' W,2020/1/3,2024/5/9,91T,$84721
+NZL-1997-579547,penelopa,puraty,False,IntelliWave,penelopa.puraty@intelliwave.com,26°14'17'' N,5°7'0'' W,2022/4/10,2024/5/2,19T,$15447
+PNG-1954-752572,alyssa,homburg,False,AlphaLabs,alyssa.homburg@alphalabs.com,76°47'3'' N,64°46'49'' E,2023/7/4,2020/5/2,24T,$13992
+SAU-1952-640125,harlie,hochstatter,True,SkyEdge,harlie.hochstatter@skyedge.com,24°39'32'' S,155°7'43'' W,2023/3/4,2024/5/27,40T,$38720
+POL-1965-369319,janean,whiteside,True,NextFusion,janean.whiteside@nextfusion.com,73°7'13'' S,178°42'6'' W,2024/10/13,2020/3/15,90T,$89370
+VNM-1968-754711,francine,hartzog,True,FutureLabs,francine.hartzog@futurelabs.com,41°8'33'' N,23°20'3'' E,2022/10/27,2022/1/19,33T,$23793
+ETH-1970-564411,druci,orantes,True,NextVision,druci.orantes@nextvision.com,31°14'38'' N,68°56'26'' E,2024/1/22,2021/4/26,79T,$58223
+VEN-2017-799729,doe,byro,True,RedWave Solutions,doe.byro@redwave_solutions.com,33°4'31'' N,20°40'4'' E,2022/4/7,2020/5/18,26T,$22620
+CHE-1992-885936,lyndel,corado,True,TrueEdge,lyndel.corado@trueedge.com,11°2'5'' N,77°10'2'' E,2022/12/2,2024/4/23,85T,$59500
+TUR-2004-515679,robyn,deklerk,False,BluePrime,robyn.deklerk@blueprime.com,29°5'17'' S,84°25'8'' E,2024/3/1,2023/8/13,16T,$13136
+CHL-1999-597229,cammy,brookfield,True,VisionEdge,cammy.brookfield@visionedge.com,8°18'57'' N,18°23'22'' E,2022/11/13,2024/1/11,57T,$41382
+VEN-1963-782409,martha,villata,False,ApexVision,martha.villata@apexvision.com,83°49'54'' S,118°34'11'' E,2021/10/3,2021/10/2,38T,$35682
+PHL-1980-262369,blinnie,korby,False,QuantumWorks,blinnie.korby@quantumworks.com,0°15'41'' N,136°6'52'' E,2020/6/3,2023/5/18,84T,$42000
+DEU-1984-438010,cynde,bredeson,True,RedTech Labs,cynde.bredeson@redtech_labs.com,75°22'35'' S,109°3'54'' W,2020/9/21,2024/12/20,93T,$65937
+USA-1982-330589,carly,miravalle,True,SkyShift,carly.miravalle@skyshift.com,47°43'25'' S,145°3'23'' W,2023/7/26,2020/8/5,23T,$18055
+ARG-1953-284751,amabelle,forst,True,RedWave Solutions,amabelle.forst@redwave_solutions.com,13°9'51'' S,82°57'2'' W,2020/3/21,2020/12/11,65T,$57460
+JPN-2010-546755,bernardine,gundlach,True,TechRise Solutions,bernardine.gundlach@techrise_solutions.com,80°19'6'' S,19°41'59'' W,2023/4/21,2020/6/16,81T,$69903
+CHN-2021-880693,ariella,muninger,True,TechVanguard Labs,ariella.muninger@techvanguard_labs.com,86°16'50'' N,114°56'25'' E,2022/8/1,2022/6/23,90T,$51390
+ESP-2014-637688,tricia,hackborn,True,CyberTide,tricia.hackborn@cybertide.com,54°17'13'' N,61°46'22'' W,2021/1/24,2023/3/5,25T,$12925
+GHA-1998-172613,mathilde,pengra,True,NextEdge,mathilde.pengra@nextedge.com,37°30'54'' S,29°11'28'' E,2020/5/21,2022/11/26,57T,$37734
+SAU-1983-416335,marcile,keiffer,False,TruePath,marcile.keiffer@truepath.com,2°52'44'' S,113°25'7'' E,2020/3/20,2023/8/12,61T,$32452
+ECU-2020-703443,elisabet,elahi,False,TechStream Labs,elisabet.elahi@techstream_labs.com,9°12'4'' S,99°17'51'' W,2024/7/26,2024/7/14,91T,$74984
+FRA-2014-582225,stormi,bigney,True,FutureLabs,stormi.bigney@futurelabs.com,43°29'34'' S,55°9'14'' W,2024/4/24,2020/9/16,93T,$51615
+KEN-2018-133159,yoshiko,helmen,True,FutureLabs,yoshiko.helmen@futurelabs.com,46°55'40'' S,10°15'45'' E,2023/12/20,2020/7/22,24T,$14592
+KOR-1995-795884,emmalynn,lesa,False,BluePeak Enterprises,emmalynn.lesa@bluepeak_enterprises.com,13°21'9'' N,49°39'21'' E,2023/6/23,2022/2/22,18T,$15912
+COL-1999-360967,serene,cieri,True,SkyEdge,serene.cieri@skyedge.com,84°50'21'' S,168°32'1'' W,2023/7/19,2024/5/17,90T,$71370
+NLD-1980-743399,marga,ferrara,True,ElevateWorks,marga.ferrara@elevateworks.com,75°19'5'' N,109°38'58'' E,2023/6/5,2024/3/24,79T,$47716
+ECU-2010-395143,kimberli,reinhold,False,AlphaStream,kimberli.reinhold@alphastream.com,84°45'57'' S,105°5'21'' E,2021/6/10,2024/6/5,44T,$32516
+MEX-1998-910301,leonelle,zavattieri,True,EvolvTech,leonelle.zavattieri@evolvtech.com,31°51'19'' S,107°2'21'' W,2022/3/22,2020/3/8,10T,$5410
+AUS-1971-349506,krissy,butner,True,TechPrime,krissy.butner@techprime.com,88°13'45'' S,134°28'47'' E,2021/6/7,2020/7/16,20T,$16300
+SWE-2005-531099,margeaux,other,False,PrimeWave,margeaux.other@primewave.com,80°14'40'' S,139°56'42'' E,2020/3/6,2023/7/24,34T,$32606
+TUN-1962-960510,stesha,falha,False,BlueFusion,stesha.falha@bluefusion.com,21°49'2'' N,178°4'23'' E,2024/4/1,2020/6/13,58T,$57478
+KEN-1967-763134,jessamyn,janosek,True,ApexVision,jessamyn.janosek@apexvision.com,14°28'11'' N,109°45'25'' E,2021/11/24,2020/10/27,43T,$40463
+ETH-2020-121458,coreen,evanko,True,SwiftPath,coreen.evanko@swiftpath.com,60°54'5'' N,0°34'55'' W,2023/6/17,2020/6/11,77T,$70763
+CHL-2000-874143,cosetta,lorraine,False,AlphaStream,cosetta.lorraine@alphastream.com,59°14'56'' N,156°19'48'' E,2020/2/11,2020/8/5,68T,$38828
+CHL-2022-798901,shandee,machle,False,DigitalCraft,shandee.machle@digitalcraft.com,8°44'14'' S,153°29'39'' E,2020/2/14,2021/7/3,81T,$64962
+CHL-2015-778218,toni,merchant,True,NextEdge Solutions,toni.merchant@nextedge_solutions.com,32°20'45'' N,5°30'50'' E,2022/1/19,2022/8/4,92T,$53452
+RUS-2003-820033,devora,dinsmore,True,EonWave,devora.dinsmore@eonwave.com,62°59'21'' N,39°36'11'' E,2023/10/26,2021/11/7,75T,$65775
+MAR-1982-208594,sosanna,kemmeries,False,GreenWave,sosanna.kemmeries@greenwave.com,21°58'40'' N,24°10'36'' W,2021/7/8,2020/7/21,60T,$44760
+GHA-1961-871563,marsiella,schweigert,True,TechHarbor Solutions,marsiella.schweigert@techharbor_solutions.com,32°10'13'' S,119°54'9'' E,2020/8/19,2020/9/27,37T,$30821
+TUN-2019-709129,domini,scobie,False,VisionFlow,domini.scobie@visionflow.com,69°8'56'' S,16°27'46'' W,2023/9/9,2022/10/13,93T,$55800
+TUN-1961-637249,petronia,latten,True,ElevateWorks,petronia.latten@elevateworks.com,7°41'35'' N,172°27'51'' W,2020/4/7,2021/11/21,36T,$20016
+KOR-1958-345678,sabine,clever,False,VividEdge,sabine.clever@vividedge.com,35°36'39'' S,158°48'5'' E,2022/9/27,2023/10/1,37T,$27602
+GBR-2003-180722,morena,lohmann,True,RedWave Solutions,morena.lohmann@redwave_solutions.com,84°44'55'' N,114°24'26'' W,2024/4/2,2024/6/15,43T,$28380
+KOR-1977-899700,waneta,ashbourne,True,InnovaX,waneta.ashbourne@innovax.com,58°28'47'' N,153°30'37'' W,2021/8/21,2023/8/27,73T,$66941
+NZL-1981-665444,abigail,copp,True,VividHarbor,abigail.copp@vividharbor.com,52°20'56'' N,160°42'5'' W,2022/3/6,2022/5/2,64T,$52032
+CHN-1983-888663,marie-jeanne,mantano,False,NovaPath,marie-jeanne.mantano@novapath.com,76°35'30'' S,133°6'13'' E,2020/5/3,2024/12/6,91T,$63336
+THA-1995-468453,anabel,saldano,True,NextEdge,anabel.saldano@nextedge.com,25°50'37'' S,33°2'49'' E,2023/11/23,2022/1/23,35T,$30275
+COL-1984-486678,manon,deshotel,True,BlueCore,manon.deshotel@bluecore.com,8°28'26'' S,99°52'43'' W,2021/4/3,2020/2/19,78T,$73632
+MEX-1979-322847,chandra,hetz,True,RedWave Solutions,chandra.hetz@redwave_solutions.com,14°47'25'' S,20°25'34'' E,2022/3/1,2021/11/9,65T,$32955
+DEU-1991-484629,saundra,griesinger,False,NextHarbor,saundra.griesinger@nextharbor.com,89°2'27'' S,126°33'2'' E,2024/9/13,2024/6/2,59T,$46669
+SGP-2020-736315,fanchon,ritmiller,False,TechNest,fanchon.ritmiller@technest.com,62°25'3'' N,70°1'4'' E,2021/12/19,2021/9/12,91T,$81081
+ARG-1973-194090,brittney,cookerly,True,BlueFusion,brittney.cookerly@bluefusion.com,30°19'2'' N,60°38'29'' W,2023/6/7,2024/4/5,85T,$60605
+UGA-1995-455586,brittani,barrineau,True,InnovativeHarbor,brittani.barrineau@innovativeharbor.com,9°41'38'' N,135°28'51'' E,2022/4/13,2021/3/14,84T,$76440
+ARG-1969-286326,codee,fjeld,True,VividPrime,codee.fjeld@vividprime.com,64°33'10'' N,70°36'16'' E,2023/6/14,2023/4/27,61T,$31964
+CHN-1964-196514,jacklin,patriquin,True,FutureHarbor,jacklin.patriquin@futureharbor.com,13°37'53'' N,164°31'25'' W,2020/5/27,2021/7/27,95T,$60610
+NZL-2016-627077,marielle,dotzler,True,PeakFusion,marielle.dotzler@peakfusion.com,69°18'3'' S,138°43'12'' W,2023/10/20,2022/8/17,58T,$39962
+RUS-1989-693374,hertha,bethard,True,OptimaWorks,hertha.bethard@optimaworks.com,3°53'30'' N,110°13'5'' W,2021/9/20,2020/4/24,84T,$52920
+THA-1978-957799,poppy,cronon,True,NextFrontier,poppy.cronon@nextfrontier.com,68°23'30'' S,141°52'2'' E,2021/7/18,2021/4/27,10T,$8470
+CHN-1965-650457,aurlie,maragno,False,EvoTech,aurlie.maragno@evotech.com,80°6'54'' N,63°50'58'' E,2020/4/7,2022/8/21,94T,$53862
+NZL-1986-791619,hesther,colleen,False,SmartHarbor,hesther.colleen@smartharbor.com,28°42'10'' S,167°31'15'' E,2023/8/9,2020/5/14,31T,$23529
+PHL-1958-623565,samaria,sotos,True,EvolveLabs,samaria.sotos@evolvelabs.com,67°51'29'' S,172°6'24'' E,2022/2/8,2022/4/12,13T,$10777
+USA-1981-953998,lib,pardall,True,TechBridge,lib.pardall@techbridge.com,77°12'36'' N,137°11'5'' W,2021/8/9,2022/4/2,42T,$27258
+THA-1974-107607,oneida,sheridan,False,BrightTide Labs,oneida.sheridan@brighttide_labs.com,32°24'0'' S,46°53'3'' E,2022/5/18,2024/8/23,25T,$20525
+ECU-2019-557370,issi,pleau,True,Quantum Solutions,issi.pleau@quantum_solutions.com,26°59'45'' S,108°59'45'' E,2021/7/20,2020/7/19,29T,$15370
+PNG-2010-841587,teressa,vidro,True,SkyBridge Solutions,teressa.vidro@skybridge_solutions.com,76°22'24'' S,137°4'4'' E,2023/7/7,2020/10/14,13T,$10608
+CHL-2020-215985,teddy,vyas,True,BlueCore,teddy.vyas@bluecore.com,73°28'24'' S,33°37'44'' E,2021/2/18,2021/8/17,34T,$28288
+CHE-1953-930022,sile,dolly,True,SwiftLabs,sile.dolly@swiftlabs.com,42°26'44'' N,69°19'44'' E,2023/3/2,2023/5/11,39T,$32721
+CHN-1954-850804,addia,bryum,True,FusionX,addia.bryum@fusionx.com,28°39'47'' N,108°33'45'' W,2021/7/27,2020/2/15,86T,$66994
+TUN-2020-299828,karlie,balsano,True,StreamEdge,karlie.balsano@streamedge.com,84°40'47'' N,0°23'24'' E,2021/11/3,2023/7/24,40T,$37480
+ECU-2010-981104,robby,robicheau,False,RedSpark,robby.robicheau@redspark.com,75°39'44'' S,89°24'31'' W,2021/4/3,2021/11/27,53T,$27507
+NZL-1995-537193,cassandry,laflame,False,FusionTide Labs,cassandry.laflame@fusiontide_labs.com,16°50'8'' S,113°3'15'' W,2024/6/23,2021/2/16,14T,$13510
+TUN-2024-183550,laney,schryver,True,InnovativeVision,laney.schryver@innovativevision.com,34°30'47'' S,121°14'6'' E,2022/4/5,2020/2/17,43T,$28724
+SGP-1998-278379,micky,francese,False,EcoFusion,micky.francese@ecofusion.com,7°55'30'' S,71°16'12'' W,2020/4/20,2024/7/10,23T,$21689
+BRA-2021-901109,jolyn,spycher,True,BrightBridge,jolyn.spycher@brightbridge.com,16°30'39'' S,123°44'33'' W,2020/7/6,2023/2/4,95T,$72580
+SWE-1994-836583,faustina,vanta,True,NextWave Tech,faustina.vanta@nextwave_tech.com,68°38'20'' S,58°15'32'' W,2021/5/23,2022/7/20,43T,$37152
+POL-1992-843470,valeria,rubinich,True,SkyTech,valeria.rubinich@skytech.com,71°32'39'' N,152°32'54'' W,2023/7/5,2021/4/2,82T,$72816
+KEN-1952-410442,kerrill,carozza,False,BrightShift,kerrill.carozza@brightshift.com,57°10'5'' N,51°13'59'' W,2024/2/18,2024/3/21,30T,$29370
+WSM-1999-242252,dennie,butrick,True,TechVanguard,dennie.butrick@techvanguard.com,85°42'12'' S,148°54'19'' E,2021/10/7,2024/7/13,83T,$64823
+DEU-1961-948001,biddy,sweezer,True,FusionPoint,biddy.sweezer@fusionpoint.com,71°25'45'' N,173°31'14'' E,2021/5/14,2022/9/17,69T,$56028
+ARG-1981-524583,traci,pittmon,True,FusionEdge Labs,traci.pittmon@fusionedge_labs.com,40°7'26'' S,59°19'32'' W,2021/8/13,2022/11/27,76T,$49856
+NLD-2002-642958,sophey,cromeens,True,EvoTech,sophey.cromeens@evotech.com,38°41'21'' S,71°44'22'' E,2024/5/10,2020/7/16,70T,$55160
+ZAF-2007-123415,felicia,lingberg,True,TechNex,felicia.lingberg@technex.com,39°36'47'' S,110°23'47'' E,2022/9/22,2023/4/6,97T,$69549
+PHL-1970-397970,verile,gilhooley,True,NextWave Tech,verile.gilhooley@nextwave_tech.com,40°13'51'' N,51°59'16'' W,2024/8/12,2021/12/9,12T,$10440
+FJI-2004-164400,harmonia,ariel,True,IntelliTech,harmonia.ariel@intellitech.com,7°0'17'' S,79°51'50'' W,2020/10/11,2021/5/14,11T,$6523
+POL-1996-247272,dode,opdahl,False,StreamWave,dode.opdahl@streamwave.com,77°31'35'' S,120°5'22'' E,2022/7/8,2021/3/26,31T,$25265
+TUN-1988-991888,marinna,smerdon,True,RedFusion,marinna.smerdon@redfusion.com,17°14'12'' N,137°31'28'' E,2022/11/14,2021/3/18,22T,$21296
+THA-2010-209046,kelcie,gilbo,True,FutureStream,kelcie.gilbo@futurestream.com,89°38'38'' S,172°41'48'' W,2020/6/27,2023/12/5,94T,$81028
+KEN-1992-623936,gill,yarber,True,FusionEdge,gill.yarber@fusionedge.com,77°16'8'' N,51°56'48'' W,2020/9/1,2022/5/11,35T,$28035
+POL-1961-990390,amelie,astor,True,OpalTech,amelie.astor@opaltech.com,33°27'9'' N,134°40'5'' W,2022/2/12,2023/5/20,77T,$67067
+ETH-1982-759461,gert,montville,False,SwiftShift,gert.montville@swiftshift.com,46°15'56'' N,90°54'19'' W,2023/6/23,2023/11/5,57T,$29013
+TUN-1999-508360,theresina,bomar,True,QuantumTech Labs,theresina.bomar@quantumtech_labs.com,82°34'12'' N,23°31'23'' W,2023/12/11,2022/6/22,99T,$69795
+USA-2006-299093,dianne,burgs,True,DynamicRoots,dianne.burgs@dynamicroots.com,62°19'55'' N,115°40'4'' W,2024/2/11,2024/5/10,39T,$22347
+NZL-2020-793302,georgianne,urteaga,False,TrueLabs,georgianne.urteaga@truelabs.com,9°18'50'' N,9°51'24'' E,2021/4/3,2024/6/19,86T,$66822
+VEN-2014-554599,betty,rosch,False,RedTech,betty.rosch@redtech.com,38°25'29'' S,137°32'11'' E,2023/4/7,2021/4/25,80T,$75760
+UGA-2021-431720,leonie,heys,False,EdgeLabs,leonie.heys@edgelabs.com,58°34'6'' S,98°44'37'' W,2020/6/21,2023/7/13,96T,$48864
+TUN-1954-224729,dorice,sankary,True,RedSpark,dorice.sankary@redspark.com,1°43'47'' S,149°11'23'' E,2021/1/13,2022/6/6,58T,$49880
+NZL-2023-945467,evania,zanco,True,ElevateWorks,evania.zanco@elevateworks.com,25°13'54'' N,80°44'31'' W,2021/3/19,2021/7/6,89T,$50730
+PER-1988-528195,cordi,grenier,True,PureTech,cordi.grenier@puretech.com,6°43'46'' N,144°7'42'' W,2020/8/2,2021/12/22,35T,$30975
+JPN-2001-523716,beverie,calvo,False,PeakShift,beverie.calvo@peakshift.com,4°18'38'' S,17°53'41'' E,2023/10/8,2022/7/3,58T,$31146
+DEU-1981-380579,celina,sulin,True,FuturePrime,celina.sulin@futureprime.com,37°36'34'' S,20°31'41'' E,2024/9/7,2020/5/1,29T,$18734
+ZAF-1958-641025,timothea,heinold,True,ClearShift,timothea.heinold@clearshift.com,88°19'39'' N,74°39'37'' E,2020/2/12,2022/3/22,51T,$47583
+JPN-2010-319238,brittaney,reuer,True,NextEra Solutions,brittaney.reuer@nextera_solutions.com,72°16'18'' S,148°8'14'' E,2022/12/20,2024/3/6,68T,$55896
+DZA-2007-952477,ashleigh,oehl,True,VividEdge,ashleigh.oehl@vividedge.com,74°3'14'' N,116°58'26'' E,2023/10/19,2022/8/12,95T,$69635
+THA-2009-449261,brandise,rajewski,False,FutureWorks,brandise.rajewski@futureworks.com,72°35'44'' S,74°4'13'' W,2021/8/1,2024/12/15,81T,$68040
+JPN-2010-549250,sadella,buza,True,PrimeEdge Solutions,sadella.buza@primeedge_solutions.com,11°47'20'' N,51°40'46'' E,2023/2/19,2022/11/6,47T,$31772
+TUN-2014-212609,farrand,eredia,False,TechRise Labs,farrand.eredia@techrise_labs.com,68°25'43'' S,72°0'33'' E,2024/1/4,2021/4/12,92T,$82800
+NGA-2019-532600,missy,lagrange,True,CoreStream,missy.lagrange@corestream.com,81°37'0'' N,161°19'16'' E,2022/1/9,2024/12/11,87T,$67512
+CHL-1970-681326,delores,furrow,True,DigitalPath,delores.furrow@digitalpath.com,68°0'40'' N,179°26'18'' E,2024/10/8,2021/3/3,69T,$48438
+USA-1953-298557,sarita,seckman,False,QuantumWorks,sarita.seckman@quantumworks.com,4°43'56'' S,107°54'52'' W,2024/2/4,2021/10/16,18T,$9414
+KEN-1958-932717,terry,hidden,True,TechRise,terry.hidden@techrise.com,68°28'1'' N,61°1'9'' W,2023/7/26,2020/10/9,97T,$51022
+WSM-1992-163480,haley,ferry,False,VividPath,haley.ferry@vividpath.com,30°21'59'' S,113°51'49'' E,2024/10/4,2024/4/10,97T,$93702
+CHE-1950-351514,dannie,masaitis,True,FusionX,dannie.masaitis@fusionx.com,29°46'52'' N,90°39'6'' E,2024/3/12,2020/6/5,36T,$19800
+RUS-1992-278627,liuka,heglin,True,BlueRise,liuka.heglin@bluerise.com,81°1'54'' S,40°44'58'' W,2020/2/15,2022/3/19,33T,$18183
+COL-1993-614156,melicent,ellen,True,InnovativeVision,melicent.ellen@innovativevision.com,4°37'48'' N,99°20'6'' E,2023/11/23,2020/3/7,72T,$60192
+TUN-1982-392332,ertha,ragula,True,BoldShift,ertha.ragula@boldshift.com,69°55'38'' N,101°15'21'' E,2024/6/13,2023/9/16,73T,$59057
+FJI-1960-138980,merci,ausherman,True,PeakCraft,merci.ausherman@peakcraft.com,41°19'30'' S,50°41'38'' E,2020/2/27,2024/9/1,41T,$29438
+NLD-2014-266746,tamarah,zella,True,SparkTech,tamarah.zella@sparktech.com,44°59'54'' S,19°21'14'' W,2024/8/13,2024/6/22,42T,$29358
+USA-1996-576947,anallese,menlove,True,SkyEdge,anallese.menlove@skyedge.com,82°30'32'' N,8°15'35'' W,2022/7/15,2023/3/14,14T,$7798
+ETH-2014-308478,patience,caflisch,True,TechRise,patience.caflisch@techrise.com,16°43'55'' S,47°58'6'' E,2024/2/9,2024/10/19,94T,$87138
+NZL-2016-657047,malissia,glenny,True,FusionCore,malissia.glenny@fusioncore.com,62°8'33'' S,168°16'37'' W,2024/5/2,2021/1/1,91T,$55601
+TUR-2009-382483,cornie,melrose,True,BoldShift,cornie.melrose@boldshift.com,83°38'57'' S,28°51'49'' E,2023/7/23,2021/12/13,45T,$31725
+TUN-2004-559528,valentia,yerby,True,ClearPath Labs,valentia.yerby@clearpath_labs.com,56°39'59'' S,123°15'47'' E,2021/12/5,2023/7/24,42T,$23856
+COL-1963-134921,evonne,hammerly,True,NextCraft Labs,evonne.hammerly@nextcraft_labs.com,72°11'34'' N,100°50'25'' W,2020/6/13,2023/4/18,42T,$22932
+KOR-1999-648287,coriss,montesinos,False,TechVision Labs,coriss.montesinos@techvision_labs.com,53°39'2'' N,6°48'30'' W,2024/12/5,2022/9/9,22T,$19492
+ITA-1986-850989,sallyanne,kuchler,False,NextVision Labs,sallyanne.kuchler@nextvision_labs.com,2°30'51'' N,77°49'32'' W,2020/4/20,2021/8/24,52T,$30784
+ZAF-1970-586308,allison,alegre,True,VisionaryCraft,allison.alegre@visionarycraft.com,15°40'32'' S,82°15'45'' E,2022/11/19,2023/5/11,52T,$45604
+PHL-2013-313060,dorothee,johnson,False,DigitalPath,dorothee.johnson@digitalpath.com,2°38'3'' N,164°40'32'' E,2020/1/14,2020/10/8,56T,$52528
+FJI-1998-227525,melesa,polkinghorn,True,SwiftTech Labs,melesa.polkinghorn@swifttech_labs.com,87°55'50'' N,96°32'49'' E,2022/3/25,2022/3/21,29T,$23809
+GHA-1978-691317,bonita,zakowski,True,VividEdge,bonita.zakowski@vividedge.com,77°58'26'' S,35°51'29'' W,2022/7/10,2024/9/6,53T,$30263
+UGA-1976-388425,frannie,rodriguez,True,VividTech,frannie.rodriguez@vividtech.com,4°12'46'' S,73°14'56'' W,2024/11/26,2021/11/14,76T,$69616
+USA-2017-502519,cherida,brasser,False,EdgeLabs,cherida.brasser@edgelabs.com,10°43'17'' N,31°3'22'' E,2023/4/23,2021/5/12,66T,$46926
+ARG-1985-803947,ketti,bisher,True,SkyTide,ketti.bisher@skytide.com,24°7'59'' S,145°30'44'' E,2024/9/19,2024/10/9,32T,$22144
+WSM-1969-557015,ortensia,belvin,True,CoreRise,ortensia.belvin@corerise.com,63°30'7'' N,49°13'50'' E,2022/8/8,2021/10/9,51T,$39576
+ITA-1957-806454,nonah,corse,False,SparkVision,nonah.corse@sparkvision.com,77°7'55'' S,103°1'46'' E,2020/10/10,2024/12/16,83T,$74534
+USA-1973-488729,chloe,keniry,True,FuturePeak,chloe.keniry@futurepeak.com,83°39'42'' S,3°14'56'' W,2021/9/20,2022/7/4,73T,$38471
+ETH-1967-582404,flo,weissgerber,True,VisionaryEdge,flo.weissgerber@visionaryedge.com,3°11'1'' S,58°53'27'' W,2020/12/8,2021/1/17,98T,$53802
+SAU-1964-566479,morgan,fallone,False,RapidFusion,morgan.fallone@rapidfusion.com,60°22'50'' S,66°58'5'' W,2024/2/11,2024/1/22,78T,$71994
+THA-1963-673077,heloise,sponholz,True,FutureFlow,heloise.sponholz@futureflow.com,33°30'11'' S,73°10'44'' E,2022/11/25,2023/9/20,15T,$11955
+CHE-2011-830035,lizabeth,linn,True,BrightRise,lizabeth.linn@brightrise.com,53°20'42'' S,175°50'20'' W,2021/10/22,2024/7/10,32T,$20352
+IND-1985-802982,mil,steinacker,True,RedShift Systems,mil.steinacker@redshift_systems.com,41°49'2'' S,88°34'17'' W,2021/8/20,2021/10/8,11T,$7051
+NLD-2021-546895,binni,etchinson,True,ElevateTech Labs,binni.etchinson@elevatetech_labs.com,86°59'57'' N,140°47'31'' W,2023/7/8,2022/8/13,12T,$11532
+GBR-2006-740508,myrah,hincks,True,SmartHarbor,myrah.hincks@smartharbor.com,17°10'57'' N,109°4'20'' W,2023/3/8,2020/9/13,97T,$81965
+NLD-1969-389866,annelise,rhoan,True,TechPulse Solutions,annelise.rhoan@techpulse_solutions.com,52°47'12'' N,73°20'18'' W,2022/12/15,2022/11/12,64T,$34048
+TUN-2011-357593,lorianne,sellek,True,CoreLabs,lorianne.sellek@corelabs.com,0°34'28'' S,113°24'54'' E,2021/6/19,2021/9/22,24T,$12072
+MAR-2016-779714,audi,cheramie,False,SwiftTech Labs,audi.cheramie@swifttech_labs.com,40°25'11'' N,172°23'32'' W,2023/12/15,2024/3/21,25T,$24675
+ARG-2011-941389,ulrica,duraku,True,SkyShift,ulrica.duraku@skyshift.com,12°54'0'' S,32°8'6'' E,2020/8/18,2020/11/4,34T,$32776
+DZA-2012-840209,lorenza,nanik,False,TechHarbor,lorenza.nanik@techharbor.com,60°29'53'' N,174°19'23'' W,2022/1/16,2021/9/7,60T,$32160
+MEX-1989-634184,silvana,thain,True,QuantumBridge,silvana.thain@quantumbridge.com,84°12'48'' N,96°40'20'' W,2024/10/22,2024/8/22,57T,$51015
+EGY-1965-493381,ferdinanda,starratt,False,SmartHarbor,ferdinanda.starratt@smartharbor.com,24°35'43'' N,88°9'18'' W,2024/2/11,2024/4/26,89T,$82859
+GBR-2007-782160,ida,burchette,True,TechVision Labs,ida.burchette@techvision_labs.com,13°33'22'' S,14°18'32'' E,2022/2/16,2023/3/4,75T,$42450
+NZL-1994-150385,beryle,rodenizer,False,BrightBridge,beryle.rodenizer@brightbridge.com,75°58'44'' N,88°50'1'' E,2022/12/3,2021/6/26,74T,$52096
+VNM-2009-703957,michele,bascombe,True,InnovationForge,michele.bascombe@innovationforge.com,37°17'23'' N,175°52'28'' W,2020/8/19,2024/2/15,48T,$29952
+JPN-1992-585686,shawna,lantaff,True,NextEdge Solutions,shawna.lantaff@nextedge_solutions.com,26°35'38'' S,175°36'23'' E,2023/12/5,2024/1/2,65T,$45370
+PHL-1965-754016,annamaria,mend,False,FutureCore,annamaria.mend@futurecore.com,77°32'21'' N,171°51'53'' W,2021/9/19,2020/1/18,62T,$34100
+POL-1976-127443,bernadine,rusi,False,NextEdge,bernadine.rusi@nextedge.com,52°7'38'' N,4°8'9'' E,2024/11/21,2022/9/13,16T,$12576
+AUS-1960-984935,alexina,picketts,False,BluePrime,alexina.picketts@blueprime.com,82°6'22'' N,146°1'33'' E,2020/7/4,2024/3/14,75T,$59475
+CHL-1999-596461,bianka,kackley,False,ClearShift,bianka.kackley@clearshift.com,36°32'44'' S,136°14'49'' E,2022/1/21,2024/9/5,99T,$66231
+KOR-2004-324878,tobye,bustad,True,TechRise Labs,tobye.bustad@techrise_labs.com,12°52'46'' S,11°48'27'' W,2023/2/16,2024/9/26,24T,$20880
+BRA-2022-733424,charissa,mikell,True,EdgePrime,charissa.mikell@edgeprime.com,53°47'10'' N,88°30'48'' W,2021/11/6,2020/1/11,34T,$21556
+DEU-2003-905630,melli,cardello,True,Zenith Partners,melli.cardello@zenith_partners.com,15°14'19'' N,44°10'40'' W,2024/6/18,2023/8/11,47T,$25521
+DEU-1971-391512,jewelle,schamp,True,TechCraft,jewelle.schamp@techcraft.com,36°50'6'' N,57°38'42'' E,2021/6/26,2022/5/16,76T,$74860
+ITA-2012-131322,rina,tako,True,FusionPath,rina.tako@fusionpath.com,10°46'9'' S,90°24'43'' E,2022/1/3,2022/11/23,26T,$22542
+DZA-2022-784690,bethanne,gendusa,False,SwiftCore,bethanne.gendusa@swiftcore.com,44°9'5'' S,41°14'55'' W,2020/7/25,2020/4/24,82T,$69044
+USA-1970-542777,fianna,outzen,False,DigitalFusion,fianna.outzen@digitalfusion.com,73°33'17'' S,55°26'2'' E,2021/7/11,2022/8/22,97T,$68385
+SAU-1950-717818,cami,odenwald,True,TechRise,cami.odenwald@techrise.com,23°55'30'' S,76°57'36'' W,2021/5/12,2023/9/12,35T,$34090
+ETH-1957-573673,nicole,maino,True,NextTech Prime,nicole.maino@nexttech_prime.com,74°44'52'' S,175°30'27'' W,2021/2/2,2023/11/26,57T,$37563
+COL-1970-127773,anneliese,burchess,True,SwiftEdge,anneliese.burchess@swiftedge.com,16°2'30'' N,111°22'24'' W,2020/5/9,2021/4/3,22T,$15004
+ZAF-2006-147464,torrie,emmette,True,QuantumShift,torrie.emmette@quantumshift.com,76°7'4'' N,61°11'17'' W,2020/5/4,2024/8/8,23T,$13409
+POL-1973-272962,ileane,mckibben,True,StratosLogic,ileane.mckibben@stratoslogic.com,1°41'3'' N,155°57'47'' W,2021/4/27,2022/6/2,18T,$13698
+MEX-2010-755672,alethea,licavoli,True,EvolvTech,alethea.licavoli@evolvtech.com,27°27'37'' N,158°28'24'' W,2024/3/18,2023/9/18,33T,$17886
+CHE-2001-930698,larine,loring,True,FusionVision,larine.loring@fusionvision.com,31°21'42'' S,67°5'47'' W,2022/2/7,2023/7/24,25T,$24050
+PHL-1969-790718,kissiah,olaya,True,ClearTech Labs,kissiah.olaya@cleartech_labs.com,22°37'26'' S,92°46'44'' W,2020/9/1,2021/4/6,91T,$63427
+THA-1998-295149,karlotte,gawrych,True,TechCraft,karlotte.gawrych@techcraft.com,2°44'11'' S,48°14'4'' E,2024/9/24,2020/5/18,62T,$50220
+GHA-1955-145056,mariellen,jarrel,False,StarBridge,mariellen.jarrel@starbridge.com,89°52'14'' N,158°50'55'' W,2024/7/18,2021/8/5,75T,$67500
+USA-1989-319971,barbie,schmitmeyer,True,FutureTide,barbie.schmitmeyer@futuretide.com,35°19'12'' S,151°46'29'' E,2023/10/22,2020/8/2,57T,$50274
+TUR-1991-385259,elora,scroggs,False,VisionLabs,elora.scroggs@visionlabs.com,63°11'51'' S,147°18'58'' W,2022/3/5,2021/2/8,84T,$60480
+CHN-1971-134889,christean,march,False,CoreLabs,christean.march@corelabs.com,49°8'54'' S,137°14'44'' W,2024/4/15,2021/5/6,37T,$35187
+CHE-1969-263352,dayle,danison,False,VividPath,dayle.danison@vividpath.com,19°54'36'' N,152°44'55'' E,2024/4/5,2023/8/27,88T,$56496
+CHN-2006-860634,constantina,bochenski,True,BrightCore,constantina.bochenski@brightcore.com,76°41'52'' S,163°40'21'' E,2022/1/2,2020/7/6,36T,$23364
+NLD-1976-721277,madelyn,heyn,False,StreamWave,madelyn.heyn@streamwave.com,54°40'22'' N,50°6'56'' E,2022/3/26,2021/8/17,32T,$20640
+GBR-1973-423137,shirlene,mauzey,True,GlobalStream,shirlene.mauzey@globalstream.com,14°37'12'' S,158°56'7'' E,2023/10/11,2022/1/17,39T,$31434
+BRA-1971-418654,benni,bisard,True,QuantumCraft,benni.bisard@quantumcraft.com,3°28'32'' S,143°26'49'' W,2020/5/18,2020/1/22,92T,$72956
+CHN-1991-450537,trescha,gjelaj,False,PeakShift,trescha.gjelaj@peakshift.com,72°58'21'' N,62°49'56'' W,2022/2/5,2021/3/1,56T,$51072
+BRA-1968-580595,rhona,frenner,True,NewHorizon Tech,rhona.frenner@newhorizon_tech.com,39°32'32'' N,73°44'38'' W,2022/4/14,2022/11/26,65T,$43095
+UGA-1977-315244,bell,lark,False,NextStep Tech,bell.lark@nextstep_tech.com,64°9'25'' S,165°55'50'' E,2022/1/25,2023/11/20,87T,$57246
+TUR-1958-466259,meredith,courson,False,QuantumPath,meredith.courson@quantumpath.com,19°36'6'' N,139°15'54'' W,2023/7/22,2021/1/1,38T,$27626
+VNM-1978-179196,leisha,meche,True,NextWave Tech,leisha.meche@nextwave_tech.com,2°41'56'' N,41°55'57'' E,2024/8/14,2024/4/12,75T,$49500
+COL-1992-164402,tiphani,wallenbrock,True,FusionSphere,tiphani.wallenbrock@fusionsphere.com,73°8'48'' N,27°49'7'' W,2022/10/1,2024/10/1,68T,$63172
+PHL-2011-614663,dorelia,stenslie,True,TechEdge Solutions,dorelia.stenslie@techedge_solutions.com,65°12'37'' N,149°22'52'' E,2022/7/16,2020/5/9,27T,$24705
+DZA-1972-703134,leora,calligaro,True,BrightCraft,leora.calligaro@brightcraft.com,51°25'46'' S,110°25'15'' E,2021/10/23,2023/12/2,17T,$12529
+GBR-2011-318403,marlee,caballero,False,ElevateTech,marlee.caballero@elevatetech.com,66°59'52'' S,30°23'58'' E,2022/11/7,2023/8/27,87T,$72819
+POL-1957-625775,tansy,alterman,True,ElevateX,tansy.alterman@elevatex.com,4°42'33'' N,145°26'14'' W,2020/2/23,2021/6/18,28T,$17080
+CHL-1998-187124,inge,boey,False,PureFusion Labs,inge.boey@purefusion_labs.com,78°37'20'' S,58°27'4'' W,2022/7/7,2021/6/23,22T,$19844
+POL-1966-690919,mufinella,harkrider,True,EdgeWorks,mufinella.harkrider@edgeworks.com,61°31'10'' S,144°31'54'' E,2023/11/6,2020/1/24,74T,$53132
+WSM-2018-415904,kellina,oxton,True,BrightFusion Labs,kellina.oxton@brightfusion_labs.com,29°1'36'' N,124°16'9'' E,2022/7/17,2024/11/23,49T,$28371
+THA-1982-108469,berna,nauarro,True,PeakForge,berna.nauarro@peakforge.com,12°8'9'' S,107°42'4'' E,2021/3/6,2021/9/23,46T,$23276
+NGA-1977-247871,lucine,viesca,True,FutureHarbor Labs,lucine.viesca@futureharbor_labs.com,21°46'28'' S,17°52'38'' W,2020/9/25,2023/8/1,32T,$25344
+CHL-2008-391020,gale,knutson,True,BlueRise,gale.knutson@bluerise.com,81°42'27'' N,122°7'11'' E,2024/1/22,2021/6/1,18T,$11448
+NGA-1984-533512,alexia,lauw,True,FusionLabs Solutions,alexia.lauw@fusionlabs_solutions.com,76°12'25'' N,18°50'16'' E,2020/1/20,2024/8/22,34T,$31926
+KEN-1972-883894,lurline,mintos,True,ElevateTech,lurline.mintos@elevatetech.com,19°8'43'' S,6°29'41'' W,2021/10/27,2021/1/17,77T,$51051
+GBR-1990-192923,mellie,colston,True,RapidFusion,mellie.colston@rapidfusion.com,23°33'37'' S,159°28'16'' E,2024/10/19,2023/4/25,90T,$73800
+IND-1976-427012,retha,sollenberger,True,RedVision,retha.sollenberger@redvision.com,52°41'55'' N,99°25'17'' W,2020/12/20,2020/3/9,71T,$67805
+MEX-1993-446369,blisse,shemper,True,RedFusion,blisse.shemper@redfusion.com,89°7'49'' N,108°31'48'' W,2022/1/21,2021/1/22,76T,$70452
+TUR-2021-898691,amandy,gibbard,False,DigitalEdge,amandy.gibbard@digitaledge.com,57°25'37'' N,127°21'46'' W,2020/4/24,2020/8/27,41T,$37228
+MAR-1952-137515,conchita,loewer,True,BrightPath Labs,conchita.loewer@brightpath_labs.com,15°34'0'' N,24°40'2'' W,2020/3/9,2020/7/18,97T,$57230
+SWE-1968-319478,chrystal,hoople,False,SilverLine,chrystal.hoople@silverline.com,54°32'40'' S,129°42'49'' E,2021/6/22,2020/2/13,76T,$49400
+DEU-2008-600295,angelina,tombrello,True,FutureHarbor,angelina.tombrello@futureharbor.com,31°23'53'' S,36°5'59'' W,2021/8/11,2021/2/25,16T,$13856
+NGA-1956-514560,ranice,bouton,False,RapidFusion,ranice.bouton@rapidfusion.com,0°27'28'' S,91°48'51'' W,2020/5/7,2022/8/11,73T,$62780
+JPN-1991-462627,phedra,noori,True,PureTech,phedra.noori@puretech.com,52°28'32'' S,138°16'15'' E,2020/1/27,2021/12/6,88T,$49720
+ITA-2023-416837,selinda,sicilian,False,BrightCraft,selinda.sicilian@brightcraft.com,53°23'58'' N,147°16'59'' W,2021/10/4,2024/12/14,17T,$9367
+BRA-1984-921881,gay,deavila,True,TruePath,gay.deavila@truepath.com,14°23'16'' N,153°53'11'' W,2021/11/13,2024/5/24,64T,$49024
+COL-2008-736436,jocelin,huppert,True,SkyPeak,jocelin.huppert@skypeak.com,80°59'59'' S,35°55'36'' W,2022/3/23,2021/1/14,96T,$87552
+ITA-2015-129470,elizabet,kessel,False,PrecisionEdge,elizabet.kessel@precisionedge.com,61°6'41'' N,100°1'0'' E,2023/2/23,2021/6/22,34T,$24480
+AUS-2007-912269,michelle,faus,True,QuantumTech Labs,michelle.faus@quantumtech_labs.com,62°20'25'' S,138°6'18'' E,2020/6/17,2020/10/12,16T,$14848
+ARG-1964-434295,genni,schrag,True,FusionSphere,genni.schrag@fusionsphere.com,33°25'37'' N,93°18'24'' E,2023/9/24,2020/8/26,92T,$83720
+ARG-2003-488010,andy,lininger,False,TechForge,andy.lininger@techforge.com,17°4'25'' S,86°8'14'' E,2020/12/10,2024/6/7,32T,$20992
+GHA-2001-131819,arda,huckabaa,False,SilverLine,arda.huckabaa@silverline.com,66°45'1'' N,42°56'14'' W,2021/11/1,2021/4/9,87T,$65076
+CHE-1960-271144,christabel,vissering,True,DigitalPath,christabel.vissering@digitalpath.com,5°29'34'' N,80°0'49'' W,2020/5/3,2022/10/1,14T,$9436
+NZL-1979-452454,holly,bryant,False,SwiftVision,holly.bryant@swiftvision.com,17°31'59'' N,144°39'49'' W,2021/7/8,2022/9/20,48T,$28416
+SGP-2013-711641,krista,iller,True,TechStream Labs,krista.iller@techstream_labs.com,67°31'48'' N,95°35'26'' E,2023/7/25,2022/12/25,21T,$15120
+THA-1971-141352,siobhan,lazurek,True,TrueFusion Labs,siobhan.lazurek@truefusion_labs.com,57°26'1'' N,121°53'41'' E,2024/9/12,2020/4/22,60T,$45360
+ITA-1992-806169,darcy,silence,True,TrueFusion Labs,darcy.silence@truefusion_labs.com,43°0'21'' S,88°2'18'' W,2020/11/8,2022/1/16,33T,$17523
+POL-1973-351385,bernelle,bursley,True,RedCraft,bernelle.bursley@redcraft.com,19°25'24'' S,131°51'2'' E,2021/4/13,2020/4/14,24T,$14880
+EGY-2008-791734,eba,chacon,False,TechPath,eba.chacon@techpath.com,61°6'33'' N,139°47'34'' W,2020/6/1,2024/3/18,42T,$28140
+TUN-1978-249031,zorah,mcgilton,True,VividPrime,zorah.mcgilton@vividprime.com,51°57'48'' N,118°33'1'' W,2020/11/19,2023/10/2,85T,$62560
+USA-2002-597855,carole,lovas,False,AlphaStream,carole.lovas@alphastream.com,62°24'22'' N,166°2'50'' W,2020/9/14,2023/8/3,44T,$40700
+EGY-1974-376758,marchelle,apicella,False,PeakFusion,marchelle.apicella@peakfusion.com,7°9'27'' N,78°19'20'' W,2024/10/22,2023/9/4,99T,$80685
+CHL-2017-232285,jodie,wagner,False,CoreEdge,jodie.wagner@coreedge.com,69°40'21'' S,9°59'13'' E,2020/12/23,2021/12/3,16T,$8416
+KEN-2022-396734,nissie,heirendt,True,BrightTech Labs,nissie.heirendt@brighttech_labs.com,88°50'51'' N,4°7'6'' W,2024/5/25,2022/4/13,47T,$40326
+NZL-1983-507806,ellynn,frum,False,BrightPath Labs,ellynn.frum@brightpath_labs.com,30°23'6'' S,124°49'25'' E,2020/3/4,2024/3/11,76T,$68400
+TUN-1958-876603,casandra,nirschl,True,NextStep Tech,casandra.nirschl@nextstep_tech.com,82°23'25'' N,112°26'16'' W,2022/9/27,2021/11/8,17T,$16524
+AUS-2005-790377,susette,sarna,False,TechNext,susette.sarna@technext.com,77°32'0'' N,95°26'54'' E,2020/5/20,2022/9/5,11T,$8426
+GBR-1983-878822,ronny,parlin,False,HorizonFlow,ronny.parlin@horizonflow.com,24°5'35'' N,163°33'8'' E,2024/6/2,2024/4/11,56T,$38864
+SAU-1995-773600,linnell,delmedico,True,VividFusion Labs,linnell.delmedico@vividfusion_labs.com,53°16'11'' S,13°56'32'' E,2023/10/10,2020/4/1,90T,$74520
+JPN-1987-364749,maureene,hazelrigg,True,ElevateX,maureene.hazelrigg@elevatex.com,25°40'3'' S,70°28'36'' E,2020/12/10,2023/6/11,46T,$44390
+TUR-1977-219759,ashli,cihak,True,CoreTech Solutions,ashli.cihak@coretech_solutions.com,47°7'39'' N,143°10'30'' E,2023/7/22,2022/6/4,65T,$51740
+CHN-1975-522250,calli,peacher,False,BluePeak Enterprises,calli.peacher@bluepeak_enterprises.com,68°1'59'' S,72°23'45'' E,2024/5/3,2022/4/13,57T,$34542
+VEN-1954-832014,alexi,forss,True,DigitalWave,alexi.forss@digitalwave.com,85°48'34'' S,138°20'23'' W,2022/5/10,2023/3/21,78T,$50544
+NZL-2011-527659,emili,urick,True,FuturePeak,emili.urick@futurepeak.com,70°4'37'' S,70°28'11'' W,2020/12/11,2020/2/13,66T,$47388
+GHA-1992-874490,maryl,courtoy,False,BrightPath,maryl.courtoy@brightpath.com,78°11'5'' S,17°23'0'' E,2021/4/14,2020/3/19,99T,$96426
+PER-1981-948481,susy,yoshikawa,False,FutureVision,susy.yoshikawa@futurevision.com,27°46'11'' S,99°39'0'' W,2023/4/27,2024/3/19,62T,$61876
+COL-1975-495569,elena,rogel,True,NextGenX,elena.rogel@nextgenx.com,69°12'43'' N,40°32'18'' E,2020/2/19,2021/9/9,67T,$47503
+COL-2009-156650,lidia,graffeo,True,SwiftEdge,lidia.graffeo@swiftedge.com,44°39'59'' N,129°56'35'' W,2022/6/12,2024/12/26,96T,$63936
+USA-1980-120305,lucia,fraley,False,NextFusion,lucia.fraley@nextfusion.com,62°29'58'' N,34°46'10'' E,2023/8/20,2020/8/14,84T,$83244
+UGA-1970-313904,mikaela,kunesh,False,BlueFusion,mikaela.kunesh@bluefusion.com,47°13'32'' S,138°15'38'' E,2022/4/24,2021/11/20,44T,$35156
+NLD-1954-543905,katlin,domio,False,InnovativeTech Labs,katlin.domio@innovativetech_labs.com,59°43'16'' N,156°22'18'' E,2024/1/23,2022/1/25,83T,$79431
+VNM-2002-835759,olivia,eacret,False,EdgePrime,olivia.eacret@edgeprime.com,81°54'37'' S,39°56'3'' E,2024/11/13,2024/8/8,46T,$30866
+RUS-1970-816997,gabrila,lorentz,True,VisionaryCraft,gabrila.lorentz@visionarycraft.com,68°10'42'' N,108°0'28'' W,2023/5/10,2021/12/20,41T,$21976
+EGY-1954-377140,cinnamon,delsol,True,PeakShift,cinnamon.delsol@peakshift.com,0°12'40'' N,2°58'19'' E,2021/1/18,2024/2/26,21T,$13608
+MEX-2004-213833,leilah,schrayter,True,FutureHarbor,leilah.schrayter@futureharbor.com,35°14'56'' N,152°21'18'' E,2024/9/26,2022/5/14,62T,$45012
+MEX-2001-869943,moselle,fernette,True,FutureTech Labs,moselle.fernette@futuretech_labs.com,0°31'37'' N,107°50'29'' W,2020/2/17,2022/7/26,50T,$30000
+PHL-2007-153005,claudie,tamlin,False,InnovaX,claudie.tamlin@innovax.com,5°20'25'' N,131°16'58'' W,2021/10/25,2024/12/24,100T,$81800
+DEU-1961-933589,melly,reimmer,False,Visionary Labs,melly.reimmer@visionary_labs.com,3°23'57'' N,107°7'41'' E,2022/1/18,2021/1/5,12T,$10872
+RUS-1971-699227,quintana,lemmen,True,FusionLabs,quintana.lemmen@fusionlabs.com,57°13'58'' N,6°37'17'' W,2020/11/12,2023/12/14,20T,$18800
+TUR-1969-210483,brigida,byrum,False,FusionTide,brigida.byrum@fusiontide.com,24°33'54'' N,3°29'13'' W,2023/8/6,2020/10/15,77T,$56749
+TUR-2021-491530,evangelin,venere,False,RedCore,evangelin.venere@redcore.com,33°58'20'' N,68°8'49'' E,2022/7/11,2021/4/10,57T,$34770
+GHA-2007-657320,rhonda,pettas,True,BlueShift Solutions,rhonda.pettas@blueshift_solutions.com,78°5'51'' S,154°57'58'' E,2021/10/16,2022/10/16,46T,$32016
+ARG-1988-469324,blondie,paulin,True,BlueFusion,blondie.paulin@bluefusion.com,0°24'43'' N,15°25'4'' E,2023/6/10,2022/1/18,45T,$31995
+EGY-2015-905124,nicki,prattella,True,VividHarbor,nicki.prattella@vividharbor.com,40°8'58'' N,117°28'43'' E,2021/1/10,2021/1/3,78T,$73632
+PHL-1964-948596,anabella,phinney,True,BluePrime,anabella.phinney@blueprime.com,37°12'1'' N,113°52'57'' E,2023/3/14,2021/12/1,38T,$27626
+ETH-1984-233569,clare,filion,True,Skyward Innovations,clare.filion@skyward_innovations.com,64°44'27'' S,75°44'28'' W,2022/1/10,2021/12/21,74T,$42106
+FRA-2022-771189,malinde,kyner,False,FusionPath,malinde.kyner@fusionpath.com,14°12'45'' S,77°19'41'' W,2022/8/8,2020/3/12,93T,$70308
+AUS-2011-141037,sharon,kephart,True,FusionPath,sharon.kephart@fusionpath.com,71°38'43'' S,40°56'55'' W,2024/11/6,2024/10/15,48T,$40896
+SGP-1996-353636,corey,strech,True,TrueVision,corey.strech@truevision.com,29°15'2'' S,63°33'48'' E,2020/1/17,2022/5/20,82T,$56662
+SAU-1998-687584,merralee,lacko,False,FusionCraft Labs,merralee.lacko@fusioncraft_labs.com,81°51'27'' S,67°17'12'' E,2021/1/24,2022/10/9,82T,$81180
+DEU-1971-176648,silvia,huelskamp,True,QuantumLeap,silvia.huelskamp@quantumleap.com,55°12'38'' N,1°14'18'' E,2023/5/11,2024/1/13,73T,$54750
+NGA-1978-908338,jany,inscho,False,PeakCraft,jany.inscho@peakcraft.com,67°28'24'' S,131°16'27'' W,2020/2/23,2021/10/2,99T,$68508
+POL-2019-131977,edithe,eaton,True,EvolveLabs,edithe.eaton@evolvelabs.com,20°52'21'' N,36°12'58'' E,2021/5/7,2022/1/10,13T,$11960
+DEU-2014-296996,davine,kingshott,True,PeakCraft,davine.kingshott@peakcraft.com,23°7'36'' N,131°4'46'' E,2023/9/27,2020/10/9,100T,$58800
+CAN-2006-284326,elsbeth,appleman,True,BlueShift Solutions,elsbeth.appleman@blueshift_solutions.com,2°39'22'' S,57°45'52'' W,2020/8/21,2023/11/27,16T,$15952
+DEU-2001-814167,darell,lummus,True,NovaPath,darell.lummus@novapath.com,56°34'51'' S,108°40'48'' W,2021/4/24,2024/4/8,19T,$13946
+EGY-1965-822961,wally,kindell,False,RedEdge,wally.kindell@rededge.com,3°59'25'' N,53°46'42'' W,2023/9/11,2021/10/22,100T,$79900
+NZL-2007-354467,thomasine,naegele,True,CrystalStream,thomasine.naegele@crystalstream.com,55°42'14'' N,109°52'15'' W,2020/12/16,2022/5/8,54T,$36882
+ETH-2022-784432,trista,werremeyer,False,BrightCore Labs,trista.werremeyer@brightcore_labs.com,69°24'58'' S,100°39'28'' W,2020/12/10,2024/6/16,37T,$33818
+RUS-1954-132063,cassaundra,zumbach,True,InnovativeTech Labs,cassaundra.zumbach@innovativetech_labs.com,1°41'12'' N,152°57'48'' W,2021/5/1,2021/9/13,78T,$39234
+SWE-1969-483092,brianne,zechiel,True,NextVision Labs,brianne.zechiel@nextvision_labs.com,6°20'22'' N,6°14'43'' W,2024/12/5,2023/10/5,69T,$58650
+JPN-2011-130683,marilin,lazos,False,ClearTech,marilin.lazos@cleartech.com,33°36'7'' N,92°20'12'' E,2021/3/9,2024/5/14,83T,$78020
+UGA-2006-363873,natalie,kremers,False,DynamicRoots,natalie.kremers@dynamicroots.com,17°40'36'' S,119°28'27'' E,2023/1/5,2022/12/2,60T,$50880
+SGP-1969-854532,leoine,hartung,True,NovaPath,leoine.hartung@novapath.com,22°56'57'' S,145°14'0'' E,2021/6/3,2020/5/11,87T,$64380
+EGY-2008-261843,mamie,noftsger,False,FusionCore,mamie.noftsger@fusioncore.com,75°45'32'' S,22°38'53'' W,2022/4/16,2023/10/11,68T,$50796
+BRA-1971-836294,henrieta,auchmoody,False,FusionTide Labs,henrieta.auchmoody@fusiontide_labs.com,30°31'36'' S,85°2'51'' E,2024/5/14,2020/6/17,93T,$85560
+CHE-1977-366524,la verne,blau,True,PureFusion Labs,la verne.blau@purefusion_labs.com,1°10'8'' N,155°17'9'' W,2020/8/25,2020/1/1,10T,$5530
+TUR-1972-459613,fanechka,merriott,False,Silverstone Solutions,fanechka.merriott@silverstone_solutions.com,81°50'19'' S,66°40'18'' E,2024/1/16,2023/3/20,82T,$62648
+CHE-1972-725015,rosalind,manko,True,FuturusLabs,rosalind.manko@futuruslabs.com,57°19'33'' S,107°45'47'' W,2021/9/1,2021/11/22,75T,$68325
+PNG-1968-309778,nolie,boan,True,PureTech Solutions,nolie.boan@puretech_solutions.com,60°14'53'' S,71°23'25'' W,2023/4/21,2022/4/1,29T,$23403
+VEN-1976-949571,tybi,bhullar,True,PureTech Labs,tybi.bhullar@puretech_labs.com,15°56'8'' S,50°41'27'' E,2024/6/14,2022/1/14,28T,$27804
+KEN-2011-286877,bobbette,binegar,True,NextTech Prime,bobbette.binegar@nexttech_prime.com,73°5'9'' S,105°50'59'' W,2020/11/27,2020/5/14,79T,$54273
+KOR-2016-619806,hermine,ganoe,False,ClearRise,hermine.ganoe@clearrise.com,84°15'2'' S,13°4'20'' E,2022/7/3,2023/4/22,16T,$9968
+PER-1987-652055,renee,poto,False,FusionCraft Labs,renee.poto@fusioncraft_labs.com,13°55'0'' S,140°19'29'' E,2024/6/21,2020/11/9,30T,$17190
+KOR-2022-932585,tania,sekel,True,SwiftVision,tania.sekel@swiftvision.com,61°47'51'' S,60°1'4'' W,2021/9/20,2020/9/6,86T,$45752
+ITA-2001-836547,corly,macareno,False,PeakFusion,corly.macareno@peakfusion.com,61°33'52'' S,31°20'25'' W,2022/12/18,2021/3/2,69T,$60306
+CAN-1979-531080,valera,avino,True,CoreTech,valera.avino@coretech.com,11°58'26'' S,1°19'11'' E,2023/10/27,2022/3/10,97T,$81189
+ETH-1956-730693,julina,lockrem,False,SparkTech,julina.lockrem@sparktech.com,83°46'26'' N,14°7'43'' W,2022/4/27,2022/5/18,53T,$30210
+NZL-1959-444851,ardis,fadley,True,NextEra Labs,ardis.fadley@nextera_labs.com,80°8'5'' N,16°20'3'' W,2022/10/3,2024/2/23,96T,$87168
+NGA-1962-466156,adrienne,mcritchie,True,InnovateWave,adrienne.mcritchie@innovatewave.com,20°22'44'' S,169°57'57'' E,2022/5/21,2022/9/8,98T,$83790
+NLD-1996-537277,lina,rogens,False,ClearTech,lina.rogens@cleartech.com,12°6'47'' N,39°37'37'' E,2020/2/10,2024/9/11,97T,$83420
+PNG-1963-803704,alta,twyman,False,ApexVision,alta.twyman@apexvision.com,3°19'19'' N,168°40'30'' W,2022/9/25,2021/6/10,84T,$57960
+CHL-2015-308726,sonia,silkwood,True,ClearTech Labs,sonia.silkwood@cleartech_labs.com,12°29'11'' S,70°28'44'' W,2024/5/10,2024/8/6,33T,$23463
+ETH-2012-890844,flossi,battis,True,BrightPath Labs,flossi.battis@brightpath_labs.com,57°20'42'' N,128°23'26'' W,2022/1/7,2023/2/1,84T,$77952
+POL-1968-747166,guglielma,jarnutowski,True,CrystalStream,guglielma.jarnutowski@crystalstream.com,1°7'46'' N,53°3'41'' E,2022/5/18,2020/6/7,82T,$72242
+SAU-1988-927830,marjie,bakken,True,TechStream,marjie.bakken@techstream.com,7°27'43'' N,34°51'35'' W,2024/11/18,2021/6/21,77T,$54670
+SWE-1972-703748,moria,adragna,True,StreamWave,moria.adragna@streamwave.com,41°51'2'' S,56°14'26'' W,2024/7/2,2020/12/17,45T,$26730
+WSM-1965-133844,effie,madariaga,False,ClearPath Systems,effie.madariaga@clearpath_systems.com,73°49'23'' N,127°38'32'' E,2021/7/15,2020/11/13,77T,$76769
+SGP-1973-249488,zia,galan,True,QuantumDrive,zia.galan@quantumdrive.com,70°57'39'' N,0°9'18'' E,2023/6/22,2023/12/9,15T,$14775
+RUS-1957-767085,susi,pattillo,True,BlueTech,susi.pattillo@bluetech.com,41°11'54'' N,102°11'36'' E,2022/4/19,2024/4/18,35T,$18620
+DZA-2019-147603,filippa,lechlak,True,FusionEdge,filippa.lechlak@fusionedge.com,60°22'34'' S,34°10'35'' E,2023/9/5,2020/1/23,10T,$8340
+CAN-2021-809079,lolly,maita,False,ElevateWorks,lolly.maita@elevateworks.com,17°35'34'' N,46°24'52'' W,2024/11/25,2020/3/19,58T,$29696
+SWE-1960-144292,fania,haddox,True,BoldTech,fania.haddox@boldtech.com,69°36'46'' S,175°47'32'' W,2024/2/22,2022/11/24,25T,$18025
+TUR-1996-472108,blakelee,levings,True,SkyCraft,blakelee.levings@skycraft.com,48°23'53'' N,67°23'32'' E,2020/4/5,2021/5/2,91T,$58331
+ZAF-2023-615134,jaquenette,louden,False,VisionaryRise,jaquenette.louden@visionaryrise.com,37°49'24'' N,34°18'50'' W,2023/3/8,2023/10/23,32T,$25760
+DZA-2011-869072,romona,demange,True,TechVision Labs,romona.demange@techvision_labs.com,64°24'1'' N,54°7'32'' W,2023/9/20,2023/11/11,70T,$51380
+NLD-2009-542698,ranna,bulosan,True,TechFusion,ranna.bulosan@techfusion.com,18°52'45'' N,107°21'54'' E,2023/5/24,2022/4/26,96T,$64032
+CAN-1998-610250,lilith,hungerford,False,PureFusion,lilith.hungerford@purefusion.com,88°11'18'' N,27°38'9'' E,2023/11/25,2021/6/6,26T,$24414
+NZL-1990-962491,merlina,goede,False,AlphaLabs,merlina.goede@alphalabs.com,74°55'16'' N,53°1'17'' E,2024/10/7,2022/2/27,35T,$18235
+SAU-1967-755620,kassandra,kinsolving,True,BoldShift,kassandra.kinsolving@boldshift.com,17°0'30'' N,163°24'14'' W,2020/9/8,2021/8/10,79T,$67466
+FRA-2007-153588,chrystel,dragone,False,DynamicRoots,chrystel.dragone@dynamicroots.com,33°36'21'' S,31°31'0'' W,2022/4/24,2020/7/17,43T,$40162
+CHL-2005-477253,arliene,garrett,True,Redwood Enterprises,arliene.garrett@redwood_enterprises.com,86°3'57'' S,157°11'41'' E,2021/8/10,2022/7/2,37T,$32745
+NGA-1969-793296,lorne,garfinkle,True,EverRise Enterprises,lorne.garfinkle@everrise_enterprises.com,16°57'6'' S,93°4'52'' W,2020/7/20,2022/2/11,70T,$49910
+CAN-1988-138037,beatriz,streck,True,InnovationForge,beatriz.streck@innovationforge.com,36°7'50'' S,17°3'26'' E,2024/9/3,2020/12/6,64T,$59840
+ETH-1997-383386,roseline,magalski,True,FutureTech,roseline.magalski@futuretech.com,13°29'9'' N,173°31'53'' W,2024/8/18,2023/3/12,55T,$44220
+KEN-2013-425205,nariko,dinunzio,True,EdgeLabs,nariko.dinunzio@edgelabs.com,46°0'1'' S,40°43'4'' E,2023/10/15,2023/2/22,38T,$20444
+ITA-2001-893799,melony,mabra,True,CleverSpark,melony.mabra@cleverspark.com,8°0'33'' S,45°33'24'' W,2020/2/6,2024/9/13,64T,$47616
+PHL-1987-716662,val,puri,True,EdgePrime,val.puri@edgeprime.com,23°17'35'' N,111°5'42'' E,2021/6/4,2024/7/23,73T,$53436
+AUS-2018-164739,leticia,bogan,False,BrightCore Systems,leticia.bogan@brightcore_systems.com,0°57'19'' S,104°7'30'' W,2022/4/25,2020/8/13,59T,$37878
+SWE-1989-695407,mildrid,suhoski,True,InnovateCraft,mildrid.suhoski@innovatecraft.com,46°53'8'' S,82°51'56'' W,2020/6/21,2023/6/3,32T,$23552
+FRA-1959-502106,perl,kriebel,False,BlueStream Innovations,perl.kriebel@bluestream_innovations.com,8°40'4'' N,117°7'17'' E,2020/6/18,2023/2/25,77T,$75922
+SWE-1987-635377,melloney,arntt,True,TechNova,melloney.arntt@technova.com,28°45'5'' S,13°19'6'' E,2023/11/13,2021/2/8,15T,$8925
+TUN-1983-320255,jorry,hoar,True,Silverstone Solutions,jorry.hoar@silverstone_solutions.com,20°17'46'' S,138°4'27'' W,2020/4/17,2022/4/12,84T,$64848
+PHL-1960-337813,margarethe,oppel,True,FusionCore,margarethe.oppel@fusioncore.com,81°8'53'' N,107°4'33'' E,2022/3/2,2023/1/27,89T,$58829
+BRA-1972-783449,rozella,oliveres,False,FusionPoint,rozella.oliveres@fusionpoint.com,60°2'36'' S,116°38'37'' W,2022/12/24,2020/2/17,40T,$25400
+PHL-2018-856559,garland,gundy,False,EvolvTech,garland.gundy@evolvtech.com,43°41'50'' N,8°43'18'' W,2023/11/5,2023/12/14,83T,$48057
+PNG-1986-489968,candy,reitzes,True,VividPrime,candy.reitzes@vividprime.com,36°2'36'' S,79°26'58'' E,2023/10/6,2020/7/13,13T,$11024
+GBR-1956-446309,glenna,strouth,True,FusionLabs,glenna.strouth@fusionlabs.com,0°50'47'' S,174°19'16'' E,2022/11/21,2020/2/12,63T,$61866
+FRA-1989-965885,deonne,draudt,False,TechHarbor,deonne.draudt@techharbor.com,41°36'31'' N,58°21'49'' E,2024/5/2,2023/8/16,50T,$36650
+ECU-2024-381904,karrie,duplantis,False,ClearEdge,karrie.duplantis@clearedge.com,7°31'43'' S,21°56'36'' W,2021/1/7,2020/7/11,61T,$47031
+TUR-1982-266722,tandy,seamons,True,VividShift,tandy.seamons@vividshift.com,82°26'27'' S,7°54'19'' E,2022/1/11,2023/1/14,58T,$50286
+FJI-1982-475232,cynthea,rozgonyi,True,SparkVision,cynthea.rozgonyi@sparkvision.com,88°35'44'' N,158°38'2'' E,2021/10/6,2024/7/17,64T,$49344
+SAU-1999-366596,evangelina,willians,False,InnovativeTech Labs,evangelina.willians@innovativetech_labs.com,36°35'0'' N,121°52'0'' E,2020/7/14,2021/6/7,95T,$79610
+ARG-1957-944632,emelita,blackler,True,TechStream,emelita.blackler@techstream.com,45°2'3'' S,42°12'11'' E,2020/4/21,2020/10/4,21T,$15435
+MEX-1950-446335,suzette,keto,True,ElevateTech,suzette.keto@elevatetech.com,76°42'17'' N,134°46'32'' E,2020/11/5,2020/1/7,51T,$30855
+USA-2020-425884,babbette,sidley,False,FusionLabs,babbette.sidley@fusionlabs.com,46°4'5'' N,151°56'46'' E,2022/1/23,2022/2/11,30T,$18750
+CHE-2000-690176,lavena,jaskot,True,FusionEdge,lavena.jaskot@fusionedge.com,35°41'54'' S,29°10'1'' W,2020/3/18,2022/11/14,96T,$85344
+PER-2013-763259,elladine,kipps,False,FusionCore Solutions,elladine.kipps@fusioncore_solutions.com,0°18'25'' N,54°13'17'' W,2023/9/14,2024/11/9,47T,$28153
+THA-1951-794715,olivette,crasco,False,PureVision,olivette.crasco@purevision.com,55°59'12'' S,147°38'53'' E,2023/11/25,2021/7/6,72T,$39888
+POL-2023-162496,linnie,cassell,True,SparkLabs,linnie.cassell@sparklabs.com,75°15'20'' S,95°0'53'' W,2023/10/1,2023/6/10,84T,$83832
+VNM-2022-720040,lynelle,massengale,True,SkyStream,lynelle.massengale@skystream.com,59°26'58'' N,39°45'50'' W,2023/3/14,2024/4/4,26T,$22750
+ECU-1966-949548,vivyan,mirarchi,True,TechNex,vivyan.mirarchi@technex.com,78°46'32'' N,43°54'2'' W,2023/6/22,2022/5/21,92T,$78844
+PHL-2013-659418,catharine,likins,True,FusionCore,catharine.likins@fusioncore.com,78°23'12'' S,138°38'57'' E,2022/11/5,2021/6/5,30T,$29760
+RUS-1990-426514,glen,skiffington,True,SwiftVision Labs,glen.skiffington@swiftvision_labs.com,78°1'22'' N,176°16'1'' E,2020/10/24,2022/6/21,97T,$82741
+ETH-1968-371194,leanna,mair,True,Vanguard Systems,leanna.mair@vanguard_systems.com,50°11'41'' S,109°20'13'' W,2021/8/26,2020/3/10,78T,$69732
+GBR-1981-994665,adi,menze,True,SkyStream,adi.menze@skystream.com,20°3'11'' S,106°52'50'' W,2020/9/1,2024/8/24,53T,$47170
+CHN-1987-110545,othilia,morad,False,DigitalCraft,othilia.morad@digitalcraft.com,47°29'7'' S,118°29'22'' E,2021/2/1,2021/11/15,29T,$26854
+TUN-2018-928749,camila,tobia,False,ElevateTech Labs,camila.tobia@elevatetech_labs.com,67°44'22'' S,84°45'8'' W,2022/11/18,2023/10/27,59T,$45666
+ECU-2012-651263,elianore,warde,True,FutureHarbor,elianore.warde@futureharbor.com,10°22'19'' N,18°18'24'' E,2023/5/9,2023/5/1,15T,$14145
+VEN-1974-916680,leonora,blind,True,PrimeShift,leonora.blind@primeshift.com,9°29'45'' S,172°44'41'' E,2022/10/6,2023/10/9,36T,$28764
+ITA-1985-573975,sarajane,yosko,True,BlueBridge,sarajane.yosko@bluebridge.com,89°4'13'' N,130°15'30'' W,2021/3/23,2021/7/17,77T,$64911
+PNG-1959-167502,willie,wryals,False,FusionEdge Solutions,willie.wryals@fusionedge_solutions.com,49°52'32'' S,135°45'26'' W,2024/5/1,2020/11/14,100T,$84900
+UGA-1972-825962,ezmeralda,kama,True,QuantumLeap,ezmeralda.kama@quantumleap.com,73°15'9'' S,53°34'16'' E,2023/9/2,2023/10/18,58T,$34684
+CHL-1954-784708,tabbie,schromen,True,SwiftShift,tabbie.schromen@swiftshift.com,74°24'52'' S,18°38'5'' E,2020/2/19,2020/10/25,89T,$48772
+THA-2007-873328,kira,lavant,True,ClearPath Labs,kira.lavant@clearpath_labs.com,39°57'6'' N,3°37'11'' W,2024/7/9,2020/10/21,22T,$15774
+RUS-1972-792982,lolita,loria,True,TechTide,lolita.loria@techtide.com,20°28'22'' N,66°19'2'' E,2024/5/1,2022/8/14,81T,$43416
+FRA-1951-262835,sonya,rappleye,True,SparkTech,sonya.rappleye@sparktech.com,84°3'1'' S,120°20'15'' E,2023/6/15,2021/8/19,96T,$83136
+CHE-2010-236236,cyb,settler,True,TechNest,cyb.settler@technest.com,87°13'29'' S,9°39'4'' E,2022/9/1,2022/9/13,55T,$37400
+SWE-2009-274604,paula,brodbeck,False,NextTech Prime,paula.brodbeck@nexttech_prime.com,27°47'35'' S,157°26'28'' W,2020/5/8,2022/3/12,48T,$31776
+COL-1966-540959,marta,kipple,True,FusionTide Labs,marta.kipple@fusiontide_labs.com,68°37'1'' N,44°35'1'' E,2020/8/22,2024/11/11,90T,$77940
+KEN-1984-458192,reggie,walzier,True,SkyPrime,reggie.walzier@skyprime.com,33°32'30'' S,161°55'12'' W,2020/3/17,2020/4/21,50T,$38850
+VEN-1992-781777,holly-anne,streif,False,CoreVision,holly-anne.streif@corevision.com,65°54'51'' S,5°55'33'' E,2023/8/18,2021/5/27,19T,$13186
+EGY-1965-414544,vannie,lansey,False,SkyEdge,vannie.lansey@skyedge.com,13°56'47'' S,57°24'40'' W,2022/6/13,2024/5/13,52T,$35620
+POL-1981-116831,sandra,colavito,True,QuantumWorks,sandra.colavito@quantumworks.com,79°13'11'' N,79°54'53'' E,2020/9/22,2020/9/6,64T,$34304
+BRA-1981-606908,aloisia,winkey,False,PeakEdge,aloisia.winkey@peakedge.com,37°33'55'' N,160°41'11'' E,2023/2/3,2023/5/19,75T,$57075
+IND-2012-431111,letty,alley,False,ClearPath Labs,letty.alley@clearpath_labs.com,25°50'7'' S,102°11'41'' W,2024/10/8,2021/12/8,38T,$28196
+RUS-1987-616359,bobbe,puterbaugh,True,InfiniteScope,bobbe.puterbaugh@infinitescope.com,88°55'24'' N,71°56'12'' W,2024/5/1,2020/7/25,30T,$27480
+EGY-1955-362781,kathrine,ramsier,True,BrightRise,kathrine.ramsier@brightrise.com,1°8'56'' S,8°27'11'' W,2022/3/10,2024/5/19,27T,$22626
+SAU-1957-839396,basia,flygare,True,FusionX,basia.flygare@fusionx.com,76°52'1'' N,104°55'46'' W,2022/1/17,2020/1/2,96T,$82848
+NZL-1989-945814,idell,schnabl,True,ElevateEdge,idell.schnabl@elevateedge.com,71°25'14'' S,83°38'55'' E,2024/7/12,2023/9/14,86T,$70434
+ECU-2008-399052,loren,goldbaum,True,TechFusion,loren.goldbaum@techfusion.com,4°25'34'' N,111°49'30'' E,2021/3/23,2024/3/21,73T,$61101
+USA-1955-805715,anthea,coache,True,NextEra Solutions,anthea.coache@nextera_solutions.com,28°37'33'' S,62°16'7'' W,2024/11/7,2020/1/12,61T,$46299
+WSM-1974-904445,kimmi,everetts,True,FusionX,kimmi.everetts@fusionx.com,53°54'36'' S,150°42'10'' W,2024/1/7,2020/3/20,55T,$52415
+CHN-1951-387836,albina,cofresi,False,FusionCore Labs,albina.cofresi@fusioncore_labs.com,38°9'56'' S,119°45'41'' E,2024/1/1,2023/7/23,92T,$47288
+RUS-1977-924837,sidonnie,drybread,False,SkyEdge,sidonnie.drybread@skyedge.com,38°3'12'' S,159°44'5'' W,2023/6/8,2022/8/7,66T,$37752
+SAU-1997-320575,maggie,vanalstine,False,TechRise Solutions,maggie.vanalstine@techrise_solutions.com,50°1'48'' N,77°20'49'' E,2022/11/6,2021/4/1,35T,$19250
+ARG-1987-296118,nathalie,hamner,False,TrueFusion,nathalie.hamner@truefusion.com,36°47'59'' S,70°48'40'' W,2023/8/22,2020/2/6,45T,$33300
+MEX-1997-577516,krystal,greider,True,TechStream,krystal.greider@techstream.com,72°59'13'' S,23°30'50'' E,2022/6/19,2020/7/27,34T,$33490
+FJI-1981-224182,shelli,leerar,True,ClearPath Labs,shelli.leerar@clearpath_labs.com,19°35'46'' S,126°0'53'' W,2024/3/15,2020/10/20,53T,$48813
+IND-1984-428495,clarinda,almerico,True,BlueEdge,clarinda.almerico@blueedge.com,11°17'46'' S,60°43'30'' W,2023/7/8,2022/7/23,63T,$52794
+SGP-1977-484907,marthe,shufford,True,InnovativeHarbor,marthe.shufford@innovativeharbor.com,17°49'2'' N,1°49'34'' W,2020/7/16,2024/5/12,60T,$37380
+CAN-1960-574237,modesta,potaczala,True,RedTech Labs,modesta.potaczala@redtech_labs.com,30°55'8'' S,176°52'57'' E,2024/10/27,2021/6/26,77T,$45199
+ARG-1968-235177,leann,marklund,False,SmartHarbor,leann.marklund@smartharbor.com,65°13'31'' N,1°55'38'' E,2021/12/5,2024/4/16,55T,$28875
+USA-1989-201242,orel,papadakis,True,VividEdge,orel.papadakis@vividedge.com,68°19'36'' S,160°11'7'' E,2024/6/15,2020/3/3,78T,$53508
+BRA-1962-245038,denys,mannchen,False,BrightHarbor,denys.mannchen@brightharbor.com,70°0'42'' N,63°36'16'' E,2023/10/21,2023/4/27,13T,$8489
+BRA-1992-433577,jocelyne,krain,False,DynamicRoots,jocelyne.krain@dynamicroots.com,43°33'37'' N,150°27'25'' W,2022/4/10,2020/10/24,56T,$42224
+FRA-1952-642428,alverta,hosier,True,SwiftEdge,alverta.hosier@swiftedge.com,21°41'9'' S,13°9'4'' W,2022/7/21,2024/4/23,40T,$33920
+FRA-2014-628976,agretha,distasio,False,VividVision,agretha.distasio@vividvision.com,44°48'32'' N,111°13'37'' W,2024/9/5,2020/8/7,47T,$29563
+VNM-2019-427907,hortensia,valen,False,BlueRise,hortensia.valen@bluerise.com,38°39'48'' N,114°45'43'' E,2024/8/1,2023/4/21,10T,$9120
+NGA-1996-252089,abbye,scuderi,True,TechStream,abbye.scuderi@techstream.com,67°1'26'' S,139°22'7'' E,2024/4/22,2022/1/27,11T,$6677
+SWE-1971-480189,daffy,kleinsorge,True,SwiftShift,daffy.kleinsorge@swiftshift.com,13°0'17'' S,157°26'47'' W,2023/9/10,2020/6/7,93T,$54963
+KOR-1982-274864,sylvia,zigmond,True,PeakLabs,sylvia.zigmond@peaklabs.com,80°28'16'' N,103°22'27'' E,2020/12/10,2022/7/19,38T,$22344
+WSM-2010-933791,emilee,kuhl,True,HorizonFlow,emilee.kuhl@horizonflow.com,67°24'58'' S,8°40'37'' W,2024/2/18,2023/9/5,65T,$44135
+UGA-2005-891613,analiese,lund,True,BrightPath Labs,analiese.lund@brightpath_labs.com,88°23'15'' S,53°2'5'' E,2022/4/17,2022/8/14,85T,$53975
+EGY-1968-658495,terra,tuplano,True,PurePath,terra.tuplano@purepath.com,75°42'26'' N,155°0'13'' E,2020/12/12,2020/1/16,92T,$86112
+BRA-1953-358023,carie,hewatt,False,EcoCraft,carie.hewatt@ecocraft.com,1°23'26'' S,176°33'39'' W,2023/12/19,2020/5/5,49T,$47236
+PNG-2022-714858,jori,paongo,True,CoreLabs,jori.paongo@corelabs.com,21°2'39'' S,159°50'49'' E,2024/2/20,2024/4/7,26T,$13650
+SGP-1995-151567,gabbie,leever,False,TechPulse,gabbie.leever@techpulse.com,42°3'20'' N,171°34'0'' W,2024/5/25,2021/11/9,12T,$10452
+GHA-1952-574923,elly,larios,True,PeakCraft,elly.larios@peakcraft.com,87°0'44'' N,92°17'55'' E,2023/1/4,2021/4/25,42T,$25578
+PHL-1958-814444,veradis,danson,True,TechFusion Solutions,veradis.danson@techfusion_solutions.com,47°57'44'' S,26°51'21'' E,2024/4/13,2024/9/14,99T,$49599
+AUS-1996-442054,lorette,romito,False,FusionTide,lorette.romito@fusiontide.com,79°0'39'' S,95°35'24'' E,2023/11/17,2021/6/4,74T,$66156
+COL-1991-305699,joni,bellus,True,PinnacleX,joni.bellus@pinnaclex.com,80°14'0'' S,65°6'40'' E,2024/2/10,2024/7/15,100T,$76400
+SWE-1972-571287,krystalle,boda,True,NextEra Labs,krystalle.boda@nextera_labs.com,61°10'19'' N,103°20'56'' W,2022/10/11,2021/2/10,96T,$83520
+TUR-2016-121083,lyndsay,audas,True,FusionCraft Labs,lyndsay.audas@fusioncraft_labs.com,21°3'6'' S,168°41'43'' E,2022/2/13,2022/6/12,84T,$74088
+NZL-2015-225751,tildi,muir,False,ClearTech Labs,tildi.muir@cleartech_labs.com,39°30'30'' S,179°33'51'' E,2023/5/4,2020/9/24,84T,$52500
+POL-1988-163343,emalia,nagode,True,BlueStream Innovations,emalia.nagode@bluestream_innovations.com,17°7'6'' N,21°37'1'' E,2023/8/19,2021/4/13,31T,$24056
+DZA-2022-554458,odessa,gregston,True,RedWave Solutions,odessa.gregston@redwave_solutions.com,44°58'13'' N,74°20'12'' E,2023/6/20,2022/7/18,36T,$19944
+TUN-1974-747436,isidora,janoff,True,RedSpark,isidora.janoff@redspark.com,54°10'0'' N,144°25'49'' W,2023/12/18,2023/4/7,46T,$29348
+PER-1961-992584,fran,mccarren,True,CoreTech,fran.mccarren@coretech.com,63°28'45'' S,145°49'36'' E,2023/6/4,2020/6/13,56T,$36848
+PNG-2014-195349,caron,mindingall,False,ElevateWorks,caron.mindingall@elevateworks.com,54°47'44'' S,83°4'57'' E,2021/4/6,2023/10/18,79T,$73865
+GHA-1963-599862,noell,muellerleile,True,FusionShift Labs,noell.muellerleile@fusionshift_labs.com,69°16'38'' N,62°20'5'' E,2024/8/6,2021/11/19,18T,$17712
+AUS-1999-647604,teodora,ruelar,True,ClearEdge,teodora.ruelar@clearedge.com,37°19'24'' S,2°45'31'' W,2023/11/20,2024/5/8,66T,$33198
+ITA-1994-502081,deb,enfort,True,FusionEdge Labs,deb.enfort@fusionedge_labs.com,55°18'59'' S,21°36'59'' W,2021/9/1,2022/2/9,86T,$64156
+ARG-1997-764887,willabella,patnode,True,TechBridge,willabella.patnode@techbridge.com,79°8'43'' N,143°35'50'' W,2024/5/9,2020/12/25,67T,$54940
+DZA-2012-481347,jesselyn,henricksen,True,SkyShift,jesselyn.henricksen@skyshift.com,56°25'53'' N,170°15'53'' E,2023/4/12,2023/5/3,47T,$41689
+CHN-1970-494377,faina,odegard,True,ElevateTech,faina.odegard@elevatetech.com,52°18'17'' N,140°59'40'' W,2023/9/5,2022/7/26,17T,$13872
+CHE-1989-769369,roxanne,sneathen,False,Silverstone Solutions,roxanne.sneathen@silverstone_solutions.com,53°34'36'' S,138°19'17'' E,2023/12/21,2021/11/7,92T,$75808
+IND-1993-129194,carlie,hawelu,False,QuantumTech Labs,carlie.hawelu@quantumtech_labs.com,24°8'12'' N,121°28'57'' E,2020/6/14,2022/6/12,56T,$43904
+POL-1966-659840,sibelle,argenziano,True,DigitalVista,sibelle.argenziano@digitalvista.com,67°11'23'' N,17°2'21'' W,2021/8/7,2023/1/19,95T,$49400
+JPN-2021-102636,zorana,filla,True,InnovativeVision,zorana.filla@innovativevision.com,50°50'16'' N,76°40'3'' W,2022/11/27,2024/11/25,65T,$47775
+RUS-1964-568590,patrice,readenour,True,EdgeWorks Labs,patrice.readenour@edgeworks_labs.com,24°43'21'' S,92°56'4'' W,2024/8/13,2021/6/24,70T,$61110
+JPN-1983-885509,siusan,heart,False,VividPath Labs,siusan.heart@vividpath_labs.com,42°15'57'' S,36°59'54'' W,2022/2/23,2020/6/19,52T,$51480
+ARG-2006-724828,yevette,mahoe,True,BoldTech,yevette.mahoe@boldtech.com,71°55'54'' S,170°16'24'' E,2020/7/2,2022/9/26,67T,$60501
+WSM-2006-355590,goldi,jiminian,True,CleverSpark,goldi.jiminian@cleverspark.com,31°19'34'' S,108°30'57'' E,2023/1/9,2024/3/7,35T,$23065
+NGA-2007-960276,latia,peto,True,CoreTech Solutions,latia.peto@coretech_solutions.com,66°1'40'' S,135°30'21'' E,2022/4/4,2022/8/20,23T,$17917
+COL-1980-276601,lynna,nehmer,False,VividShift,lynna.nehmer@vividshift.com,39°19'27'' S,9°26'43'' W,2020/3/15,2024/10/23,59T,$50032
+NGA-1996-311654,claudina,kuna,True,FuturePrime,claudina.kuna@futureprime.com,72°7'14'' S,30°56'47'' E,2024/9/9,2020/9/17,97T,$71295
+TUR-1972-913143,asia,elwer,True,RedEdge,asia.elwer@rededge.com,82°30'31'' N,162°3'25'' W,2020/5/14,2022/5/6,26T,$23192
+SAU-1972-838381,aili,sapnu,False,TechNest,aili.sapnu@technest.com,12°3'44'' N,120°1'37'' W,2022/1/15,2023/9/1,37T,$23828
+SWE-2000-102827,adelina,maranto,False,MomentumTech,adelina.maranto@momentumtech.com,46°45'14'' S,139°30'46'' E,2022/8/2,2023/11/11,34T,$31212
+PER-2003-414745,lezlie,cabasso,False,TechHarbor,lezlie.cabasso@techharbor.com,31°30'40'' N,91°36'54'' E,2023/2/17,2024/5/5,38T,$26638
+VEN-1976-661019,patsy,velazquez,False,BrightBridge,patsy.velazquez@brightbridge.com,25°54'31'' S,132°28'4'' W,2023/9/25,2023/1/6,30T,$28170
+TUR-2019-291981,marge,spurlin,True,ApexSystems,marge.spurlin@apexsystems.com,66°26'1'' S,134°52'42'' E,2022/7/6,2023/3/2,69T,$57063
+TUN-1950-892338,cloris,lanz,True,SkyBridge Solutions,cloris.lanz@skybridge_solutions.com,89°35'56'' N,36°56'10'' E,2024/1/4,2020/1/6,10T,$7280
+SWE-2017-765229,isadora,stiern,True,FutureVision,isadora.stiern@futurevision.com,63°46'51'' N,133°51'53'' W,2023/2/10,2024/2/16,26T,$20202
+CHE-1957-546692,therese,krenek,True,BrightHarbor,therese.krenek@brightharbor.com,31°43'20'' N,125°17'53'' W,2021/7/2,2023/11/8,26T,$14794
+CHN-1977-235704,joane,mcferren,True,BrightHarbor,joane.mcferren@brightharbor.com,15°24'10'' N,143°42'26'' W,2024/5/25,2022/9/7,17T,$13430
+GBR-1985-966158,merl,frohman,False,DigitalCraft,merl.frohman@digitalcraft.com,67°42'22'' S,143°38'6'' W,2020/4/3,2023/1/23,44T,$41932
+VEN-1994-574100,heath,cullins,True,PeakCraft,heath.cullins@peakcraft.com,8°47'8'' N,48°17'28'' W,2024/8/11,2021/2/25,52T,$45396
+ZAF-1955-883768,sophi,rosenfield,True,VividVision,sophi.rosenfield@vividvision.com,76°29'11'' S,56°2'15'' W,2024/3/7,2023/1/22,91T,$66248
+ETH-1971-860340,cindy,wollen,False,ClearTech Labs,cindy.wollen@cleartech_labs.com,84°41'29'' N,102°45'11'' E,2021/9/13,2023/12/8,96T,$74688
+GBR-1984-474410,marcie,rasole,True,FusionLabs Solutions,marcie.rasole@fusionlabs_solutions.com,40°26'20'' N,13°39'18'' E,2021/7/4,2022/10/20,47T,$44368
+ECU-1979-559487,carolina,fanara,True,FusionPath,carolina.fanara@fusionpath.com,4°38'17'' S,98°6'31'' E,2024/5/21,2024/5/5,67T,$55610
+ETH-1955-489203,allyson,brosseau,True,EvolvTech,allyson.brosseau@evolvtech.com,5°28'3'' N,41°24'9'' W,2023/3/12,2024/3/19,84T,$68460
+FJI-1965-648440,crista,lofwall,True,SwiftCore,crista.lofwall@swiftcore.com,50°39'45'' S,115°6'1'' W,2022/11/8,2020/5/23,50T,$27950
+GBR-2014-292150,farand,auffrey,False,QuantumShift,farand.auffrey@quantumshift.com,78°33'13'' N,1°33'14'' W,2022/12/13,2024/7/8,48T,$30240
+JPN-1953-967575,dayna,kriz,True,NexTier Solutions,dayna.kriz@nextier_solutions.com,40°47'59'' N,71°14'28'' W,2023/2/9,2024/6/13,83T,$64740
+PER-2017-938247,gayla,gershenson,True,SwiftVision,gayla.gershenson@swiftvision.com,0°19'59'' S,62°48'49'' W,2021/5/1,2020/2/23,97T,$85166
+CHE-1999-243679,stoddard,salay,True,QuantumDrive,stoddard.salay@quantumdrive.com,27°11'11'' S,91°51'58'' W,2024/5/3,2024/9/3,15T,$9435
+DZA-2020-700269,corabel,mackall,False,FusionShift Labs,corabel.mackall@fusionshift_labs.com,35°3'54'' N,12°19'0'' W,2023/10/15,2021/1/1,93T,$50778
+GBR-1994-249411,enid,scharich,False,VividPath,enid.scharich@vividpath.com,33°20'38'' S,149°8'51'' E,2024/6/5,2024/6/18,91T,$59059
+KOR-2003-705797,ruth,tso,True,SmartHarbor,ruth.tso@smartharbor.com,29°27'28'' S,5°23'8'' E,2021/2/10,2021/12/14,80T,$76960
+ECU-2012-833285,sharleen,yzquierdo,True,FuturusLabs,sharleen.yzquierdo@futuruslabs.com,41°12'5'' S,108°3'42'' W,2021/6/16,2020/6/14,99T,$88605
+AUS-1973-164918,bill,szalai,True,PeakVision,bill.szalai@peakvision.com,5°43'25'' S,76°26'35'' E,2020/12/20,2023/1/25,48T,$36096
+RUS-2011-197958,lu,glazier,False,FutureVision,lu.glazier@futurevision.com,44°13'56'' S,69°40'5'' W,2022/11/7,2021/6/9,78T,$44148
+PHL-1991-303189,irene,acuna,True,VividFusion Labs,irene.acuna@vividfusion_labs.com,29°53'52'' N,89°9'35'' W,2023/11/24,2021/6/9,93T,$85281
+NLD-1984-567419,kizzie,jochumsen,False,EverRise Enterprises,kizzie.jochumsen@everrise_enterprises.com,2°11'29'' N,12°6'9'' E,2022/6/15,2023/7/16,30T,$22050
+ZAF-1989-849361,karoline,hagins,True,SparkLabs,karoline.hagins@sparklabs.com,24°59'51'' N,92°44'20'' E,2020/12/16,2023/5/4,98T,$70952
+NLD-1963-235464,nancee,gloria,False,Zenith Partners,nancee.gloria@zenith_partners.com,32°42'49'' S,176°45'21'' E,2022/11/17,2022/4/14,13T,$10179
+NZL-1961-223497,sherill,yetsko,True,AlphaLabs,sherill.yetsko@alphalabs.com,62°34'57'' S,141°5'11'' W,2022/1/19,2022/12/22,85T,$81090
+COL-2023-788497,maye,kobryn,False,EonWave,maye.kobryn@eonwave.com,36°13'28'' N,85°24'48'' W,2022/1/5,2020/10/2,25T,$15400
+THA-1984-597098,maryanne,russett,False,PureFusion,maryanne.russett@purefusion.com,56°57'5'' N,35°56'17'' E,2022/11/3,2024/8/25,92T,$78660
+RUS-2001-628782,mechelle,annett,False,CrystalStream,mechelle.annett@crystalstream.com,17°12'11'' S,150°30'28'' W,2023/4/18,2024/9/14,85T,$77605
+TUN-1952-704703,pepi,weingart,True,QuantumPath,pepi.weingart@quantumpath.com,19°38'56'' S,172°12'30'' E,2023/2/10,2022/1/13,81T,$64233
+ITA-1979-564007,ardath,traficante,True,InnovativePath,ardath.traficante@innovativepath.com,70°14'50'' S,155°25'14'' W,2021/3/2,2024/2/15,22T,$18898
+BRA-2006-348230,gladi,cousain,False,FusionPoint,gladi.cousain@fusionpoint.com,49°1'47'' N,70°29'10'' E,2023/1/26,2022/8/23,32T,$32000
+SGP-2019-590822,darda,babish,True,QuantumWorks,darda.babish@quantumworks.com,53°53'35'' N,71°2'59'' E,2020/8/7,2021/12/5,39T,$23985
+PNG-1975-910839,meggi,llopis,False,StarBridge,meggi.llopis@starbridge.com,78°30'22'' S,176°0'4'' E,2023/3/1,2021/12/26,96T,$62784
+DEU-1995-488388,wini,tumbaga,True,QuantumDrive,wini.tumbaga@quantumdrive.com,66°4'32'' S,119°16'39'' E,2020/4/21,2020/12/3,85T,$52190
+COL-2020-956096,nessy,handin,True,FutureWorks,nessy.handin@futureworks.com,31°29'15'' N,93°22'6'' E,2021/3/2,2022/1/10,58T,$50692
+GHA-1994-311898,lauri,lesches,True,QuantumDrive,lauri.lesches@quantumdrive.com,69°43'1'' S,161°4'53'' W,2023/7/23,2022/1/13,11T,$10626
+MEX-1986-667530,jessamine,labay,True,CleverSpark,jessamine.labay@cleverspark.com,63°28'14'' S,8°33'56'' W,2020/5/5,2022/11/16,80T,$74000
+COL-2024-497173,betteann,sahagian,True,FusionEdge Labs,betteann.sahagian@fusionedge_labs.com,0°9'9'' N,28°34'43'' E,2021/2/5,2024/3/27,18T,$13914
+UGA-1981-425851,trixy,sagers,True,TrueNorth Ventures,trixy.sagers@truenorth_ventures.com,84°37'1'' N,73°51'10'' E,2023/12/21,2024/12/11,59T,$32450
+SAU-1978-944768,lyndy,porche,True,VividFusion,lyndy.porche@vividfusion.com,30°53'23'' N,150°29'33'' W,2020/4/23,2020/7/23,69T,$46368
+IND-2024-146615,demetria,reins,False,NextVision,demetria.reins@nextvision.com,8°50'58'' S,146°43'42'' E,2023/4/11,2023/9/25,13T,$8697
+CHE-2019-307044,clemence,valerius,True,DigitalEdge,clemence.valerius@digitaledge.com,79°30'41'' S,156°8'25'' W,2021/7/7,2022/7/21,86T,$51686
+ITA-2002-497042,georgette,walthall,True,SwiftTech,georgette.walthall@swifttech.com,55°45'9'' S,75°19'18'' W,2021/12/18,2021/8/1,29T,$22214
+PNG-1959-256582,joby,davitt,True,FusionHarbor,joby.davitt@fusionharbor.com,39°12'24'' N,4°2'47'' E,2021/6/22,2022/9/15,67T,$42009
+NZL-2020-523735,joete,abeln,True,PeakFusion,joete.abeln@peakfusion.com,82°25'50'' S,35°52'59'' E,2024/2/8,2021/7/6,33T,$25146
+WSM-1973-514601,flora,curcuru,False,VividPrime,flora.curcuru@vividprime.com,27°30'15'' S,119°43'11'' E,2023/5/21,2024/2/4,67T,$58826
+COL-2023-618465,emiline,moncier,False,BrightFusion Labs,emiline.moncier@brightfusion_labs.com,51°50'55'' S,157°29'43'' E,2022/9/14,2022/7/11,13T,$12844
+ECU-1993-473591,renata,glau,False,TechNext,renata.glau@technext.com,58°4'27'' S,99°21'55'' E,2024/10/10,2022/9/7,28T,$16380
+NLD-2007-450155,roxy,maise,True,FutureTide,roxy.maise@futuretide.com,70°35'27'' N,25°15'44'' E,2021/3/21,2023/2/26,20T,$12120
+USA-1952-353711,pansy,munafo,True,SkyVision,pansy.munafo@skyvision.com,19°11'44'' N,164°22'39'' W,2022/10/4,2022/7/21,73T,$53801
+ARG-1951-215863,lyda,hoaglund,True,VisionaryRise,lyda.hoaglund@visionaryrise.com,34°32'13'' S,13°35'49'' W,2021/5/4,2020/10/10,15T,$9555
+KEN-1996-697565,iolande,parada,True,SkyTech Labs,iolande.parada@skytech_labs.com,60°42'18'' S,166°24'43'' E,2020/3/20,2021/9/21,48T,$47136
+MAR-2010-800145,gennifer,stratz,True,Quantum Solutions,gennifer.stratz@quantum_solutions.com,45°29'26'' N,159°8'27'' W,2022/5/16,2024/12/27,88T,$58520
+NGA-2024-488916,tedda,hyett,True,QuantumTech Labs,tedda.hyett@quantumtech_labs.com,42°2'10'' S,134°28'43'' W,2021/12/26,2021/3/27,72T,$37440
+FJI-1989-579537,karol,sieve,True,FuturePath,karol.sieve@futurepath.com,55°47'37'' N,137°33'58'' W,2023/1/8,2022/5/17,88T,$66352
+ZAF-1993-391745,karon,corriher,False,FusionEdge Labs,karon.corriher@fusionedge_labs.com,70°55'17'' S,169°58'44'' E,2021/7/19,2020/4/8,65T,$40170
+TUR-2020-139388,bird,cacace,True,FusionPrime Labs,bird.cacace@fusionprime_labs.com,84°17'15'' S,107°18'55'' W,2021/1/3,2020/2/16,55T,$46805
+SAU-2002-808775,robinet,seabright,True,SparkLabs,robinet.seabright@sparklabs.com,38°42'10'' N,154°29'25'' W,2021/7/9,2022/3/1,82T,$62730
+NZL-1990-207163,heda,lagesse,True,FusionPath,heda.lagesse@fusionpath.com,40°12'33'' N,73°13'45'' W,2022/1/23,2021/2/19,95T,$65170
+TUN-1969-343795,nari,birnell,False,NextEdge,nari.birnell@nextedge.com,67°45'40'' S,71°33'5'' E,2022/6/1,2023/10/24,38T,$35378
+THA-1959-533435,lilyan,cradduck,False,FusionShift Labs,lilyan.cradduck@fusionshift_labs.com,30°38'44'' N,53°14'4'' W,2023/3/10,2024/5/7,91T,$53144
+FJI-1965-144776,lurleen,sefcik,True,PrimeEdge Solutions,lurleen.sefcik@primeedge_solutions.com,75°3'26'' N,56°27'17'' E,2020/6/3,2021/5/5,10T,$9300
+EGY-1989-810291,gretna,marsland,True,CyberTide,gretna.marsland@cybertide.com,84°18'56'' S,49°51'2'' E,2021/6/12,2020/8/15,98T,$59192
+WSM-1987-923339,lori,bigony,True,NextFrontier,lori.bigony@nextfrontier.com,84°27'27'' S,124°46'21'' W,2021/10/18,2022/2/27,21T,$11466
+THA-1952-417091,georgie,tawney,True,SkyBridge Solutions,georgie.tawney@skybridge_solutions.com,45°59'46'' S,4°34'3'' W,2023/4/11,2022/2/12,79T,$46926
+THA-1960-341661,zelma,hannula,True,QuantumBridge,zelma.hannula@quantumbridge.com,30°45'12'' N,143°23'17'' E,2021/5/1,2020/1/23,97T,$63826
+POL-1975-676081,marybelle,bringantino,True,VisionLabs,marybelle.bringantino@visionlabs.com,71°30'29'' S,34°26'22'' W,2023/12/15,2022/7/4,47T,$28435
+DZA-2023-985070,myrtle,steinour,True,BlueTech,myrtle.steinour@bluetech.com,65°8'4'' N,169°0'38'' E,2023/11/9,2022/6/13,33T,$24717
+EGY-2001-288284,carrissa,doire,True,InfiniteScope,carrissa.doire@infinitescope.com,73°21'7'' N,169°42'48'' W,2023/12/17,2024/8/13,32T,$16256
+TUR-1989-866077,dione,edmondson,True,TechCraft,dione.edmondson@techcraft.com,48°34'15'' N,152°23'51'' E,2021/2/15,2023/2/13,60T,$32880
+AUS-2014-263154,ginnifer,yamakawa,False,TechTide,ginnifer.yamakawa@techtide.com,84°25'9'' N,121°21'24'' W,2020/5/16,2023/12/26,66T,$52074
+PNG-2009-308615,giralda,ventola,False,SkyShift,giralda.ventola@skyshift.com,59°27'2'' N,54°18'14'' W,2024/7/11,2022/5/11,74T,$57350
+MEX-1959-195897,hermina,catacutan,False,PrimeShift Labs,hermina.catacutan@primeshift_labs.com,74°34'54'' S,117°12'42'' E,2020/1/17,2022/1/4,17T,$12070
+THA-1950-355644,aurea,trofholz,False,ClearTech Labs,aurea.trofholz@cleartech_labs.com,30°32'55'' N,169°16'4'' W,2022/4/3,2024/8/20,25T,$13025
+UGA-1976-428147,cathryn,herres,True,SkyCraft,cathryn.herres@skycraft.com,14°3'18'' N,8°35'41'' E,2024/9/20,2023/7/25,82T,$81098
+VEN-1953-977218,dionne,mcbeath,True,SwiftTech Labs,dionne.mcbeath@swifttech_labs.com,13°52'15'' N,105°16'29'' W,2020/4/18,2023/4/26,52T,$36400
+GBR-1972-971220,taryn,salvemini,False,PrimeWave,taryn.salvemini@primewave.com,47°6'49'' N,150°39'51'' E,2021/1/25,2020/3/19,36T,$27468
+TUR-1957-905583,dominga,kuhlo,True,PureEdge,dominga.kuhlo@pureedge.com,35°36'54'' N,125°30'18'' E,2022/2/25,2024/4/12,99T,$58806
+EGY-2016-971078,rebekkah,woolever,True,TechPath,rebekkah.woolever@techpath.com,3°16'19'' S,44°56'20'' E,2021/11/17,2023/6/22,96T,$57696
+THA-1955-257354,ruthy,armstead,True,NextEdge Solutions,ruthy.armstead@nextedge_solutions.com,18°8'59'' N,11°24'17'' E,2021/8/5,2023/12/18,84T,$44520
+NGA-1953-573879,shana,poeschel,False,BrightCore Labs,shana.poeschel@brightcore_labs.com,79°16'47'' N,74°45'46'' W,2021/5/5,2020/4/3,19T,$9747
+ZAF-1953-850395,cheslie,tressel,True,RedEdge,cheslie.tressel@rededge.com,15°3'35'' N,14°9'2'' W,2022/3/25,2022/6/20,89T,$65148
+VNM-1997-832870,juliane,jerkin,True,EvolvTech,juliane.jerkin@evolvtech.com,59°45'24'' S,165°39'39'' W,2021/2/8,2022/6/14,70T,$50750
+IND-1956-832777,linda,mayol,False,NextEra Solutions,linda.mayol@nextera_solutions.com,45°15'38'' N,66°34'11'' E,2021/5/18,2022/12/22,12T,$6540
+CHE-2011-973373,hally,rougeaux,True,FuturePrime,hally.rougeaux@futureprime.com,62°20'34'' N,177°36'51'' W,2020/4/16,2023/8/18,63T,$54873
+MEX-1957-953327,camala,whittman,True,QuantumTech,camala.whittman@quantumtech.com,78°6'22'' N,141°54'37'' E,2023/2/26,2024/6/3,92T,$50048
+TUN-2001-951863,jena,martillo,True,NextCraft,jena.martillo@nextcraft.com,67°45'27'' N,133°22'30'' E,2021/10/26,2024/5/7,90T,$58860
+SAU-1984-814684,kelci,canellas,True,FuturePath,kelci.canellas@futurepath.com,47°4'52'' S,71°2'12'' W,2022/6/16,2024/6/11,56T,$32816
+FJI-1972-737793,rickie,lav,False,SkyStream,rickie.lav@skystream.com,37°15'58'' N,123°29'22'' W,2020/11/19,2022/6/1,29T,$21054
+ARG-1996-944433,jessie,flanigan,True,VisionaryEdge,jessie.flanigan@visionaryedge.com,49°21'1'' S,67°37'56'' W,2024/1/15,2023/4/5,38T,$34390
+SWE-1971-145048,charin,macke,True,OpenPeak,charin.macke@openpeak.com,87°49'49'' N,3°55'0'' W,2024/2/5,2022/3/13,61T,$51301
+NGA-1996-393992,sheilah,vannelli,True,EonWave,sheilah.vannelli@eonwave.com,45°18'6'' N,151°50'41'' W,2021/1/1,2021/3/13,86T,$73702
+CHN-2008-572427,dredi,acothley,True,CoreLogic,dredi.acothley@corelogic.com,21°4'13'' N,3°34'23'' W,2022/2/15,2020/4/20,66T,$36168
+WSM-1951-351736,fanchette,branden,True,OpalTech,fanchette.branden@opaltech.com,52°34'38'' N,160°26'44'' W,2024/2/3,2024/6/16,59T,$32686
+PNG-1968-592906,nata,wilshire,True,TechPath,nata.wilshire@techpath.com,55°57'12'' N,87°51'32'' W,2021/7/27,2022/4/19,54T,$47034
+THA-1955-545645,lorrin,gore,True,NextEra Systems,lorrin.gore@nextera_systems.com,55°48'18'' S,158°50'48'' E,2023/1/23,2024/6/6,55T,$55000
+SGP-1974-140167,flori,cassisse,True,VividPrime,flori.cassisse@vividprime.com,7°41'33'' S,100°39'59'' E,2023/12/2,2021/5/20,94T,$54896
+ETH-2022-685289,meryl,decarolis,False,InnovativeVision,meryl.decarolis@innovativevision.com,0°45'1'' N,15°47'21'' W,2020/1/15,2022/10/24,100T,$92700
+EGY-1979-123910,sabina,brewbaker,True,MegaTech,sabina.brewbaker@megatech.com,32°14'19'' N,166°9'46'' W,2022/6/17,2024/4/7,75T,$73575
+ZAF-2009-740745,aida,duntley,True,CoreLabs,aida.duntley@corelabs.com,68°9'55'' S,166°47'40'' W,2022/7/9,2024/11/1,90T,$74340
+USA-2011-399013,fancie,ohanley,True,TechHarbor Solutions,fancie.ohanley@techharbor_solutions.com,66°44'5'' N,93°39'7'' W,2023/3/24,2023/6/26,30T,$19620
+ZAF-1956-126391,celestina,seligson,True,TechForge,celestina.seligson@techforge.com,76°4'42'' N,1°22'21'' E,2021/12/1,2021/11/13,34T,$25466
+NGA-2002-735725,dacia,kalinoski,True,PeakFusion,dacia.kalinoski@peakfusion.com,83°15'18'' N,131°23'23'' W,2023/8/17,2021/9/23,94T,$88172
+NGA-1994-623124,clary,kinsel,False,AlphaStream,clary.kinsel@alphastream.com,59°49'34'' S,7°44'2'' W,2020/12/25,2020/10/27,13T,$9698
+JPN-2015-633306,latisha,atchison,False,IntelliWave,latisha.atchison@intelliwave.com,19°33'9'' N,133°45'28'' E,2023/9/14,2020/11/10,97T,$74011
+ITA-1959-557318,crissy,skubik,False,FusionCore Labs,crissy.skubik@fusioncore_labs.com,3°35'27'' N,164°23'24'' W,2023/7/4,2023/3/18,73T,$71394
+SAU-1992-212933,lenee,maule,False,OptimaWorks,lenee.maule@optimaworks.com,69°9'45'' S,133°35'24'' E,2021/6/17,2022/10/13,22T,$15730
+ECU-2015-371772,deedee,kizer,False,VividEdge,deedee.kizer@vividedge.com,34°4'0'' S,50°6'20'' W,2020/8/27,2020/1/8,30T,$25050
+VNM-1969-663724,rivi,dicastro,False,ClearShift,rivi.dicastro@clearshift.com,42°17'50'' N,98°31'44'' E,2020/11/24,2023/11/26,15T,$14205
+ECU-1988-576562,leese,quercioli,False,QuantumRise,leese.quercioli@quantumrise.com,3°56'44'' S,33°19'50'' W,2022/7/4,2023/12/5,38T,$33706
+SAU-2007-769785,mirabella,rodarte,True,FusionLabs,mirabella.rodarte@fusionlabs.com,14°41'0'' N,136°21'37'' W,2023/10/17,2021/5/1,65T,$50505
+TUR-2021-244414,annabella,miano,False,DynamicRoots,annabella.miano@dynamicroots.com,52°58'21'' S,98°7'21'' W,2020/2/24,2020/5/23,11T,$7722
+KEN-1994-905848,marcella,remus,True,FuturePeak,marcella.remus@futurepeak.com,25°14'55'' S,147°5'27'' E,2022/5/21,2024/8/20,82T,$79048
+CHN-2023-604580,rheba,colbeck,True,FusionEdge Labs,rheba.colbeck@fusionedge_labs.com,58°55'57'' S,13°53'26'' E,2020/3/12,2020/2/19,53T,$51781
+TUR-1972-429397,valerie,deerdoff,True,RedEdge,valerie.deerdoff@rededge.com,50°43'22'' N,94°29'41'' W,2024/3/13,2022/4/27,28T,$27664
+GBR-1988-568669,caritta,gilstrap,False,BrightFusion Labs,caritta.gilstrap@brightfusion_labs.com,0°24'32'' S,53°23'51'' E,2020/11/18,2024/5/13,23T,$17802
+VEN-1954-980647,sofie,falgout,True,FutureBridge,sofie.falgout@futurebridge.com,29°40'34'' S,82°11'3'' W,2023/5/16,2023/11/14,82T,$55186
+THA-2008-843774,debee,breneman,False,PeakVision,debee.breneman@peakvision.com,76°42'22'' N,36°55'11'' E,2024/2/19,2023/7/19,10T,$7820
+RUS-1971-959492,rahel,flickner,True,FocusWave,rahel.flickner@focuswave.com,81°32'29'' S,170°23'53'' E,2022/10/2,2023/1/11,22T,$20152
+KEN-1990-647365,chantalle,simler,True,PureFusion,chantalle.simler@purefusion.com,9°41'32'' S,120°13'41'' E,2023/4/25,2024/4/9,97T,$64796
+MAR-2023-311801,mirilla,meurin,True,InnovativeVision,mirilla.meurin@innovativevision.com,46°58'4'' S,92°2'28'' E,2023/2/22,2021/1/2,56T,$43848
+DZA-1960-978195,tabitha,sankaran,True,TrueLabs,tabitha.sankaran@truelabs.com,81°15'50'' S,98°24'38'' W,2022/11/21,2023/10/21,49T,$25774
+SGP-1984-573452,nance,pierrot,True,TechNest,nance.pierrot@technest.com,22°14'35'' S,92°50'23'' W,2024/11/22,2022/10/14,92T,$47196
+SAU-1996-686040,anastasia,cabebe,False,VividTech,anastasia.cabebe@vividtech.com,41°56'45'' S,179°34'39'' W,2020/3/7,2021/9/9,36T,$28944
+MAR-1974-935606,tuesday,malkiewicz,True,RedWave Solutions,tuesday.malkiewicz@redwave_solutions.com,86°46'20'' N,105°18'1'' E,2021/9/15,2021/8/6,76T,$43700
+IND-2010-827067,angel,hydrick,True,PrimeCraft,angel.hydrick@primecraft.com,31°45'8'' N,176°34'28'' E,2022/3/25,2022/9/7,69T,$52578
+FRA-1962-640423,shayne,elliem,False,PureEdge,shayne.elliem@pureedge.com,41°0'55'' N,81°54'30'' W,2020/6/19,2023/7/4,22T,$21736
+ESP-2024-143966,amelina,hartman,False,BlueCore,amelina.hartman@bluecore.com,10°3'16'' N,64°12'17'' W,2023/9/13,2020/8/8,28T,$16072
+CHL-1954-597286,corette,stanley,True,GreenWave,corette.stanley@greenwave.com,0°27'20'' N,51°18'52'' W,2022/9/6,2023/4/21,15T,$13515
+VEN-2005-131052,donna,luneau,True,CrystalStream,donna.luneau@crystalstream.com,87°57'30'' N,49°49'46'' W,2024/12/2,2020/10/1,18T,$10548
+FRA-1965-936178,bobbee,vause,True,ClearPath Labs,bobbee.vause@clearpath_labs.com,70°26'25'' S,57°23'39'' W,2022/10/21,2020/10/21,16T,$13552
+RUS-1997-394335,masha,gerney,False,NextEra Systems,masha.gerney@nextera_systems.com,62°47'56'' S,148°41'8'' W,2022/6/11,2020/9/27,26T,$16822
+ETH-1962-137206,rikki,millward,False,GreenWave,rikki.millward@greenwave.com,70°20'46'' S,14°34'40'' W,2023/9/27,2022/10/18,31T,$27807
+POL-1964-891928,harmonie,saulsberry,True,PrimeCraft,harmonie.saulsberry@primecraft.com,17°40'58'' S,140°16'8'' W,2024/4/22,2023/8/4,74T,$69264
+FRA-1951-618545,myrta,gandy,True,FutureLabs,myrta.gandy@futurelabs.com,24°39'10'' N,60°32'6'' E,2022/7/12,2022/9/10,77T,$71456
+DZA-1959-578471,gertrud,maldonado,True,RedEdge,gertrud.maldonado@rededge.com,21°51'4'' S,66°44'7'' E,2021/12/23,2022/1/17,41T,$21484
+NLD-1967-943439,cherice,wahington,True,TrueFusion Labs,cherice.wahington@truefusion_labs.com,51°26'32'' N,68°47'33'' E,2020/12/7,2022/7/13,26T,$16692
+MEX-2008-898452,dulcie,gillert,False,RedShift Systems,dulcie.gillert@redshift_systems.com,68°38'21'' S,178°6'19'' W,2023/11/18,2023/3/17,86T,$81786
+SGP-1957-122411,karie,vivyan,True,CoreVision,karie.vivyan@corevision.com,31°45'12'' N,144°51'22'' W,2022/10/26,2024/6/15,75T,$41700
+NLD-1980-130573,kelcy,housten,True,TechPrime,kelcy.housten@techprime.com,74°46'13'' N,76°47'39'' E,2020/9/26,2023/8/13,76T,$63840
+NZL-2018-219659,jannel,beaven,False,PrimeCraft,jannel.beaven@primecraft.com,72°37'40'' N,163°11'56'' W,2021/4/24,2023/3/17,84T,$53424
+NLD-1984-470160,ashlan,russel,True,QuantumVision,ashlan.russel@quantumvision.com,42°52'47'' S,80°26'49'' E,2023/5/24,2022/8/27,75T,$68100
+DZA-2001-939151,julie,getto,True,BlueSky Networks,julie.getto@bluesky_networks.com,38°58'17'' N,150°53'32'' E,2023/10/27,2024/7/5,94T,$55930
+MEX-1995-207258,christie,szafryk,True,BrightCraft,christie.szafryk@brightcraft.com,52°41'42'' N,49°9'50'' W,2023/4/6,2023/5/24,91T,$69433
+COL-1972-310664,heidi,orender,False,VividShift,heidi.orender@vividshift.com,65°25'1'' S,152°50'49'' E,2024/6/23,2024/3/21,44T,$40480
+SAU-1977-961122,brigitta,aguino,False,TechStream Labs,brigitta.aguino@techstream_labs.com,52°59'9'' N,168°23'5'' W,2020/1/13,2023/9/21,83T,$48970
+BRA-1975-479678,rozelle,sievel,True,CoreStream,rozelle.sievel@corestream.com,73°5'30'' N,34°25'41'' E,2023/12/14,2022/12/21,13T,$8827
+JPN-1952-973413,robenia,penigar,False,FuturusLabs,robenia.penigar@futuruslabs.com,15°39'29'' S,77°45'37'' W,2020/11/24,2024/7/21,12T,$11220
+VEN-1970-950382,tomasina,roats,False,SkyCraft Solutions,tomasina.roats@skycraft_solutions.com,35°54'7'' N,15°0'32'' E,2020/4/18,2023/7/15,41T,$30381
+SWE-1953-565285,eustacia,bowering,True,NextVision,eustacia.bowering@nextvision.com,33°14'12'' S,14°56'22'' W,2023/9/9,2021/6/4,44T,$25828
+SGP-2011-828980,tiffi,wurgler,True,InnovateCraft,tiffi.wurgler@innovatecraft.com,28°48'24'' S,70°19'22'' E,2020/8/5,2020/2/2,13T,$11271
+UGA-2015-110420,maurizia,liquori,False,TrueEdge,maurizia.liquori@trueedge.com,78°36'57'' N,42°32'4'' W,2023/7/22,2023/1/22,62T,$57784
+IND-1991-336258,audre,lowman,True,OpenPeak,audre.lowman@openpeak.com,7°4'51'' S,132°46'46'' W,2022/4/3,2023/12/1,69T,$34500
+TUR-1968-448777,danette,sommers,False,InnovativeVision,danette.sommers@innovativevision.com,76°33'55'' N,31°16'58'' E,2024/11/12,2020/7/21,92T,$61916
+JPN-1977-430012,atlante,gosier,False,BrightTide Labs,atlante.gosier@brighttide_labs.com,30°12'51'' S,51°18'26'' E,2021/2/5,2024/5/25,38T,$21774
+BRA-1975-951320,ros,kocab,False,TechForge,ros.kocab@techforge.com,25°4'6'' N,32°15'12'' W,2024/5/19,2022/3/17,30T,$17010
+GHA-1988-540886,jami,stumpe,False,RedShift Innovations,jami.stumpe@redshift_innovations.com,47°56'12'' S,68°47'27'' W,2022/8/11,2021/9/22,68T,$60384
+CHN-1984-939114,dasi,dekine,True,VisionLabs,dasi.dekine@visionlabs.com,69°41'31'' S,134°21'57'' E,2022/4/7,2022/12/2,57T,$53010
+ZAF-2003-203624,cate,mollison,True,FusionCraft Labs,cate.mollison@fusioncraft_labs.com,49°38'15'' S,67°12'4'' E,2021/8/14,2021/10/6,25T,$13800
+ARG-1983-821295,doroteya,fiore,True,BoldTech,doroteya.fiore@boldtech.com,58°1'52'' S,44°9'54'' E,2021/3/25,2022/8/11,11T,$7326
+GBR-1979-496466,anetta,mckendry,True,FusionPath,anetta.mckendry@fusionpath.com,29°46'8'' N,19°48'35'' E,2022/9/10,2022/4/17,31T,$24490
+BRA-1978-180050,vallie,percifield,False,IntelliTech,vallie.percifield@intellitech.com,9°59'15'' S,152°30'32'' E,2021/9/16,2024/9/23,84T,$54096
+PER-1952-101486,kandace,geiss,True,NextHarbor,kandace.geiss@nextharbor.com,83°20'25'' N,79°38'27'' W,2022/2/23,2020/6/13,53T,$33867
+SGP-2022-894784,robbyn,robbs,True,EdgeCraft,robbyn.robbs@edgecraft.com,69°48'4'' N,38°9'21'' W,2020/5/27,2021/4/19,71T,$59214
+MEX-1968-807614,sharona,sampang,True,MomentumTech,sharona.sampang@momentumtech.com,44°29'34'' N,104°15'4'' W,2020/11/14,2021/10/21,100T,$57300
+FRA-2022-317969,hester,gane,False,PeakEdge,hester.gane@peakedge.com,81°32'3'' S,159°44'8'' E,2021/10/12,2020/2/21,48T,$26592
+MEX-1953-835569,doralia,borowicz,False,NextTech Labs,doralia.borowicz@nexttech_labs.com,87°13'5'' S,136°22'49'' E,2023/8/26,2023/2/2,79T,$39816
+GHA-1998-107827,korella,chmielowiec,False,TechNest,korella.chmielowiec@technest.com,89°14'56'' N,97°38'33'' E,2020/1/12,2020/3/7,58T,$35206
+SGP-1970-437198,jerrylee,wortham,False,PrimeCraft,jerrylee.wortham@primecraft.com,72°13'36'' N,79°35'26'' W,2020/10/9,2024/12/7,96T,$48768
+AUS-1988-751880,bee,cunliffe,True,VividTech,bee.cunliffe@vividtech.com,83°4'13'' S,27°49'18'' E,2021/4/5,2023/6/20,23T,$17388
+POL-2003-887258,odelinda,erchul,True,OptimaWorks,odelinda.erchul@optimaworks.com,1°55'39'' N,151°36'38'' W,2021/9/10,2020/10/5,85T,$51935
+ESP-1982-111350,rosemaria,kahana,False,VividVision,rosemaria.kahana@vividvision.com,40°23'23'' N,170°0'42'' E,2023/5/4,2020/5/16,73T,$61101
+PNG-1993-366763,natassia,rosseel,False,ClearPath Systems,natassia.rosseel@clearpath_systems.com,69°44'55'' S,6°16'48'' E,2023/5/7,2024/12/13,74T,$47582
+WSM-1951-578126,kerstin,hochhalter,False,NextCraft Labs,kerstin.hochhalter@nextcraft_labs.com,5°33'37'' S,105°37'52'' E,2020/4/18,2022/6/16,93T,$53847
+ZAF-1970-505390,pier,durkes,False,FutureLabs,pier.durkes@futurelabs.com,30°35'47'' S,98°4'56'' E,2020/5/4,2021/12/2,90T,$49050
+POL-1978-937408,lyssa,ledoux,True,GreenWave,lyssa.ledoux@greenwave.com,26°12'34'' S,150°14'41'' E,2024/9/20,2024/9/5,100T,$59300
+JPN-1961-766537,gianna,remedies,True,RedHarbor,gianna.remedies@redharbor.com,87°6'43'' S,167°50'46'' W,2021/3/25,2023/7/3,10T,$7540
+VNM-2003-728254,camellia,swander,True,OpalTech,camellia.swander@opaltech.com,23°1'0'' S,5°31'10'' E,2023/12/14,2024/7/21,52T,$34476
+CHL-2018-925203,chanda,palinkas,True,RedPeak Solutions,chanda.palinkas@redpeak_solutions.com,85°30'12'' N,51°32'56'' E,2021/1/21,2023/5/11,96T,$52512
+VNM-1990-408559,twila,imlay,True,BlueEdge Labs,twila.imlay@blueedge_labs.com,5°49'50'' N,175°30'43'' W,2022/4/22,2024/4/1,13T,$11336
+SGP-1950-723127,valaria,johndrow,True,TrueFusion Labs,valaria.johndrow@truefusion_labs.com,56°59'7'' S,21°43'46'' E,2020/5/3,2020/8/15,91T,$51870
+TUR-1950-535522,chloris,kernen,False,VividPath,chloris.kernen@vividpath.com,0°41'19'' N,117°49'31'' E,2022/2/25,2020/5/5,48T,$25920
+UGA-1962-193705,lydia,goeldner,True,QuantumVision,lydia.goeldner@quantumvision.com,59°39'19'' S,127°29'31'' W,2023/3/6,2021/7/4,11T,$8580
+FRA-2003-150149,aimee,brint,True,EdgeCraft,aimee.brint@edgecraft.com,1°19'24'' N,56°52'43'' E,2023/6/16,2022/2/25,12T,$8964
+TUR-2024-248157,katherina,dishon,True,FusionCore Labs,katherina.dishon@fusioncore_labs.com,50°58'13'' S,149°14'48'' W,2023/7/18,2023/2/19,57T,$42864
+CHL-1994-377979,madelina,wohlert,False,NovaTech,madelina.wohlert@novatech.com,34°33'18'' S,65°4'40'' W,2024/3/3,2020/5/21,93T,$65286
+CHN-1951-432086,jana,theophilus,True,PeakShift,jana.theophilus@peakshift.com,18°30'22'' S,14°20'47'' W,2023/4/3,2022/2/25,62T,$43028
+RUS-1975-187619,cacilie,dawdy,True,VividPrime,cacilie.dawdy@vividprime.com,24°13'54'' N,141°45'59'' E,2024/2/27,2022/10/26,57T,$55404
+USA-2011-758301,salli,bailleu,True,NextEra Solutions,salli.bailleu@nextera_solutions.com,4°59'32'' N,148°8'50'' E,2024/6/16,2024/10/12,75T,$52725
+IND-2019-288865,marget,hainer,True,QuantumWorks,marget.hainer@quantumworks.com,23°32'13'' S,54°18'2'' W,2024/6/27,2021/3/11,42T,$27804
+VEN-2011-148566,martina,heger,True,BrightShift,martina.heger@brightshift.com,7°12'2'' S,169°10'39'' E,2020/7/19,2022/3/8,28T,$14588
+NLD-1958-704212,kaitlynn,drumgole,True,CoreShift,kaitlynn.drumgole@coreshift.com,49°16'37'' S,45°7'29'' W,2024/4/13,2021/9/21,36T,$24948
+SWE-1986-312674,wenda,girty,True,MomentumTech,wenda.girty@momentumtech.com,22°52'7'' N,0°34'14'' E,2024/7/18,2024/1/21,18T,$14652
+NZL-1982-817992,berty,grothaus,True,BrightTech Labs,berty.grothaus@brighttech_labs.com,21°15'49'' N,23°29'40'' E,2021/12/7,2020/8/27,13T,$9789
+POL-1994-498027,eugine,hinahon,True,PureFusion Labs,eugine.hinahon@purefusion_labs.com,81°34'42'' S,144°16'8'' E,2020/11/8,2023/10/1,74T,$38628
+PNG-1980-621887,fawn,coster,True,StratosLogic,fawn.coster@stratoslogic.com,28°27'14'' N,25°46'20'' E,2021/8/9,2020/3/22,18T,$15066
+ETH-1980-909352,suzie,loszynski,True,NextCraft Labs,suzie.loszynski@nextcraft_labs.com,70°35'9'' N,48°55'5'' E,2020/6/20,2022/1/23,64T,$44608
+BRA-1980-421611,kanya,olan,True,PureTech Labs,kanya.olan@puretech_labs.com,70°52'59'' N,101°1'8'' W,2020/8/10,2022/12/5,59T,$46374
+TUN-2013-234056,reeva,sodomka,True,NextGenX,reeva.sodomka@nextgenx.com,24°3'41'' N,25°55'43'' W,2024/3/27,2022/10/24,88T,$71720
+GBR-2009-721764,kristan,kihlstrom,True,SkyTech Solutions,kristan.kihlstrom@skytech_solutions.com,40°57'33'' S,64°59'14'' E,2023/7/24,2022/6/9,87T,$59682
+EGY-2022-732982,gilemette,maid,True,PeakLabs,gilemette.maid@peaklabs.com,25°5'47'' S,115°0'23'' E,2024/11/25,2021/10/24,24T,$14736
+FJI-1969-773844,clementina,mcatee,True,InnovativePath,clementina.mcatee@innovativepath.com,71°50'59'' S,97°23'4'' W,2020/5/11,2022/6/24,52T,$31564
+SWE-1982-779911,jo,santorelli,False,Vanguard Systems,jo.santorelli@vanguard_systems.com,42°50'5'' S,52°57'13'' E,2023/7/6,2020/5/22,54T,$42714
+ZAF-1954-303252,arluene,links,True,RedPath,arluene.links@redpath.com,42°58'17'' N,116°26'3'' E,2022/11/4,2021/6/21,55T,$27940
+CAN-1967-516963,prudy,wagenknecht,True,DigitalFusion,prudy.wagenknecht@digitalfusion.com,51°40'37'' S,171°30'44'' W,2024/12/15,2021/3/15,91T,$79807
+PNG-1999-196233,adorne,lagazo,True,SkyReach Solutions,adorne.lagazo@skyreach_solutions.com,12°58'54'' S,79°54'41'' W,2024/7/13,2024/12/20,56T,$37576
+SAU-2017-406352,athene,scotti,True,SkyBridge Solutions,athene.scotti@skybridge_solutions.com,13°13'26'' N,99°36'54'' W,2022/9/14,2024/7/20,73T,$68255
+PNG-2024-943367,selina,acuff,True,RedShift Systems,selina.acuff@redshift_systems.com,75°39'1'' S,126°32'44'' E,2023/4/12,2022/6/5,19T,$16549
+FJI-1990-841861,bernetta,townes,True,VisionEdge,bernetta.townes@visionedge.com,0°22'35'' S,77°9'33'' E,2020/3/23,2020/1/10,33T,$19305
+RUS-2012-228851,heida,roe,False,InnovativeVision,heida.roe@innovativevision.com,13°54'2'' S,148°23'38'' E,2020/10/25,2022/10/10,11T,$8107
+CHL-2011-906999,matti,rensch,False,InnovativePath,matti.rensch@innovativepath.com,29°27'48'' N,1°56'8'' E,2023/1/10,2024/10/15,27T,$20790
+CHN-2012-642814,janet,rebar,True,CoreRise,janet.rebar@corerise.com,7°8'27'' N,82°37'42'' E,2022/11/23,2022/7/24,13T,$8749
+TUR-1998-291709,elga,bernon,False,BrightTide,elga.bernon@brighttide.com,15°28'24'' N,147°46'27'' W,2021/8/22,2023/1/12,77T,$46893
+FJI-1978-206618,helena,fugitt,True,CoreTech Labs,helena.fugitt@coretech_labs.com,13°47'53'' N,136°56'41'' E,2020/10/19,2023/8/4,58T,$44196
+IND-1950-246249,arden,hitchings,True,IntelliTech,arden.hitchings@intellitech.com,18°51'39'' N,31°6'22'' E,2021/2/6,2022/4/19,55T,$46640
+KOR-1959-746475,meghann,wachtler,True,PrecisionEdge,meghann.wachtler@precisionedge.com,89°10'10'' S,0°53'45'' W,2023/6/27,2020/9/26,43T,$32121
+ARG-1962-384069,sonny,pilch,True,SkyCraft Solutions,sonny.pilch@skycraft_solutions.com,5°31'13'' N,55°58'11'' E,2023/2/13,2020/11/22,73T,$51465
+IND-1952-747519,francoise,hamalak,True,NextGenLabs,francoise.hamalak@nextgenlabs.com,36°18'42'' S,103°2'56'' W,2021/9/12,2024/11/4,70T,$43890
+MEX-2024-588800,coralie,arraiol,True,NovaTech,coralie.arraiol@novatech.com,81°25'50'' N,71°36'6'' E,2024/2/4,2022/10/1,89T,$83215
+NGA-1984-116002,elli,stichter,True,TechEdge Solutions,elli.stichter@techedge_solutions.com,2°52'7'' S,85°45'12'' W,2022/9/12,2021/4/9,72T,$44712
+FJI-1965-973272,ainslee,chatriand,True,TechStream Labs,ainslee.chatriand@techstream_labs.com,55°55'20'' S,69°13'2'' W,2020/6/5,2022/11/21,44T,$32736
+ETH-2022-962403,ara,dozier,False,TrueFusion Labs,ara.dozier@truefusion_labs.com,1°14'32'' N,11°0'14'' E,2023/11/23,2021/8/11,42T,$31626
+POL-1996-150160,ardra,scheaffer,False,TechNest,ardra.scheaffer@technest.com,51°5'44'' N,76°6'48'' E,2023/5/13,2020/6/14,97T,$71877
+RUS-1974-864092,rozamond,soose,True,TechEdge Solutions,rozamond.soose@techedge_solutions.com,40°59'12'' N,167°38'8'' W,2020/11/27,2021/8/2,53T,$26818
+ITA-2005-197435,alleen,sturwold,True,VisionaryCraft,alleen.sturwold@visionarycraft.com,55°20'16'' N,86°49'53'' W,2023/9/27,2021/12/21,47T,$38540
+GBR-1950-911376,sarine,kemmis,True,SkyShift,sarine.kemmis@skyshift.com,35°59'37'' S,46°3'21'' E,2021/1/19,2020/9/23,26T,$14378
+BRA-2021-991803,kitti,gnagey,True,FuturePeak,kitti.gnagey@futurepeak.com,65°4'53'' N,90°30'0'' E,2020/2/11,2021/9/13,96T,$63744
+NLD-1993-318372,virgie,marchall,True,SwiftShift,virgie.marchall@swiftshift.com,76°57'12'' S,0°59'20'' E,2022/11/10,2024/5/2,31T,$27621
+POL-2023-865358,dorthea,melching,True,BlueCraft,dorthea.melching@bluecraft.com,39°26'40'' N,21°59'3'' E,2022/4/18,2023/3/10,96T,$76512
+MEX-1993-508087,trenna,dewhirst,True,Quantum Solutions,trenna.dewhirst@quantum_solutions.com,50°18'33'' N,99°21'12'' E,2022/9/22,2023/8/23,60T,$34380
+NLD-2019-498605,allyn,stradtner,False,TechHarbor,allyn.stradtner@techharbor.com,83°46'35'' N,116°6'27'' E,2024/4/8,2020/4/6,81T,$50139
+BRA-1963-419529,carmon,kops,True,EcoCore,carmon.kops@ecocore.com,28°8'1'' S,178°38'19'' W,2021/1/22,2023/6/10,74T,$47360
+PNG-1967-488677,emmi,delbrocco,False,BrightTech Solutions,emmi.delbrocco@brighttech_solutions.com,16°22'15'' S,119°15'38'' W,2023/3/18,2024/7/12,61T,$57035
+DZA-1984-851332,jewel,waack,False,GreenWave,jewel.waack@greenwave.com,26°7'16'' N,67°9'58'' W,2022/3/9,2021/12/10,63T,$42462
+SAU-1963-555234,heather,cancro,True,FusionTide Labs,heather.cancro@fusiontide_labs.com,66°1'29'' N,39°2'15'' W,2022/11/14,2023/8/27,38T,$28234
+WSM-1954-170781,dalenna,kan,True,FusionPeak,dalenna.kan@fusionpeak.com,69°7'38'' S,168°53'18'' E,2024/10/12,2021/1/8,51T,$49062
+GHA-1959-677231,shaylynn,clain,True,VividPrime,shaylynn.clain@vividprime.com,81°27'29'' S,128°17'54'' E,2020/2/7,2021/5/13,70T,$61250
+AUS-2017-179454,melodee,bressman,True,FusionPrime,melodee.bressman@fusionprime.com,66°37'38'' N,47°31'49'' E,2022/9/9,2022/10/7,85T,$56695
+PNG-1960-290956,lotty,palleschi,True,ElevateX,lotty.palleschi@elevatex.com,81°26'26'' S,21°51'39'' W,2024/8/3,2020/10/20,37T,$26048
+CHL-1998-357448,lita,verkler,False,SwiftVision Labs,lita.verkler@swiftvision_labs.com,26°34'31'' N,159°12'52'' W,2024/10/21,2020/3/5,24T,$15648
+ECU-2001-162628,nikaniki,mckernin,False,TechNex,nikaniki.mckernin@technex.com,63°20'28'' N,39°56'1'' E,2022/10/12,2021/3/22,29T,$25752
+FJI-1983-158100,andrea,troup,True,VeraTech,andrea.troup@veratech.com,25°21'40'' N,27°58'6'' E,2022/7/19,2023/9/15,22T,$17600
+FRA-1963-703767,kylynn,lala,False,RedCraft,kylynn.lala@redcraft.com,46°12'42'' N,2°55'5'' W,2024/6/22,2021/2/1,28T,$27860
+CHL-2020-547236,virgina,noor,True,TrueFusion,virgina.noor@truefusion.com,59°34'52'' S,97°1'32'' E,2021/11/19,2021/11/20,59T,$34692
+CHL-1970-301812,alys,kellar,True,FuturusLabs,alys.kellar@futuruslabs.com,80°37'2'' S,63°3'56'' E,2024/1/26,2020/12/17,76T,$43472
+ZAF-1994-712800,roanna,shortsleeve,False,FusionPoint,roanna.shortsleeve@fusionpoint.com,57°9'50'' N,131°55'8'' E,2021/6/1,2022/10/14,97T,$61013
+KEN-1995-382564,valeda,anson,False,InnovationShift,valeda.anson@innovationshift.com,0°15'16'' S,122°9'10'' W,2023/9/6,2023/12/6,90T,$71280
+ITA-1950-532715,lacy,glaspie,True,SkyEdge,lacy.glaspie@skyedge.com,69°1'14'' S,80°57'21'' W,2020/10/14,2022/10/18,79T,$54668
+SGP-1952-542974,ariadne,luff,False,BrightPath Labs,ariadne.luff@brightpath_labs.com,36°12'41'' N,115°24'8'' W,2024/11/15,2024/1/8,36T,$25200
+DEU-2016-468235,natividad,cochis,True,RedWave Solutions,natividad.cochis@redwave_solutions.com,40°57'8'' S,147°56'33'' E,2021/4/27,2021/5/1,10T,$5490
+NLD-1951-588573,lesly,nutley,True,BluePeak,lesly.nutley@bluepeak.com,15°44'39'' N,171°0'31'' E,2020/9/4,2023/2/12,93T,$84537
+NGA-1962-353685,nada,patron,False,VividFusion Labs,nada.patron@vividfusion_labs.com,25°2'47'' N,141°36'21'' E,2023/5/12,2023/10/17,36T,$34596
+ITA-1990-875059,shantee,nunnally,True,FusionTide Labs,shantee.nunnally@fusiontide_labs.com,2°17'22'' S,169°45'24'' E,2024/7/20,2021/6/6,56T,$46032
+USA-1968-583144,betta,strictland,False,SkyStream,betta.strictland@skystream.com,10°28'36'' S,35°19'20'' W,2022/3/10,2021/8/12,61T,$35380
+AUS-1985-237169,carolyn,tartt,True,PureTech,carolyn.tartt@puretech.com,52°22'35'' N,55°53'21'' W,2021/7/25,2021/9/7,86T,$50138
+BRA-2009-773228,rivy,fabello,True,ElevateWorks,rivy.fabello@elevateworks.com,45°7'35'' N,44°5'25'' E,2022/7/18,2020/3/7,30T,$25800
+NZL-1989-660392,stacee,kufel,True,PeakLabs,stacee.kufel@peaklabs.com,71°7'53'' N,113°46'22'' E,2022/6/3,2022/2/15,62T,$42594
+COL-1976-559107,antonetta,hunziker,True,BrightCore Systems,antonetta.hunziker@brightcore_systems.com,85°33'53'' S,109°56'26'' W,2024/5/26,2021/10/22,17T,$13294
+ESP-2008-525691,neysa,lico,True,TechTide Labs,neysa.lico@techtide_labs.com,3°10'34'' S,61°59'49'' W,2020/2/3,2020/10/20,51T,$48858
+BRA-1986-295725,tildy,gathing,False,QuantumShift,tildy.gathing@quantumshift.com,9°35'35'' N,71°9'22'' W,2021/9/22,2024/8/16,88T,$57376
+ARG-1965-139566,kessia,billerbeck,False,BlueSky Networks,kessia.billerbeck@bluesky_networks.com,22°26'14'' N,65°20'11'' E,2020/4/20,2021/3/1,92T,$64400
+MEX-1978-653189,jacinta,gravley,True,TechCraft,jacinta.gravley@techcraft.com,86°45'24'' N,110°21'27'' W,2024/6/8,2022/6/18,40T,$31440
+AUS-2000-682539,lindie,leverson,False,FusionHarbor,lindie.leverson@fusionharbor.com,4°46'54'' N,47°14'19'' W,2021/1/17,2020/3/25,59T,$57879
+GBR-1980-698779,adel,letbetter,True,CoreShift,adel.letbetter@coreshift.com,13°4'40'' S,165°33'18'' W,2022/3/9,2022/7/19,24T,$12192
+CHL-2000-161223,inez,albornoz,True,SwiftCore,inez.albornoz@swiftcore.com,0°26'13'' N,29°47'25'' E,2023/2/26,2020/9/13,65T,$59020
+CHE-1996-325232,lula,inzunza,True,QuantumLeap,lula.inzunza@quantumleap.com,41°35'24'' N,95°28'39'' W,2020/12/10,2024/4/25,65T,$50830
+IND-1981-914172,cyndie,wealer,True,TechBridge,cyndie.wealer@techbridge.com,25°1'32'' S,69°41'53'' E,2023/9/10,2022/4/10,18T,$10980
+SWE-2004-417579,desdemona,rulon,False,TechNova,desdemona.rulon@technova.com,44°48'47'' N,33°54'53'' E,2022/8/11,2021/5/5,63T,$31752
+USA-2011-990805,fidela,tobert,False,PureFusion Labs,fidela.tobert@purefusion_labs.com,27°21'2'' S,9°36'0'' E,2024/8/4,2021/5/15,80T,$71520
+FJI-1981-761025,emma,radice,True,MomentumTech,emma.radice@momentumtech.com,33°49'29'' N,52°10'16'' W,2020/5/26,2023/4/13,92T,$74520
+KOR-1970-960429,leyla,okuley,False,SkyEdge,leyla.okuley@skyedge.com,2°47'32'' N,53°9'25'' E,2020/10/21,2022/11/7,71T,$51546
+TUN-1995-689442,gena,volante,False,SilverLine,gena.volante@silverline.com,73°21'26'' S,137°35'32'' W,2023/8/25,2020/3/21,63T,$46935
+TUR-2013-131996,lurlene,stockman,True,TechHarbor Labs,lurlene.stockman@techharbor_labs.com,55°17'33'' N,37°49'16'' E,2020/5/21,2024/8/25,78T,$69108
+AUS-1960-194658,merrie,carlsten,True,BrightTech Solutions,merrie.carlsten@brighttech_solutions.com,75°33'29'' N,166°52'52'' W,2024/11/5,2022/2/1,17T,$16796
+CHE-2013-763575,teddi,dughi,True,PeakLabs,teddi.dughi@peaklabs.com,67°8'30'' S,88°33'48'' W,2022/2/18,2024/3/24,96T,$79104
+VEN-1981-435886,fawne,louissaint,True,ElevateEdge,fawne.louissaint@elevateedge.com,83°43'14'' S,2°42'36'' W,2021/9/23,2020/11/1,10T,$8590
+SWE-1983-605712,nikki,ottman,False,Silverstone Solutions,nikki.ottman@silverstone_solutions.com,55°24'34'' S,143°24'41'' E,2021/2/19,2024/3/10,42T,$22722
+TUN-2002-774734,odetta,lunnon,False,TechBridge Labs,odetta.lunnon@techbridge_labs.com,72°9'38'' S,64°31'14'' E,2021/3/2,2024/7/4,59T,$36816
+USA-1979-421693,tarra,cuascut,True,FutureLabs,tarra.cuascut@futurelabs.com,70°52'30'' S,36°30'14'' W,2022/5/15,2023/1/2,45T,$26820
+DZA-1965-313960,phil,karayan,True,PrimeShift,phil.karayan@primeshift.com,47°53'57'' N,138°10'1'' E,2023/7/17,2021/2/8,25T,$16500
+BRA-1972-977075,annaliese,allen,False,SkyTech,annaliese.allen@skytech.com,56°45'15'' N,60°23'3'' W,2021/6/4,2022/8/1,72T,$45792
+TUN-2009-807358,clemmy,lewerke,True,BrightTide,clemmy.lewerke@brighttide.com,23°56'40'' N,155°12'38'' E,2022/8/2,2022/11/9,92T,$62100
+CHL-1978-712123,estel,griffitt,True,GreenWave,estel.griffitt@greenwave.com,35°5'25'' S,118°7'19'' E,2024/6/25,2024/5/18,55T,$41360
+GHA-1988-974910,shannen,meyerhoff,True,FusionPath Labs,shannen.meyerhoff@fusionpath_labs.com,73°26'22'' S,46°4'59'' W,2020/8/8,2022/10/17,10T,$8060
+MEX-2011-253501,lorna,tomka,True,PrimeWave,lorna.tomka@primewave.com,13°40'54'' N,148°33'49'' E,2022/6/12,2022/4/9,46T,$28980
+JPN-1972-672413,thekla,pigna,True,PeakLabs,thekla.pigna@peaklabs.com,24°0'19'' N,65°6'2'' E,2022/7/17,2024/12/25,84T,$43680
+DZA-1956-380188,mireielle,dasinger,False,VisionFlow,mireielle.dasinger@visionflow.com,10°59'8'' N,28°52'55'' W,2021/11/15,2021/2/19,90T,$82890
+NGA-2000-313482,bevvy,alsman,True,PeakForge,bevvy.alsman@peakforge.com,85°14'18'' N,138°28'57'' E,2020/2/1,2021/3/26,59T,$50858
+COL-1967-828575,rozanne,sittloh,True,BrightCore,rozanne.sittloh@brightcore.com,41°40'24'' S,17°40'29'' W,2024/8/16,2020/4/4,53T,$27242
+NZL-1965-284745,mala,meitz,True,SkyBridge Solutions,mala.meitz@skybridge_solutions.com,43°47'14'' S,118°19'11'' E,2023/9/21,2023/9/5,65T,$48360
+COL-1984-521304,cristie,huhtala,True,BrightCraft,cristie.huhtala@brightcraft.com,64°31'53'' S,153°50'24'' W,2022/11/6,2024/5/13,79T,$76630
+KEN-1959-150686,frieda,spiering,False,NextEra Labs,frieda.spiering@nextera_labs.com,89°57'19'' S,6°11'42'' W,2021/9/5,2021/11/14,63T,$36477
+MEX-2009-804739,fannie,shoulars,False,BlueShift Solutions,fannie.shoulars@blueshift_solutions.com,75°10'42'' N,131°58'25'' W,2022/2/27,2020/11/21,34T,$20604
+MAR-1972-161627,winnie,nkomo,False,SkyShift,winnie.nkomo@skyshift.com,66°47'33'' N,8°48'41'' E,2023/1/7,2024/4/21,85T,$70975
+SWE-1952-398595,julita,nagy,False,FusionTide,julita.nagy@fusiontide.com,78°6'5'' N,179°25'59'' W,2021/3/17,2020/2/24,17T,$12920
+CHN-2022-718090,oona,palermo,True,TechPrime,oona.palermo@techprime.com,21°35'7'' N,135°38'37'' E,2021/10/10,2021/2/19,56T,$30464
+USA-1986-739256,adrianne,mcgregor,True,NextEdge,adrianne.mcgregor@nextedge.com,56°37'25'' N,159°10'12'' W,2024/2/9,2021/6/4,99T,$70785
+SWE-1973-293675,corinne,lomu,False,BluePeak,corinne.lomu@bluepeak.com,39°18'44'' N,129°5'39'' E,2023/12/8,2023/6/22,64T,$32256
+ZAF-2000-174006,wilone,barksdale,False,BrightBridge,wilone.barksdale@brightbridge.com,36°12'39'' S,150°42'15'' E,2024/12/25,2023/11/21,59T,$57584
+PER-1975-631429,barbara-anne,carlson,True,DigitalVista,barbara-anne.carlson@digitalvista.com,85°43'49'' S,117°39'7'' E,2024/9/16,2021/1/17,89T,$79299
+WSM-2004-689951,susannah,albracht,False,BoldCraft,susannah.albracht@boldcraft.com,41°16'6'' S,63°48'46'' W,2023/3/20,2022/4/25,35T,$28315
+UGA-2010-681980,consolata,deso,False,QuantumEdge,consolata.deso@quantumedge.com,73°53'26'' S,96°26'50'' E,2023/1/17,2020/8/24,58T,$55738
+TUR-1964-219888,mariele,camposano,True,EcoFusion,mariele.camposano@ecofusion.com,10°11'57'' S,15°21'58'' W,2022/10/8,2024/3/11,100T,$84200
+AUS-1997-417384,trudi,sherville,False,VividHarbor,trudi.sherville@vividharbor.com,45°7'59'' S,38°2'41'' W,2020/9/19,2021/10/1,36T,$20052
+SAU-2021-703675,fern,spee,True,StarBridge,fern.spee@starbridge.com,55°19'1'' S,57°16'6'' W,2021/5/27,2022/1/5,78T,$74880
+NGA-2011-362652,dyna,revis,True,ClearFusion,dyna.revis@clearfusion.com,46°48'43'' S,53°37'9'' E,2021/1/16,2021/11/25,32T,$25696
+RUS-1965-553412,konstanze,jeanneret,True,PrimeShift Labs,konstanze.jeanneret@primeshift_labs.com,23°32'57'' N,25°37'20'' W,2020/4/27,2020/6/6,37T,$20572
+ARG-2000-518284,catlin,pavelski,False,PeakEdge,catlin.pavelski@peakedge.com,17°50'48'' S,109°53'2'' E,2020/10/3,2021/1/20,90T,$86130
+CAN-1963-309764,margery,hagens,True,InnovativeStream,margery.hagens@innovativestream.com,57°47'40'' S,140°40'42'' W,2024/2/3,2021/7/9,76T,$64448
+JPN-1966-906971,faustine,fraiser,False,VisionaryCraft,faustine.fraiser@visionarycraft.com,2°55'39'' S,166°17'45'' E,2022/9/18,2022/12/24,58T,$32596
+CHN-1973-639715,bonnee,saviano,True,TechForge,bonnee.saviano@techforge.com,84°56'38'' N,132°18'38'' W,2020/1/7,2022/12/3,32T,$16320
+ITA-1993-226757,cymbre,gubala,True,NextCraft,cymbre.gubala@nextcraft.com,57°52'57'' S,121°52'54'' E,2022/9/1,2023/4/21,30T,$18690
+CHE-1958-270131,marion,garnham,True,FutureStream,marion.garnham@futurestream.com,9°7'14'' N,105°21'32'' W,2020/1/2,2021/8/18,53T,$26659
+JPN-1997-127421,rena,sommerfeld,True,CrystalTech,rena.sommerfeld@crystaltech.com,9°38'45'' S,14°18'4'' W,2024/8/20,2024/6/26,81T,$69255
+ITA-1991-363732,shela,runyons,True,SkyVision,shela.runyons@skyvision.com,6°15'3'' N,92°18'2'' W,2024/11/26,2022/10/9,83T,$67562
+WSM-1999-800552,gae,delmendo,True,BrightTide Labs,gae.delmendo@brighttide_labs.com,33°51'16'' N,39°43'23'' W,2024/5/17,2021/1/20,50T,$28300
+ETH-1999-150004,ernesta,schofield,True,StarBridge,ernesta.schofield@starbridge.com,23°40'53'' N,30°44'47'' E,2024/11/18,2021/2/8,86T,$77658
+THA-2009-575693,sidoney,shortey,False,CrystalStream,sidoney.shortey@crystalstream.com,47°53'37'' S,122°21'6'' E,2024/10/27,2023/12/6,85T,$78965
+VEN-1967-283232,hanny,mccumiskey,True,BrightCraft,hanny.mccumiskey@brightcraft.com,44°2'39'' S,65°19'21'' E,2022/6/7,2021/11/5,73T,$44457
+WSM-1992-714309,sheena,kauppi,False,PrimeShift Labs,sheena.kauppi@primeshift_labs.com,43°52'35'' N,147°56'26'' W,2022/8/8,2021/5/5,16T,$12912
+SWE-1996-890134,janenna,dickun,False,NextGenX,janenna.dickun@nextgenx.com,15°14'37'' N,78°2'21'' E,2021/12/11,2020/6/12,65T,$38870
+POL-1954-163496,suzanne,kirley,True,BlueFusion,suzanne.kirley@bluefusion.com,45°8'34'' S,26°52'5'' E,2024/10/26,2023/9/12,71T,$58362
+PHL-1973-498083,katheryn,dipanfilo,True,TechVanguard Labs,katheryn.dipanfilo@techvanguard_labs.com,25°39'42'' S,74°55'50'' E,2022/11/21,2021/5/7,94T,$70124
+MEX-1974-676729,lisette,shybut,True,VividFusion,lisette.shybut@vividfusion.com,45°53'29'' S,56°2'22'' E,2020/4/8,2021/8/8,24T,$18912
+CHE-2024-380922,judith,galipeau,False,BrightCore,judith.galipeau@brightcore.com,19°48'8'' S,151°42'12'' W,2023/3/26,2021/9/24,74T,$37814
+VNM-2018-645802,pat,hirneise,True,InnovativeStream,pat.hirneise@innovativestream.com,32°0'52'' N,14°25'53'' W,2023/12/4,2024/1/15,44T,$31416
+SGP-1953-691863,kirstyn,corral,True,FusionCore Labs,kirstyn.corral@fusioncore_labs.com,7°17'1'' N,20°21'3'' E,2024/7/20,2021/7/19,15T,$11055
+ETH-1971-673434,kaia,hori,True,BrightTide Labs,kaia.hori@brighttide_labs.com,7°37'36'' N,154°19'48'' W,2024/11/6,2021/11/15,77T,$54131
+FRA-2005-777582,minerva,carlill,False,RedShift Systems,minerva.carlill@redshift_systems.com,63°19'3'' S,117°18'46'' W,2024/2/23,2022/2/3,67T,$45158
+NZL-2023-637028,margarete,frommer,True,ClearRise,margarete.frommer@clearrise.com,11°4'46'' S,34°34'31'' E,2024/1/12,2024/6/8,97T,$75757
+BRA-1998-175530,alicea,visnocky,False,Redwood Enterprises,alicea.visnocky@redwood_enterprises.com,2°10'56'' N,157°40'57'' W,2020/11/9,2020/5/20,41T,$21238
+ZAF-1963-588841,kyle,smillie,False,BluePeak,kyle.smillie@bluepeak.com,45°37'12'' N,107°54'7'' E,2020/4/27,2024/8/25,87T,$50286
+RUS-1997-207720,mandie,sanzone,True,FutureHarbor,mandie.sanzone@futureharbor.com,70°55'57'' S,127°40'28'' E,2024/2/5,2020/4/22,97T,$52574
+ARG-1960-312214,charla,chisley,False,AlphaLabs,charla.chisley@alphalabs.com,39°44'56'' N,12°7'23'' E,2021/3/12,2023/10/13,55T,$30415
+AUS-1994-237582,alma,urda,True,BrightTech Labs,alma.urda@brighttech_labs.com,68°2'2'' N,108°49'39'' W,2020/7/2,2022/2/17,84T,$69888
+ITA-1959-360374,marcelline,fondaw,False,SwiftEdge,marcelline.fondaw@swiftedge.com,25°23'16'' S,7°26'59'' E,2021/11/11,2021/4/17,38T,$37392
+IND-1996-340027,willy,biringer,False,ClearEdge,willy.biringer@clearedge.com,79°14'56'' S,83°1'49'' W,2022/2/26,2024/1/8,65T,$53040
+DEU-1971-661894,barbra,grodski,False,FusionPath Labs,barbra.grodski@fusionpath_labs.com,10°7'1'' S,10°3'15'' W,2023/6/20,2022/2/4,76T,$67564
+TUN-1951-881569,madlen,dove,False,PureVision,madlen.dove@purevision.com,13°1'46'' N,70°25'23'' W,2020/9/19,2020/1/25,58T,$55274
+BRA-1960-686911,carine,cajucom,True,PureFusion,carine.cajucom@purefusion.com,38°24'34'' N,85°5'32'' E,2020/10/7,2024/1/17,56T,$33824
+CHN-1973-950995,tracy,schissel,True,TechStream Labs,tracy.schissel@techstream_labs.com,23°17'24'' N,91°6'3'' E,2024/1/19,2024/2/21,52T,$30472
+WSM-2012-212508,angie,soltani,True,StreamWave,angie.soltani@streamwave.com,53°22'40'' N,0°46'23'' W,2024/10/26,2024/12/13,71T,$39405
+USA-1994-883204,darryl,soberano,False,SkyTech Labs,darryl.soberano@skytech_labs.com,81°18'8'' S,34°57'8'' E,2020/3/17,2022/6/20,84T,$52752
+KEN-2020-894721,amandie,dayan,True,TechFusion Solutions,amandie.dayan@techfusion_solutions.com,28°10'17'' N,50°13'41'' W,2022/1/8,2024/3/11,74T,$61790
+WSM-2002-964792,tina,litaker,True,InnovativeTech Labs,tina.litaker@innovativetech_labs.com,88°38'54'' S,107°56'14'' W,2024/12/18,2024/2/2,43T,$31777
+TUN-1974-278321,addi,watson,True,BrightCore Systems,addi.watson@brightcore_systems.com,45°39'48'' S,28°20'11'' W,2024/12/1,2022/1/25,23T,$16560
+SWE-2011-290535,vanna,brochard,True,QuantumTech,vanna.brochard@quantumtech.com,55°29'19'' S,44°23'17'' E,2022/3/9,2021/7/13,21T,$14511
+IND-1962-476504,orelie,hakimian,True,BoldShift,orelie.hakimian@boldshift.com,69°30'56'' N,8°46'57'' W,2021/10/17,2021/9/20,63T,$51408
+PNG-2006-133267,caria,mcparland,True,NeoTech,caria.mcparland@neotech.com,63°48'30'' N,20°38'40'' W,2020/8/9,2024/2/8,24T,$23808
+USA-2020-612621,dian,bowdle,True,RedShift Labs,dian.bowdle@redshift_labs.com,50°54'28'' S,42°31'35'' W,2022/10/25,2021/6/25,14T,$13356
+SAU-1979-452448,angelle,obie,True,NextGenX,angelle.obie@nextgenx.com,54°53'39'' N,101°22'24'' W,2022/5/24,2021/8/11,80T,$64480
+PNG-1989-979297,lucille,farwick,False,VividTech,lucille.farwick@vividtech.com,87°2'55'' S,78°59'0'' W,2020/11/9,2023/5/10,72T,$40464
+DEU-1994-528336,paolina,elfenbein,True,Visionary Labs,paolina.elfenbein@visionary_labs.com,22°34'41'' S,126°9'57'' E,2022/2/2,2023/2/23,20T,$13100
+SGP-1980-753675,tasia,fermo,True,Quantum Solutions,tasia.fermo@quantum_solutions.com,43°16'44'' N,149°17'57'' W,2024/1/24,2020/8/6,62T,$60078
+SWE-1996-351773,daffie,goodman,True,GoldenGate Ventures,daffie.goodman@goldengate_ventures.com,50°22'31'' S,67°1'44'' E,2020/3/17,2021/4/22,25T,$13100
+FJI-1985-245443,edna,zall,True,HorizonFlow,edna.zall@horizonflow.com,70°28'58'' S,68°41'9'' W,2021/2/12,2020/5/14,79T,$43371
+PER-1950-595468,shannah,abdelmuti,True,BrightCore Labs,shannah.abdelmuti@brightcore_labs.com,1°30'16'' N,143°6'13'' W,2022/11/25,2022/8/21,61T,$58987
+COL-2021-436267,corrinne,martinet,False,PrimeWave,corrinne.martinet@primewave.com,40°59'26'' N,30°34'58'' W,2023/8/25,2023/7/6,13T,$9646
+JPN-1976-768441,rori,brownsword,False,QuantumLeap,rori.brownsword@quantumleap.com,56°27'23'' N,50°39'34'' W,2022/10/12,2022/2/18,19T,$18031
+TUN-1959-397212,cherilynn,heit,False,NextGenLabs,cherilynn.heit@nextgenlabs.com,23°23'40'' S,78°47'10'' W,2023/7/12,2021/10/17,94T,$50290
+CHL-1976-190765,laurianne,thimmesch,True,DigitalFusion,laurianne.thimmesch@digitalfusion.com,2°11'48'' S,170°55'21'' E,2021/6/4,2023/3/19,69T,$35604
+THA-2016-530951,malissa,frisbey,True,FusionShift Labs,malissa.frisbey@fusionshift_labs.com,37°39'7'' S,78°9'17'' W,2024/1/19,2023/7/14,73T,$49859
+USA-1973-128679,lucy,vanartsdalen,True,FutureVision,lucy.vanartsdalen@futurevision.com,10°56'6'' N,106°24'6'' E,2022/1/2,2020/11/15,59T,$42775
+PER-1965-328238,cherry,schomin,True,PrimeTech,cherry.schomin@primetech.com,17°9'36'' S,102°44'6'' W,2023/9/22,2020/1/4,41T,$23534
+PHL-1964-648646,morgana,desmith,True,InnovateWave,morgana.desmith@innovatewave.com,6°20'27'' S,49°16'12'' E,2023/6/16,2023/4/1,87T,$43587
+NGA-2016-244949,zita,sroczynski,True,PeakForge,zita.sroczynski@peakforge.com,24°59'14'' S,100°31'20'' W,2021/6/10,2021/10/22,27T,$22059
+GHA-1980-929487,pandora,scarduzio,True,BrightPath Systems,pandora.scarduzio@brightpath_systems.com,8°35'3'' S,137°17'45'' E,2021/2/21,2020/12/17,34T,$32878
+CAN-1990-531781,valida,rue,False,EvoTech,valida.rue@evotech.com,0°1'17'' N,172°32'51'' E,2022/12/23,2024/4/15,66T,$34782
+SAU-1987-265546,elayne,umbright,True,ClearRise,elayne.umbright@clearrise.com,29°22'46'' S,102°24'53'' E,2020/4/21,2021/5/17,42T,$33264
+PHL-1985-195964,zenia,ambrosio,True,DigitalHorizon,zenia.ambrosio@digitalhorizon.com,46°10'30'' S,79°30'17'' E,2020/11/27,2023/6/19,34T,$20604
+CHN-1982-140288,pammy,stasiuk,True,SilverLine,pammy.stasiuk@silverline.com,40°33'44'' N,173°29'50'' E,2024/7/8,2022/2/7,32T,$30976
+KEN-1962-344543,jillene,vicars,False,IntelliTech,jillene.vicars@intellitech.com,64°2'46'' N,145°51'29'' W,2023/10/15,2020/3/18,69T,$44022
+SAU-1966-365749,deerdre,huwe,True,PurePath,deerdre.huwe@purepath.com,69°2'23'' S,80°25'47'' W,2021/5/24,2020/1/17,32T,$29024
+PER-1992-684691,jeana,allis,True,TechFusion,jeana.allis@techfusion.com,10°49'19'' N,43°40'27'' W,2024/12/25,2024/9/26,60T,$45060
+PER-1964-777115,perry,dillenburg,True,TechTide,perry.dillenburg@techtide.com,43°17'58'' N,104°54'34'' E,2022/6/2,2022/5/5,19T,$11628
+CAN-1985-199371,avivah,heizer,True,ZenWave Technologies,avivah.heizer@zenwave_technologies.com,63°21'51'' N,42°32'41'' W,2021/1/4,2024/8/4,83T,$74700
+ECU-1999-150814,minetta,brimley,False,PrimeShift,minetta.brimley@primeshift.com,38°14'34'' N,110°52'38'' E,2021/11/19,2022/8/3,31T,$24335
+SGP-1970-552209,ddene,lampey,False,ElevateWorks,ddene.lampey@elevateworks.com,77°47'29'' N,116°32'54'' W,2024/2/24,2022/8/16,61T,$38308
+ARG-1999-634730,lissa,mcclatcher,True,EcoCraft,lissa.mcclatcher@ecocraft.com,13°16'49'' S,95°52'50'' E,2020/4/22,2021/7/16,78T,$48828
+THA-2004-348082,viviyan,waguespack,True,InnovaX,viviyan.waguespack@innovax.com,20°33'10'' N,178°40'6'' E,2020/11/7,2024/10/15,58T,$38222
+AUS-1964-796393,fredia,kellog,True,FusionSphere,fredia.kellog@fusionsphere.com,67°2'27'' S,168°22'56'' W,2024/9/8,2023/6/14,11T,$7128
+PNG-2012-793666,jerrilyn,vandergiessen,True,QuantumShift,jerrilyn.vandergiessen@quantumshift.com,61°6'54'' S,40°23'26'' E,2024/9/23,2021/6/25,93T,$73377
+WSM-2005-850518,janot,mcwherter,True,ClearPath Labs,janot.mcwherter@clearpath_labs.com,30°19'50'' N,68°14'35'' W,2023/9/5,2023/1/17,69T,$67758
+DZA-2017-494312,erena,neuenswander,True,TechRise Labs,erena.neuenswander@techrise_labs.com,4°13'31'' N,137°35'48'' E,2023/2/27,2023/12/12,73T,$43216
+TUR-2018-799192,beatrisa,broaddus,True,BrightHarbor,beatrisa.broaddus@brightharbor.com,89°25'50'' S,132°59'38'' E,2021/9/18,2024/6/8,84T,$68796
+IND-1950-666626,gaye,bonker,True,PinnacleX,gaye.bonker@pinnaclex.com,86°17'45'' S,110°44'49'' W,2021/1/7,2022/4/6,44T,$34760
+CHE-2012-436309,sondra,decurtis,True,InnovationShift,sondra.decurtis@innovationshift.com,86°34'10'' N,7°4'49'' E,2024/12/14,2022/7/18,43T,$25370
+PER-1984-925912,genny,caporali,True,BrightTech Solutions,genny.caporali@brighttech_solutions.com,25°14'35'' N,8°33'20'' E,2020/7/1,2021/12/25,49T,$45766
+MAR-1993-777740,charlot,elms,True,InnovativeStream,charlot.elms@innovativestream.com,14°32'19'' N,91°11'54'' E,2024/9/16,2021/3/22,60T,$53880
+KOR-1959-555980,josi,neisen,True,NovaPath,josi.neisen@novapath.com,78°49'43'' S,143°34'10'' W,2023/10/9,2020/9/21,17T,$16847
+UGA-1986-359030,alaine,elison,True,TechPrime,alaine.elison@techprime.com,63°38'17'' N,179°58'29'' W,2024/5/3,2024/6/22,82T,$54940
+VEN-1981-301035,ysabel,koebel,True,DigitalFusion,ysabel.koebel@digitalfusion.com,55°12'33'' S,179°33'30'' W,2021/8/13,2022/9/25,71T,$66101
+GHA-1960-728472,karlee,branch,False,NextEra Labs,karlee.branch@nextera_labs.com,58°44'7'' S,82°43'22'' W,2024/11/13,2022/7/7,85T,$65025
+SAU-1952-420240,sarette,seacrist,True,QuantumDrive,sarette.seacrist@quantumdrive.com,77°48'17'' S,161°13'6'' E,2022/10/1,2023/10/16,62T,$43400
+ESP-1984-456796,leda,shaff,False,BrightRise,leda.shaff@brightrise.com,81°56'30'' N,18°31'21'' E,2020/5/3,2022/1/1,20T,$13520
+JPN-1998-743949,sybila,lohr,False,RedWave Solutions,sybila.lohr@redwave_solutions.com,11°29'52'' S,71°50'35'' E,2024/1/6,2020/3/5,50T,$45350
+USA-1950-488578,athena,lipinsky,True,BlueRise,athena.lipinsky@bluerise.com,52°18'57'' N,32°51'49'' E,2024/2/7,2021/1/21,71T,$55096
+UGA-1973-465149,hestia,obas,False,InnovationShift,hestia.obas@innovationshift.com,1°54'24'' N,12°19'23'' W,2022/10/5,2021/6/7,24T,$21984
+DEU-2018-809795,sephira,bertucci,True,OmniWave,sephira.bertucci@omniwave.com,10°7'0'' N,102°43'42'' E,2023/4/9,2024/11/9,13T,$7189
+RUS-2011-743622,kelly,boozer,True,NextCraft Labs,kelly.boozer@nextcraft_labs.com,24°45'32'' S,168°3'17'' W,2024/3/23,2020/5/3,79T,$63595
+CHN-2006-754270,stacia,araujo,True,ElevateTech Labs,stacia.araujo@elevatetech_labs.com,77°9'19'' S,0°24'41'' W,2020/9/23,2021/9/4,87T,$80214
+PER-1968-852681,lilllie,prete,True,TechVision,lilllie.prete@techvision.com,74°56'32'' N,45°20'54'' E,2020/1/1,2021/4/4,87T,$58464
+NZL-2016-120195,abagael,lauth,False,SkyVision,abagael.lauth@skyvision.com,23°49'49'' S,136°53'31'' E,2022/3/3,2021/6/20,45T,$44640
+ECU-1973-314437,teena,nottage,True,QuantumShift,teena.nottage@quantumshift.com,8°27'53'' N,160°6'43'' E,2022/4/20,2022/7/5,48T,$26688
+BRA-2021-477764,lona,wolkowiecki,False,TechNex,lona.wolkowiecki@technex.com,55°38'5'' S,71°16'47'' W,2023/8/6,2023/2/3,100T,$56500
+CAN-1988-809156,kayley,barreda,False,GlobalStream,kayley.barreda@globalstream.com,49°26'5'' S,77°14'39'' W,2020/7/26,2022/5/19,69T,$41883
+DZA-1953-650000,lenka,tobe,True,SkyTech Labs,lenka.tobe@skytech_labs.com,35°54'13'' N,174°19'42'' W,2024/5/25,2021/5/5,80T,$62480
+JPN-2024-412972,gaby,lundvall,True,FutureCore,gaby.lundvall@futurecore.com,59°50'50'' S,97°17'29'' W,2024/2/5,2021/10/14,35T,$33950

@@ -1,0 +1,40 @@
+###ENTRADA###
+697594217658885960255366
+###SALIDA###
+Ingrese un número para analizar: 59
+###ENTRADA###
+282579372428587318022414
+###SALIDA###
+Ingrese un número para analizar: 28
+###ENTRADA###
+123655221255495999686084
+###SALIDA###
+Ingrese un número para analizar: 55
+###ENTRADA###
+967464782759208829769510
+###SALIDA###
+Ingrese un número para analizar: 82
+###ENTRADA###
+891361569854107847724410
+###SALIDA###
+Ingrese un número para analizar: 410
+###ENTRADA###
+1668855415101097359632
+###SALIDA###
+Ingrese un número para analizar: 10
+###ENTRADA###
+721063832605076251840224
+###SALIDA###
+Ingrese un número para analizar: No se encontraron coincidencias
+###ENTRADA###
+396475986260239941047013
+###SALIDA###
+Ingrese un número para analizar: 47
+###ENTRADA###
+831201676623530817662442
+###SALIDA###
+Ingrese un número para analizar: 7662
+###ENTRADA###
+161979332633697550155394
+###SALIDA###
+Ingrese un número para analizar: 97

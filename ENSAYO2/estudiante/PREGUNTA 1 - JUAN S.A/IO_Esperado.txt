@@ -1,0 +1,447 @@
+###ENTRADA###
+CHL
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: maighdiln.hommell@bluepeak.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: marjorie.eckstein@brightbridge.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: antonia.mcclusky@primeedge_solutions.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: delores.furrow@digitalpath.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: gale.knutson@bluerise.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: alys.kellar@futuruslabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: inez.albornoz@swiftcore.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: estel.griffitt@greenwave.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+UGA
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: jobye.shipton@futurelabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: noami.cappelluti@redvision.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: brittani.barrineau@innovativeharbor.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: frannie.rodriguez@vividtech.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: cathryn.herres@skycraft.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: lydia.goeldner@quantumvision.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+FJI
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: melesa.polkinghorn@swifttech_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: shelli.leerar@clearpath_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: crista.lofwall@swiftcore.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: karol.sieve@futurepath.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: bernetta.townes@visionedge.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: edna.zall@horizonflow.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+KEN
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: angelia.gavalis@everrise_enterprises.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: gratiana.waybright@novafusion.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: yoshiko.helmen@futurelabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: jessamyn.janosek@apexvision.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: terry.hidden@techrise.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: lurline.mintos@elevatetech.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: nissie.heirendt@brighttech_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: bobbette.binegar@nexttech_prime.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: nariko.dinunzio@edgelabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+BRA
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: charissa.mikell@edgeprime.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: benni.bisard@quantumcraft.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: rozelle.sievel@corestream.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: rivy.fabello@elevateworks.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+ETH
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: druci.orantes@nextvision.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: coreen.evanko@swiftpath.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: clare.filion@skyward_innovations.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: roseline.magalski@futuretech.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: leanna.mair@vanguard_systems.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: ernesta.schofield@starbridge.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: kaia.hori@brighttide_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+CHE
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: clementine.cornford@cleverspark.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: sabra.lebon@starbridge.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: dannie.masaitis@fusionx.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: la verne.blau@purefusion_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: sondra.decurtis@innovationshift.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+VNM
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: gwendolyn.bartelson@visionlabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: francine.hartzog@futurelabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: leisha.meche@nextwave_tech.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+ECU
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: lila.theinert@swiftvision.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: issi.pleau@quantum_solutions.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: vivyan.mirarchi@technex.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: elianore.warde@futureharbor.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: carolina.fanara@fusionpath.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: sharleen.yzquierdo@futuruslabs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+###ENTRADA###
+SGP
+###SALIDA###
+Ingrese el codigo del pais: from: the_juan@company.cl
+to: krista.iller@techstream_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: leoine.hartung@novapath.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: flori.cassisse@vividprime.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: nance.pierrot@technest.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: tiffi.wurgler@innovatecraft.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: kirstyn.corral@fusioncore_labs.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.
+
+from: the_juan@company.cl
+to: tasia.fermo@quantum_solutions.com
+subject: Atrazo!
+body: Apurense ph!
+Besitos cordiales,
+El Juan.

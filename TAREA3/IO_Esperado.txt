@@ -1,0 +1,50 @@
+###ENTRADA###
+re4 la4 fa4 re4 do#4 re4 mi4 fa4 fa4 sol4 fa4 mi4
+5
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: la4 mi5 do5 la4 sol#4 la4 si4 do5 do5 re5 do5 si4
+###ENTRADA###
+la4 mi5 do5 la4 sol#4 la4 si4 do5 do5 re5 do5 si4
+4
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: re5 la5 fa5 re5 do#5 re5 mi5 fa5 fa5 sol5 fa5 mi5
+###ENTRADA###
+mib3 sol3 mib3 sib2 mib3 sol3 sib3 mib3 re3 do#3 re3 re3 mib3
+3m
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: fa#3 la#3 fa#3 do#3 fa#3 la#3 do#4 fa#3 fa3 mi3 fa3 fa3 fa#3 
+###ENTRADA###
+do5 do6 do6 sol5 sol5 mib5 mib5 do5 do5 do6 do6 sol5 sol5 mib5 mib5 do5 do5 do6 sib5 lab5 sol5 fa5 mib5 re5 do5 do6 sib5 lab5 sol5 fa5 mib5 re5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do4
+2m
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: do#5 do#6 do#6 sol#5 sol#5 mi5 mi5 do#5 do#5 do#6 do#6 sol#5 sol#5 mi5 mi5 do#5 do#5 do#6 si5 la5 sol#5 fa#5 mi5 re#5 do#5 do#6 si5 la5 sol#5 fa#5 mi5 re#5 do#5 sol#4 do#5 mi5 do#5 sol#4 do#5 mi5 do#5 sol#4 do#5 mi5 do#5 sol#4 do#5 mi5 do#4
+###ENTRADA###
+sol3 la3 si3 do4 re4 mi4 fa#4 sol4 fa#4 mi4 re4 do4 si3 la3 sol3
+2
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: la3 si3 do#4 re4 mi4 fa#4 sol#4 la4 sol#4 fa#4 mi4 re4 do#4 si3 la3
+###ENTRADA###
+sol2 re3 si3 la3 si3 re3 si3 re3
+T
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: do#3 sol#3 fa4 re#4 fa4 sol#3 fa4 sol#3
+###ENTRADA###
+sib1 mib2 mib2 mib2 fa2 mib2 re2 mib2 sib1 mib2 mib2 fa2 lab2 sol2 lab2 sib2 sol2 mib2 fa2 sol2 mib2 do2 re2 mib2 fa2 fa2 mib2 re2 do2 sib1
+7
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: la2 re3 re3 re3 mi3 re3 do#3 re3 la2 re3 re3 mi3 sol3 fa#3 sol3 la3 fa#3 re3 mi3 fa#3 re3 si2 do#3 re3 mi3 mi3 re3 do#3 si2 la2
+###ENTRADA###
+sib1 mib2 mib2 mib2 fa2 mib2 re2 mib2 sib1 mib2 mib2 fa2 lab2 sol2 lab2 sib2 sol2 mib2 fa2 sol2 mib2 do2 re2 mib2 fa2 fa2 mib2 re2 do2 sib1
+7m
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: sol#2 do#3 do#3 do#3 re#3 do#3 do3 do#3 sol#2 do#3 do#3 re#3 fa#3 fa3 fa#3 sol#3 fa3 do#3 re#3 fa3 do#3 la#2 do3 do#3 re#3 re#3 do#3 do3 la#2 sol#2
+###ENTRADA###
+sol2 re3 si3 la3 si3 re3 si3 re3
+6m
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: re#3 la#3 sol4 fa4 sol4 la#3 sol4 la#3
+###ENTRADA###
+do5 do6 do6 sol5 sol5 mib5 mib5 do5 do5 do6 do6 sol5 sol5 mib5 mib5 do5 do5 do6 sib5 lab5 sol5 fa5 mib5 re5 do5 do6 sib5 lab5 sol5 fa5 mib5 re5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do5 sol4 do5 mib5 do4
+8
+###SALIDA###
+Ingrese la melodía: Ingrese el intervalo: do6 do7 do7 sol6 sol6 re#6 re#6 do6 do6 do7 do7 sol6 sol6 re#6 re#6 do6 do6 do7 la#6 sol#6 sol6 fa6 re#6 re6 do6 do7 la#6 sol#6 sol6 fa6 re#6 re6 do6 sol5 do6 re#6 do6 sol5 do6 re#6 do6 sol5 do6 re#6 do6 sol5 do6 re#6 do5

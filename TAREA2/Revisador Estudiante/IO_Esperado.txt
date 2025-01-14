@@ -1,0 +1,296 @@
+###ENTRADA###
+1
+mapa0.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 26,15
+Ha logrado salir!
+###ENTRADA###
+1
+mapa1.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 4,4
+Ha logrado salir!
+###ENTRADA###
+1
+mapa2.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,25
+Ha logrado salir!
+###ENTRADA###
+1
+mapa3.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 17,11
+###ENTRADA###
+1
+mapa4.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 6,28
+###ENTRADA###
+1
+mapa5.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 21,11
+Ha logrado salir!
+###ENTRADA###
+1
+mapa6.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 9,5
+Ha logrado salir!
+###ENTRADA###
+1
+mapa7.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 3,7
+###ENTRADA###
+1
+mapa8.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,16
+###ENTRADA###
+1
+mapa9.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 11,10
+Ha logrado salir!
+###ENTRADA###
+2
+mapa0.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 26,15
+Ha logrado salir!
+###ENTRADA###
+2
+mapa1.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 4,4
+Ha logrado salir!
+###ENTRADA###
+2
+mapa2.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,25
+Ha logrado salir!
+###ENTRADA###
+2
+mapa3.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 17,11
+###ENTRADA###
+2
+mapa4.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 6,28
+###ENTRADA###
+2
+mapa5.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 19,9
+###ENTRADA###
+2
+mapa6.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 9,5
+Ha logrado salir!
+###ENTRADA###
+2
+mapa7.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 3,7
+###ENTRADA###
+2
+mapa8.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,16
+###ENTRADA###
+2
+mapa9.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 11,10
+Ha logrado salir!
+###ENTRADA###
+3
+mapa0.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 26,15
+Ha logrado salir!
+Puntaje: 10200
+###ENTRADA###
+3
+mapa1.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 4,4
+Ha logrado salir!
+Puntaje: 2100
+###ENTRADA###
+3
+mapa2.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,25
+Ha logrado salir!
+Puntaje: 22200
+###ENTRADA###
+3
+mapa3.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 17,11
+Puntaje: 20000
+###ENTRADA###
+3
+mapa4.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 6,28
+Puntaje: 11100
+###ENTRADA###
+3
+mapa5.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 19,9
+Puntaje: 12300
+###ENTRADA###
+3
+mapa6.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 9,5
+Ha logrado salir!
+Puntaje: 20100
+###ENTRADA###
+3
+mapa7.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 3,7
+Puntaje: 100
+###ENTRADA###
+3
+mapa8.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 14,16
+Puntaje: 32100
+###ENTRADA###
+3
+mapa9.txt
+###SALIDA###
+Menu
+1 Solo recorrer.
+2 Recorrer considerando puertas.
+3 Considerar puertas y puntos.
+Ingrese el numero de su opcion: Ingrese el nombre del archivo: Coordenadas: 11,10
+Ha logrado salir!
+Puntaje: 12200
