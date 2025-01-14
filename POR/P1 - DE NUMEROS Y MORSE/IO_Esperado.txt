@@ -1,0 +1,41 @@
+###ENTRADA###
+-.------.---------.--------.-
+###SALIDA###
+Ingrese mensaje: El numero enviado es: 0101
+###ENTRADA###
+-.-.----..---...------.-
+###SALIDA###
+Ingrese mensaje: El numero enviado es: 123
+###ENTRADA###
+-.-.----..---.-.------.-
+###SALIDA###
+Ingrese mensaje: Se encontraron caracteres no reconocidos
+###ENTRADA###
+---.----..---..---------
+###SALIDA###
+Ingrese mensaje: El mensaje no comienza correctamente
+El mensaje no finaliza correctamente
+###ENTRADA###
+---.----..---..-------.-
+###SALIDA###
+Ingrese mensaje: El mensaje no comienza correctamente
+###ENTRADA###
+-.-.----..---..---------
+###SALIDA###
+Ingrese mensaje: El mensaje no finaliza correctamente
+###ENTRADA###
+-.-.----..---.-------.-
+###SALIDA###
+Ingrese mensaje: Largo del mensaje incorrecto
+###ENTRADA###
+-.--....----.----.-
+###SALIDA###
+Ingrese mensaje: El numero enviado es: 69
+###ENTRADA###
+-.--....-....-....----.-
+###SALIDA###
+Ingrese mensaje: El numero enviado es: 666
+###ENTRADA###
+-.--.-.--....----.----.-
+###SALIDA###
+Ingrese mensaje: Se encontraron caracteres no reconocidos

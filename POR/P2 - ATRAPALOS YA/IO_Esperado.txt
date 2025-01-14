@@ -1,0 +1,336 @@
+###ENTRADA###
+Pikachu
+Venusaur
+Charizard
+Blastoise
+Lapras
+Snorlax
+Pidgeot
+Alakazam
+Rhydon
+Arcanine
+Exeggutor
+Blastoise
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Pikachu vs Pidgeot
+Vencedor: Pikachu
+Combate 2 - Pikachu vs Alakazam
+Vencedor: Alakazam
+Combate 3 - Venusaur vs Alakazam
+Vencedor: Alakazam
+Combate 4 - Charizard vs Alakazam
+Vencedor: Alakazam
+Combate 5 - Blastoise vs Alakazam
+Vencedor: Alakazam
+Combate 6 - Lapras vs Alakazam
+Vencedor: Alakazam
+Combate 7 - Snorlax vs Alakazam
+Vencedor: Alakazam
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Pidgeot, Alakazam, Rhydon, Arcanine, Exeggutor, Blastoise
+###ENTRADA###
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+Metapod
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Metapod vs Metapod
+Vencedor: Metapod
+Combate 2 - Metapod vs Metapod
+Vencedor: Metapod
+Combate 3 - Metapod vs Metapod
+Vencedor: Metapod
+Combate 4 - Metapod vs Metapod
+Vencedor: Metapod
+Combate 5 - Metapod vs Metapod
+Vencedor: Metapod
+Combate 6 - Metapod vs Metapod
+Vencedor: Metapod
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Metapod, Metapod, Metapod, Metapod, Metapod, Metapod
+###ENTRADA###
+Pikachu
+Caterpie
+Pidgeotto
+Bulbasaur
+Charmander
+Squirtle
+Squirtle
+Dodrio
+Arcanine
+Nidoking
+Scyther
+Haunter
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Pikachu vs Squirtle
+Vencedor: Pikachu
+Combate 2 - Pikachu vs Dodrio
+Vencedor: Pikachu
+Combate 3 - Pikachu vs Arcanine
+Vencedor: Arcanine
+Combate 4 - Caterpie vs Arcanine
+Vencedor: Arcanine
+Combate 5 - Pidgeotto vs Arcanine
+Vencedor: Arcanine
+Combate 6 - Bulbasaur vs Arcanine
+Vencedor: Arcanine
+Combate 7 - Charmander vs Arcanine
+Vencedor: Arcanine
+Combate 8 - Squirtle vs Arcanine
+Vencedor: Squirtle
+Combate 9 - Squirtle vs Nidoking
+Vencedor: Squirtle
+Combate 10 - Squirtle vs Scyther
+Vencedor: Squirtle
+Combate 11 - Squirtle vs Haunter
+Vencedor: Haunter
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Squirtle, Dodrio, Arcanine, Nidoking, Scyther, Haunter
+###ENTRADA###
+Fearow
+Pikachu
+Machoke
+Seadra
+Omanyte
+Oddish
+Exeggutor
+Squirtle
+Kabuto
+Ivysaur
+Hypno
+Kangaskhan
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Fearow vs Exeggutor
+Vencedor: Fearow
+Combate 2 - Fearow vs Squirtle
+Vencedor: Squirtle
+Combate 3 - Pikachu vs Squirtle
+Vencedor: Pikachu
+Combate 4 - Pikachu vs Kabuto
+Vencedor: Pikachu
+Combate 5 - Pikachu vs Ivysaur
+Vencedor: Ivysaur
+Combate 6 - Machoke vs Ivysaur
+Vencedor: Ivysaur
+Combate 7 - Seadra vs Ivysaur
+Vencedor: Ivysaur
+Combate 8 - Omanyte vs Ivysaur
+Vencedor: Ivysaur
+Combate 9 - Oddish vs Ivysaur
+Vencedor: Ivysaur
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Exeggutor, Squirtle, Kabuto, Ivysaur, Hypno, Kangaskhan
+###ENTRADA###
+Pidgeotto
+Drowzee
+Tauros
+Bellsprout
+Fearow
+Dratini
+Nidoking
+Porygon
+Charmeleon
+Nidorina
+Persian
+Rhyhorn
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Pidgeotto vs Nidoking
+Vencedor: Pidgeotto
+Combate 2 - Pidgeotto vs Porygon
+Vencedor: Pidgeotto
+Combate 3 - Pidgeotto vs Charmeleon
+Vencedor: Charmeleon
+Combate 4 - Drowzee vs Charmeleon
+Vencedor: Charmeleon
+Combate 5 - Tauros vs Charmeleon
+Vencedor: Charmeleon
+Combate 6 - Bellsprout vs Charmeleon
+Vencedor: Charmeleon
+Combate 7 - Fearow vs Charmeleon
+Vencedor: Charmeleon
+Combate 8 - Dratini vs Charmeleon
+Vencedor: Charmeleon
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Nidoking, Porygon, Charmeleon, Nidorina, Persian, Rhyhorn
+###ENTRADA###
+Venusaur
+Lickitung
+Farfetch'd
+Aerodactyl
+Parasect
+Omanyte
+Poliwag
+Poliwhirl
+Golduck
+Cubone
+Exeggcute
+Bulbasaur
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Venusaur vs Poliwag
+Vencedor: Venusaur
+Combate 2 - Venusaur vs Poliwhirl
+Vencedor: Venusaur
+Combate 3 - Venusaur vs Golduck
+Vencedor: Venusaur
+Combate 4 - Venusaur vs Cubone
+Vencedor: Venusaur
+Combate 5 - Venusaur vs Exeggcute
+Vencedor: Exeggcute
+Combate 6 - Lickitung vs Exeggcute
+Vencedor: Exeggcute
+Combate 7 - Farfetch'd vs Exeggcute
+Vencedor: Farfetch'd
+Combate 8 - Farfetch'd vs Bulbasaur
+Vencedor: Farfetch'd
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 1
+Con su team de: Venusaur, Lickitung, Farfetch'd, Aerodactyl, Parasect, Omanyte
+###ENTRADA###
+Bulbasaur
+Arcanine
+Gengar
+Snorlax
+Alakazam
+Dragonite
+Pikachu
+Charizard
+Blastoise
+Butterfree
+Pidgeot
+Machamp
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Bulbasaur vs Pikachu
+Vencedor: Bulbasaur
+Combate 2 - Bulbasaur vs Charizard
+Vencedor: Charizard
+Combate 3 - Arcanine vs Charizard
+Vencedor: Arcanine
+Combate 4 - Arcanine vs Blastoise
+Vencedor: Blastoise
+Combate 5 - Gengar vs Blastoise
+Vencedor: Blastoise
+Combate 6 - Snorlax vs Blastoise
+Vencedor: Blastoise
+Combate 7 - Alakazam vs Blastoise
+Vencedor: Blastoise
+Combate 8 - Dragonite vs Blastoise
+Vencedor: Blastoise
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Pikachu, Charizard, Blastoise, Butterfree, Pidgeot, Machamp
+###ENTRADA###
+Charizard
+Arcanine
+Magmar
+Flareon
+Rapidash
+Ninetales
+Blastoise
+Gyarados
+Lapras
+Vaporeon
+Seadra
+Starmie
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Charizard vs Blastoise
+Vencedor: Blastoise
+Combate 2 - Arcanine vs Blastoise
+Vencedor: Blastoise
+Combate 3 - Magmar vs Blastoise
+Vencedor: Blastoise
+Combate 4 - Flareon vs Blastoise
+Vencedor: Blastoise
+Combate 5 - Rapidash vs Blastoise
+Vencedor: Blastoise
+Combate 6 - Ninetales vs Blastoise
+Vencedor: Blastoise
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Blastoise, Gyarados, Lapras, Vaporeon, Seadra, Starmie
+###ENTRADA###
+Butterfree
+Beedrill
+Parasect
+Venomoth
+Scyther
+Pinsir
+Onix
+Rhydon
+Kabutops
+Omastar
+Golem
+Aerodactyl
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Butterfree vs Onix
+Vencedor: Onix
+Combate 2 - Beedrill vs Onix
+Vencedor: Onix
+Combate 3 - Parasect vs Onix
+Vencedor: Parasect
+Combate 4 - Parasect vs Rhydon
+Vencedor: Parasect
+Combate 5 - Parasect vs Kabutops
+Vencedor: Kabutops
+Combate 6 - Venomoth vs Kabutops
+Vencedor: Kabutops
+Combate 7 - Scyther vs Kabutops
+Vencedor: Kabutops
+Combate 8 - Pinsir vs Kabutops
+Vencedor: Kabutops
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Onix, Rhydon, Kabutops, Omastar, Golem, Aerodactyl
+###ENTRADA###
+Gengar
+Weezing
+Venusaur
+Alakazam
+Hypno
+Slowbro
+Pikachu
+Electrode
+Raichu
+Exeggutor
+Victreebel
+Vileplume
+###SALIDA###
+Usuario 1 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Usuario 2 - Ingrese su equipo Pokemon
+1: 2: 3: 4: 5: 6: Combate 1 - Gengar vs Pikachu
+Vencedor: Pikachu
+Combate 2 - Weezing vs Pikachu
+Vencedor: Pikachu
+Combate 3 - Venusaur vs Pikachu
+Vencedor: Venusaur
+Combate 4 - Venusaur vs Electrode
+Vencedor: Electrode
+Combate 5 - Alakazam vs Electrode
+Vencedor: Electrode
+Combate 6 - Hypno vs Electrode
+Vencedor: Electrode
+Combate 7 - Slowbro vs Electrode
+Vencedor: Electrode
+EL VENCEDOR DE ESTA BATALLA ES: Usuario 2
+Con su team de: Pikachu, Electrode, Raichu, Exeggutor, Victreebel, Vileplume

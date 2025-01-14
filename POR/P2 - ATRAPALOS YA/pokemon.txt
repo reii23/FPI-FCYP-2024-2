@@ -1,0 +1,151 @@
+Bulbasaur - Planta / Veneno
+Ivysaur - Planta / Veneno
+Venusaur - Planta / Veneno
+Charmander - Fuego
+Charmeleon - Fuego
+Charizard - Fuego / Volador
+Squirtle - Agua
+Wartortle - Agua
+Blastoise - Agua
+Caterpie - Bicho
+Metapod - Bicho
+Butterfree - Bicho / Volador
+Weedle - Bicho / Veneno
+Kakuna - Bicho / Veneno
+Beedrill - Bicho / Veneno
+Pidgey - Normal / Volador
+Pidgeotto - Normal / Volador
+Pidgeot - Normal / Volador
+Rattata - Normal
+Raticate - Normal
+Spearow - Normal / Volador
+Fearow - Normal / Volador
+Ekans - Veneno
+Arbok - Veneno
+Pikachu - Electrico
+Raichu - Electrico
+Sandshrew - Tierra
+Sandslash - Tierra
+Nidoran♀ - Veneno
+Nidorina - Veneno
+Nidoqueen - Veneno / Tierra
+Nidoran♂ - Veneno
+Nidorino - Veneno
+Nidoking - Veneno / Tierra
+Clefairy - Hada
+Clefable - Hada
+Vulpix - Fuego
+Ninetales - Fuego
+Jigglypuff - Normal / Hada
+Wigglytuff - Normal / Hada
+Zubat - Veneno / Volador
+Golbat - Veneno / Volador
+Oddish - Planta / Veneno
+Gloom - Planta / Veneno
+Vileplume - Planta / Veneno
+Paras - Bicho / Planta
+Parasect - Bicho / Planta
+Venonat - Bicho / Veneno
+Venomoth - Bicho / Veneno
+Diglett - Tierra
+Dugtrio - Tierra
+Meowth - Normal
+Persian - Normal
+Psyduck - Agua
+Golduck - Agua
+Mankey - Lucha
+Primeape - Lucha
+Growlithe - Fuego
+Arcanine - Fuego
+Poliwag - Agua
+Poliwhirl - Agua
+Poliwrath - Agua / Lucha
+Abra - Psiquico
+Kadabra - Psiquico
+Alakazam - Psiquico
+Machop - Lucha
+Machoke - Lucha
+Machamp - Lucha
+Bellsprout - Planta / Veneno
+Weepinbell - Planta / Veneno
+Victreebel - Planta / Veneno
+Tentacool - Agua / Veneno
+Tentacruel - Agua / Veneno
+Geodude - Roca / Tierra
+Graveler - Roca / Tierra
+Golem - Roca / Tierra
+Ponyta - Fuego
+Rapidash - Fuego
+Slowpoke - Agua / Psiquico
+Slowbro - Agua / Psiquico
+Magnemite - Electrico / Acero
+Magneton - Electrico / Acero
+Farfetch'd - Normal / Volador
+Doduo - Normal / Volador
+Dodrio - Normal / Volador
+Seel - Agua
+Dewgong - Agua / Hielo
+Grimer - Veneno
+Muk - Veneno
+Shellder - Agua
+Cloyster - Agua / Hielo
+Gastly - Fantasma / Veneno
+Haunter - Fantasma / Veneno
+Gengar - Fantasma / Veneno
+Onix - Roca / Tierra
+Drowzee - Psiquico
+Hypno - Psiquico
+Krabby - Agua
+Kingler - Agua
+Voltorb - Electrico
+Electrode - Electrico
+Exeggcute - Planta / Psiquico
+Exeggutor - Planta / Psiquico
+Cubone - Tierra
+Marowak - Tierra
+Hitmonlee - Lucha
+Hitmonchan - Lucha
+Lickitung - Normal
+Koffing - Veneno
+Weezing - Veneno
+Rhyhorn - Tierra / Roca
+Rhydon - Tierra / Roca
+Chansey - Normal
+Tangela - Planta
+Kangaskhan - Normal
+Horsea - Agua
+Seadra - Agua
+Goldeen - Agua
+Seaking - Agua
+Staryu - Agua
+Starmie - Agua / Psiquico
+Mr. Mime - Psiquico / Hada
+Scyther - Bicho / Volador
+Jynx - Hielo / Psiquico
+Electabuzz - Electrico
+Magmar - Fuego
+Pinsir - Bicho
+Tauros - Normal
+Magikarp - Agua
+Gyarados - Agua / Volador
+Lapras - Agua / Hielo
+Ditto - Normal
+Eevee - Normal
+Vaporeon - Agua
+Jolteon - Electrico
+Flareon - Fuego
+Porygon - Normal
+Omanyte - Roca / Agua
+Omastar - Roca / Agua
+Kabuto - Roca / Agua
+Kabutops - Roca / Agua
+Aerodactyl - Roca / Volador
+Snorlax - Normal
+Articuno - Hielo / Volador
+Zapdos - Electrico / Volador
+Moltres - Fuego / Volador
+Dratini - Dragon
+Dragonair - Dragon
+Dragonite - Dragon / Volador
+Mewtwo - Psiquico
+Mew - Psiquico

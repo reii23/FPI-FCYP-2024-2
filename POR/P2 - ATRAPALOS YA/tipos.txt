@@ -1,0 +1,18 @@
+Normal: Debil contra Lucha
+Fuego: Debil contra Agua, Tierra, Roca
+Agua: Debil contra Planta, Electrico
+Planta: Debil contra Fuego, Hielo, Veneno, Volador, Bicho
+Electrico: Debil contra Tierra
+Hielo: Debil contra Fuego, Lucha, Roca, Acero
+Lucha: Debil contra Volador, Psiquico, Hada
+Veneno: Debil contra Tierra, Psiquico
+Tierra: Debil contra Agua, Planta, Hielo
+Volador: Debil contra Electrico, Hielo, Roca
+Psiquico: Debil contra Bicho, Fantasma, Siniestro
+Bicho: Debil contra Fuego, Volador, Roca
+Roca: Debil contra Agua, Planta, Lucha, Tierra, Acero
+Fantasma: Debil contra Fantasma, Siniestro
+Dragon: Debil contra Hada, Hielo
+Siniestro: Debil contra Lucha, Hada, Bicho
+Acero: Debil contra Fuego, Lucha, Tierra
+Hada: Debil contra Veneno, Acero
